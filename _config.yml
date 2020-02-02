@@ -1,5 +1,8 @@
 remote_theme: fongandrew/hydeout
 # Setup
 title:            Yulim Lee
-tagline:          ?testing? 
+tagline:          ?testing? # i have no idea where this pops up
 description:      My Engineering Portfolio
+
+url:              https://https://96yrlee.github.io/
+baseurl:          '/home'
