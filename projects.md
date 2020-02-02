@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Projects
+category: My Projects
 ---
 
 #Chrono List of Projects
