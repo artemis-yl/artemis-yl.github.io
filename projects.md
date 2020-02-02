@@ -2,7 +2,7 @@
 layout: category
 title: Projects
 
-sidebar_link: true
+
 ---
 
 #Chrono List of Projects
