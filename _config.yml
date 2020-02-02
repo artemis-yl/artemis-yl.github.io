@@ -12,11 +12,9 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   
-sidebar_home_link:  true
+sidebar_home_link:  true  #this creates a HOME sidebar link that goes back to the main/home page aka Index
 
-# Links/SM
-github_username:  96yrlee     #as if my web address doesnt make that obvious
-linkedin_username: yulim-lee-24b227131
+
 
 
 
