@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Projects
-category: My Projects
+
 sidebar_link: true
 ---
 
