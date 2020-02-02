@@ -1,9 +1,22 @@
 remote_theme: fongandrew/hydeout
+
 # Setup
 title:            Yulim Lee
 tagline:          ?testing? # i have no idea where this pops up
 description:      My Engineering Portfolio
 
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  
+sidebar_home_link:  true
+
 # Links/SM
 github_username:  96yrlee     #as if my web address doesnt make that obvious
 linkedin_username: yulim-lee-24b227131
+
+
+
