@@ -1,5 +1,5 @@
 ---
-layout: catergory
+layout: category
 title: Projects
 ---
 
