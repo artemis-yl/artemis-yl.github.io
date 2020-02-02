@@ -1,6 +1,7 @@
 ---
 layout: post
-title: test project page
+title: "test project page"
+sub_title: "where does this show??"
 categories:
   - Projects
 ---
