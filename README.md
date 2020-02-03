@@ -47,6 +47,9 @@ Posts are pages that get sorted into categories.
     categories:
     - NAME_OF-CATEGORY
      ```
+### Posts
+**Comments**
+I removed comments from appearing on Post type pages by making the ```comments.html``` and leaving it blank.
 
 ## Welcome to GitHub Pages
 
