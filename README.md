@@ -1,5 +1,17 @@
 ## Personal Notes on How to Do This
 
+### How to comment
+Found this on Stackflow. but use this syntax:
+```
+(empty line)
+[comment]: # (Type comment msg here)
+```
+Tested with the space below:
+
+[comment]: #( AAAAAAAAAAAAAAAAAAAAA PLS WORK)
+
+There should be nothing.
+
 ### Side Bar
 **Bottom Icons and their links**
 Go to  ```_includes/custom-icon-links.html```
