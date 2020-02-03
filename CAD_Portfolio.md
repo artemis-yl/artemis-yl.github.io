@@ -2,7 +2,7 @@
 layout: page
 title: CAD Portfolio
 sidebar_link: true
-sidebar_order: 3
+sidebar_sort_order: 3
 ---
 
 Let's have a place to show all the CAD i have done. maybe some FEAs if I have any.
