@@ -23,9 +23,9 @@ Replace ICON_MAGE_NAME with the name of the icon image file. Make sure the file 
 **Order of Navigation**
 Got to ```_includes/sidebar-nav-links.html```
 
-The last three determine if project pages or normal pages go first.
+The last three lines determine if project pages or normal pages or icons go first.
 
-The order of projects and pages themselves is determined by the ```sidebar_sort_order: <#>``` 
+The order of projects and pages themselves is determined by the ```sidebar_sort_order: <#>``` which is in the .md file itself. 
 Basically, 1 goes first.
 
 **Colour and Fonts and Others**
