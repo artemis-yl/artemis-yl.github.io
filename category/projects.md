@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Projects
+sidebar_sort_order: 2
 ---
 
 ## Chrono List of Projects
