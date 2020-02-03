@@ -5,9 +5,12 @@
 Go to  ```_includes/custom-icon-links.html```
 
 Copy code block 
+
 Replace NAME with appropriate name for the link (ex. twitter)
+
 Replace SITE_LINK with the start of the address (ex. https: //wwww.twitter.com/). 
-    Rename NAME_NAME. This variable can be found in config.yml Note that {{<>}} can be removed and just have the whole link
+    Rename NAME_NAME. This variable can be found in config.yml Note that {{<>}} can be removed and just have the whole link.
+
 Replace ICON_MAGE_NAME with the name of the icon image file. Make sure the file is in the same folder. 
     If I get too many icons, I may make a new folder and need to readdress these to /svg/<>.svg
 ```
@@ -32,8 +35,11 @@ Go to ```assets/css/main.scss``` and name the variables. Check out the original 
 
 **Categories vs Pages vs Posts**
 Pages are just normal pages.
+
 Categories group pages that are 'tagged' to belong within that category with 
+
 Posts are pages that get sorted into categories.
+  
   In order for posts to be collected, they MUST be:
   - named with YYYY-MM-DD-title.md format
   - tagged with this additional in the top
