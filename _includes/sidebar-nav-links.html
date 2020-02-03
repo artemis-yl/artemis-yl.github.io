@@ -13,8 +13,9 @@
     `sidebar_link: true` in the front-matter. See readme for usage.
   {% endcomment %}
 
-  {% include category-links.html %}
+<!-- the order of these 3 lines determine the order of side bar (i.e. pages > cats > icons) -->
   {% include page-links.html %}
-  
+  {% include category-links.html %}
+   
   {% include custom-nav-links.html %}
 </nav>
