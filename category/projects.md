@@ -14,7 +14,7 @@ ex)
 ### [test project page](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) <sub> Jan. 01 - May 31 </sub>
 > This is a test page for projects. A short description of what it was and what *I did*
 
-### [Test Format](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) <span style="font-size:5 pt;">Jan. 01 - May 31</span>
+### [Test Format](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) <span style="font-size:1em;">Jan. 01 - May 31</span>
 > This is a test page for projects. A short description of what it was and what *I did*
 
 <p>&nbsp;</p>
