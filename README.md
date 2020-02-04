@@ -93,6 +93,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Additional Lines
+```
+<p>&nbsp;</p> 
+``` 
+for all, specifically between elements such as bullet points
+```&nbsp;``` for general. 
+Repeat it for each additional line.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
