@@ -6,19 +6,17 @@ title: HOME
 # Hi, I'm Yulim
 I am a recent Mechanical Engineering graduate from Univeristy of Toronto. I minored in Robotics & Mechatronics, and also specialized in Solid Mechanics.
 
+I have interned for a year with Isowater, creating CAD models and building chemical process systems.
+
+[comment]: # ( More details on what i was at iso?? )
+
 As a U of T student, I have worked with:
 - Blue Sky Solar Racing to fabricate the carbon fiber chassis and to machine structs.
 - Formula SAE to machine various parts.
 
-I have also interned for a year with Isowater creating CAD models and building chemical process systems.
-
-
-[comment]: # ( More details on what i was at iso?? )
-
-
 Checkout my [Portfolio](/CAD_Portfolio.md) to see the models and drawings I have made. 
 
-Otherwise look over the various [Projects](category/projects.md) I have done for more detailed descriptions of my past work.
+Otherwise look over at my [Projects](category/projects.md) for more detailed descriptions of my past work.
 
 
 [comment]: # ( Add link to outside???? )
