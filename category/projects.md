@@ -11,10 +11,11 @@ Posts will get auto linked w/ a date I can make. However, I cannot make a blurb 
 I might convert to ```layout:page``` in order to do that and just link it manually. 
 ex)
 
-## [test project page](/_posts/2020-02-02-testPostProject.md)
+### [test project page](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) #### Jan. 01 - May 31
 
-This is a test page for projects.
+This is a test page for projects. A short description of what it was and what *I did*
 
 
 OR I'll keep this and do the blurb, with additional links at the end. Might edit how categories work if that occurs.
 
+## Links to all Projects
