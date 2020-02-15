@@ -16,10 +16,16 @@ God, I wish I asked if I could copy some models i made for Isowater. That shippi
 ### SolarShip Capstone: Airship Regulator Valve Concept
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
+Isometric View: Gif
+
+Cutaway view
+
 ### Case for motor controller
 Made a case, with the goal of making physical copy for 3D printing.
 
-Model.
+Assembled
+Lid
+Base
 
 Physical Copy.
 
