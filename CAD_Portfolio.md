@@ -1,19 +1,13 @@
 ---
 layout: page
-title: Portfolio
+title: CAD Portfolio
 sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-Let's have a place to show all the CAD i have done. maybe some FEAs if I have any.
-Images and gifs (for animations)
-Short blurbs explaining what, when, where, why. Link to project pages if applicable. 
+Here are some 3D Models and engineering drawings I have made.
 
-For now just one page - if it gets too long, see if I can do an index thingy somehow.
-
-God, I wish I asked if I could copy some models i made for Isowater. That shipping container and condensor would've rocked.
-
-### SolarShip Capstone: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
+### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
 Isometric View: Gif TEST
@@ -32,6 +26,8 @@ Lid
 Base
 
 Physical Copy.
+
+<p>&nbsp;</p> 
 
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
