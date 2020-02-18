@@ -18,7 +18,7 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 Isometric View: Gif
 TEST
-<a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Video from Gyazo" width="625" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
+<a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Animation" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
 Cutaway view
 
