@@ -40,3 +40,11 @@ I assembled all the parts. I also made the Z-Arm frame, and the rotating platfor
 2 Different Planetary gears I designed and made.
 
 Printed
+
+### Mechanical Mechanism Studies
+
+Scotch Yoke
+
+Planetary Gearbox
+
+Screwdriver Brake Button
