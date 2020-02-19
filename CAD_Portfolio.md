@@ -13,14 +13,17 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 #### Isometric Views, Fully Open and 45 Degree Open:
 
 ![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1 assem full open.PNG)
+
 ![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1 45 open back view.PNG)
 
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
 #### Exploded Views:
+
 ![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.PNG)
 
 #### Close up on Spring and Modified Body:
+
 ![SolarShip Inventor Rendered Model Close Up](/_images/portfolio/ss1 spring close up.JPG)
 
 <p>&nbsp;</p> 
@@ -44,9 +47,13 @@ Made a case, with the goal of making physical copy for 3D printing.
 #### Physical Copy.
 
 ![Printed Case Assembled](/_images/portfolio/mc printed case assem.PNG)
+
 ![Printed Case Base](/_images/portfolio/mc printed case base.PNG)
+
 ![Printed Case Lid Top View](/_images/portfolio/mc printed case lid.PNG)
+
 ![Printed Case Bottom View](/_images/portfolio/mc printed case lid flipped.PNG)
+
 ![Printed Case with PCB it was made for](/_images/portfolio/mc printed pcb.PNG)
 
 <p>&nbsp;</p> 
@@ -55,11 +62,15 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Lap Joint Analysis <sub> Apr. 2017 </sub>
 
 #### 3D Model with Dimension:
+
 ![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint model.PNG)
 
 #### ANSYS Set Up and Results:
+
 ![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA mesh.PNG)
+
 ![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA force app.PNG)
+
 ![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA results.PNG)
 
 <p>&nbsp;</p> 
