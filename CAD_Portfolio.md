@@ -71,7 +71,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 ![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA force app.png)
 
-![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA results.png)
+![3D Soldiworks Model Lapjoint](/images/portfolio/Lap-Joint-FEA-results.png)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![3D CATIA Model Coffee Cup](/_images/portfolio/coffee-cup.png?raw=true "pls work")
+![3D CATIA Model Coffee Cup](/_images/portfolio/coffee-cup.png "pls work")
 
 <p>&nbsp;</p> 
 
