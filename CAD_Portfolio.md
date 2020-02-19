@@ -18,7 +18,7 @@ First Header | Second Header | 3rd
 :------------: | :-------------: |:---------------:
 ![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="275" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
 
-#### Exploded Views| #### Close up on Spring and Modified Body
+ Exploded Views| Close up on Spring and Modified Body
 :------------: | :-------------: 
 ![img](/images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded"){:width="325"}  | ![img](/images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up"){:width="325"} 
 
@@ -28,7 +28,7 @@ First Header | Second Header | 3rd
 ### Case for motor controller <sub> Apr. 2017 </sub>
 Made a case, with the goal of making physical copy for 3D printing.
 
-#### Assembled | #### Lid | #### Base
+Assembled | Lid | Base
 :------------: | :-------------: |:---------------:
 ![img](/images/portfolio/mcCaseAssem.PNG "3D Solidworks Model Assembled"){:width="325"}  | ![img](/images/portfolio/mcCaseLid.PNG "3D Solidworks Model Lid"){:width="325"}  | ![img](/images/portfolio/mcCaseBase.PNG "3D Solidworks Model Base"){:width="325"} 
 
