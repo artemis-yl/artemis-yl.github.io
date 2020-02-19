@@ -31,8 +31,9 @@ Made a case, with the goal of making physical copy for 3D printing.
 Assembled | Lid | Base
 :------------: | :-------------: |:---------------:
 ![img](/images/portfolio/mcCaseAssem.PNG "3D Solidworks Model Assembled"){:width="325"}  | ![img](/images/portfolio/mcCaseLid.PNG "3D Solidworks Model Lid"){:width="325"}  | ![img](/images/portfolio/mcCaseBase.PNG "3D Solidworks Model Base"){:width="325"} 
-#### Printed Assembled Case | Printed Lid | Printed Base
+Printed Assembled Case | Printed Lid | Printed Base
 ![img](/images/portfolio/mcPrintedCaseAssem.PNG "Printed Case Assembled"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseLid.PNG "Printed Case Lid Top View"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseBase.PNG "Printed Case Base"){:width="325"} 
+Base Holding PCB | Printed Lid Flipped | 
 ![img](/images/portfolio/mcPrintedCasePCB.PNG "Printed Case with PCB it was made for"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseFlipped.PNG "Printed Case Bottom View"){:width="325"}  | 
 
 
