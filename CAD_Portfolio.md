@@ -7,14 +7,14 @@ sidebar_sort_order: 3
 
 Here are some 3D Models and engineering drawings I have made.
 
-# Test 5: kramdown2
+# Test 5: kramdown3
 
 ### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
 #### Isometric Views, Fully Open and 45 Degree Open:
-![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:height="10%" width="10%"}
-![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back")
+![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="425"}
+![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="425"}
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
 #### Exploded Views:
