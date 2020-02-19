@@ -34,14 +34,13 @@ Assembled | Lid | Base
 Printed Assembled Case | Printed Lid | Printed Base
 ![img](/images/portfolio/mcPrintedCaseAssem.PNG "Printed Case Assembled"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseLid.PNG "Printed Case Lid Top View"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseBase.PNG "Printed Case Base"){:width="325"} 
 Base Holding PCB | Printed Lid Flipped | 
-![img](/images/portfolio/mcPrintedCasePCB.PNG "Printed Case with PCB it was made for"){:width="325"}  | ![img](/images/portfolio/mcPrintedCaseFlipped.PNG "Printed Case Bottom View"){:width="325"}  | 
+ | ![img](/images/portfolio/mcPrintedCaseFlipped.PNG "Printed Case Bottom View"){:width="325"}  | ![img](/images/portfolio/mcPrintedCasePCB.PNG "Printed Case with PCB it was made for"){:width="325"} 
 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ### Lap Joint Analysis <sub> Apr. 2017 </sub>
-
 
 #### 3D Model with Dimension:
 ![img](/images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
@@ -67,16 +66,15 @@ For Blue Sky Solar, a small test for the fabrication team.
 ### 3D Printer Concept for Class <sub> Sept. - Dec. 2015 </sub>
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
-#### Assembled Form
-![img](/images/portfolio/3DprinterAssem.PNG "" )
-
-#### Z-Arm
-![img](/images/portfolio/3DprinterZarm.PNG "" )
-![img](/images/portfolio/3DprinterZarmSep.PNG "" )
+Assembled | Z-Arm in Assembly | Z-Arm Isolated
+:------------: | :-------------: |:---------------:
+![img](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="550"} | ![img](/images/portfolio/3DprinterZarm.PNG "" ){:height="550"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "" ){:height="550"}
 
 #### 2 Different Planetary gears I designed and made.
-![img](/images/portfolio/3DprinterBaseGearSystem.PNG "" )
-![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "" )
+
+Gear System in Base | Gear System Tilting Base
+:------------: | :-------------: 
+![img](/images/portfolio/3DprinterBaseGearSystem.PNG "" ){:height="350"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "" ){:height="350"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
