@@ -12,9 +12,9 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1 assem full open.png)
+![SolarShip Inventor Rendered Model Front](/images/portfolio/ss1 assem full open.png)
 
-![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1 45 open back view.png)
+![SolarShip Inventor Rendered Model Back](/images/portfolio/ss1 45 open back view.png)
 
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![3D CATIA Model Coffee Cup](/images/portfolio/coffee cup.png)
+![3D CATIA Model Coffee Cup](/_images/portfolio/coffee-cup.png)
 
 <p>&nbsp;</p> 
 
