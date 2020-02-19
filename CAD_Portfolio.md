@@ -7,24 +7,26 @@ sidebar_sort_order: 3
 
 Here are some 3D Models and engineering drawings I have made.
 
+# Test 3
+
 ### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![SolarShip Inventor Rendered Model Front](/images/portfolio/ss1 assem full open.png)
+![img2](_images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front")
 
-![SolarShip Inventor Rendered Model Back](/images/portfolio/ss1 45 open back view.png)
+![img](/_images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back")
 
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
 #### Exploded Views:
 
-![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1-exploded.PNG)
+![img](/_images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded")
 
 #### Close up on Spring and Modified Body:
 
-![SolarShip Inventor Rendered Model Close Up](/images/portfolio/ss1 spring close up.jpg)
+![img](/_images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up")
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -34,27 +36,27 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### Assembled
 
-![3D Solidworks Model Assembled](/images/portfolio/mc case assem.png)
+![img](/_images/portfolio/mcCaseAssem.PNG "3D Solidworks Model Assembled")
 
 #### Lid
 
-![3D Solidworks Model Lid](/images/portfolio/mc case lid.png)
+![img](/_images/portfolio/mcCaseLid.PNG "3D Solidworks Model Lid")
 
 #### Base
 
-[3D Solidworks Model Base](/images/portfolio/mc case base.png)
+![img](/_images/portfolio/mcCaseBase.PNG "3D Solidworks Model Base")
 
 #### Physical Copy.
 
-![Printed Case Assembled](/images/portfolio/mc printed case assem.png)
+![img](/_images/portfolio/mcPrintedCaseAssem.PNG "Printed Case Assembled")
 
-![Printed Case Base](/images/portfolio/mc printed case base.png)
+![img](/_images/portfolio/mcPrintedCaseBase.PNG "Printed Case Base")
 
-![Printed Case Lid Top View](/images/portfolio/mc printed case lid.png)
+![img](/_images/portfolio/mcPrintedCaseLid.PNG "Printed Case Lid Top View")
 
-![Printed Case Bottom View](/images/portfolio/mc printed case lid flipped.png)
+![img](/_images/portfolio/mcPrintedCaseFlipped.PNG "Printed Case Bottom View")
 
-![Printed Case with PCB it was made for](/images/portfolio/mc printed pcb.png)
+![img](/_images/portfolio/mcPrintedCasePCB.PNG "Printed Case with PCB it was made for")
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -63,15 +65,15 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### 3D Model with Dimension:
 
-![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint model.png)
+![img](/_images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
 
 #### ANSYS Set Up and Results:
 
-![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA mesh.png)
+![img](/_images/portfolio/LapJointFEAmesh.PNG "3D Soldiworks Model Lapjoint Mesh")
 
-![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA force app.png)
+![img](/_images/portfolio/LapJointFEAforceApp.PNG "3D Soldiworks Model Lapjoint Force")
 
-![3D Soldiworks Model Lapjoint](/images/portfolio/Lap-Joint-FEA-results.png)
+![img](/_images/portfolio/LapJointFEAresults.PNG "3D Soldiworks Model Lapjoint Results")
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -79,23 +81,38 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![image](/_images/portfolio/coffee-cup.PNG "pls work")
+#### 3D CATIA Model Coffee Cup
+![image](/_images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model")
 
-3D CATIA Model Coffee Cup
+
 <p>&nbsp;</p> 
 
 ### 3D Printer Concept for Class <sub> Sept. - Dec. 2015 </sub>
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
-2 Different Planetary gears I designed and made.
-
-Printed
+#### 2 Different Planetary gears I designed and made.
 
 <p>&nbsp;</p> 
+<p>&nbsp;</p>
+
 ### Mechanical Mechanism Studies <sub> Nov. - Dec. 2015 </sub>
 
-Scotch Yoke
+#### Scotch Yoke
+![img](/_images/portfolio/MMSscotchyokeAssem.PNG "" )
+![img](/_images/portfolio/MMSscotchyokeAssemEngdiagram.png "" )
+![img](/_images/portfolio/MMSscotchyokeBearingSupport.PNG "" )
+![img](/_images/portfolio/MMSscotchyokeSupportEngdiagram.png "" )
+![img](/_images/portfolio/MMSscotchyokeLinear.PNG "" )
+![img](/_images/portfolio/MMSscotchyokeLineaEngdiagram.png "" )
 
-Planetary Gearbox
+#### Planetary Gearbox
+![image](/_images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 ")
+![image](/_images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 ")
+![image](/_images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined")
+![img](/_images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" )
 
-Screwdriver Brake Button
+#### Screwdriver Brake Button
+![img](/_images/portfolio/MMSscrewdriveAssem.PNG )
+![img](/_images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png "" )
+![img](/_images/portfolio/MMSscrewdriveAssemTransparant.PNG "")
+![img](/_images/portfolio/MMSscrewdriveShaftEngdiagram.png "why no render")
