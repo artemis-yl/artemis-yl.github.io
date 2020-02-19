@@ -24,4 +24,5 @@ Otherwise look over at my [Projects](category/projects.md) for more detailed des
 
 
 ### Website Progress
-This website is currently still being set up. The bare layout has been made, but no real details are here yet.
+This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only need final edits and links!
+The rest still need to be filled.
