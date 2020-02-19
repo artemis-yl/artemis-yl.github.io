@@ -20,8 +20,8 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 First Header | Second Header | 3rd
 :------------: | :-------------: |:---------------:
-![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="425"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="425"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
-Content in the first column | Content in the second column | asdsada
+![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="325" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
+
 
 
 #### Exploded Views:
