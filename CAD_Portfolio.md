@@ -42,13 +42,15 @@ Base Holding PCB | Printed Lid Flipped |
 
 ### Lap Joint Analysis <sub> Apr. 2017 </sub>
 
+
 #### 3D Model with Dimension:
 ![img](/images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
 
 #### ANSYS Set Up and Results:
-![img](/images/portfolio/LapJointFEAmesh.PNG "3D Soldiworks Model Lapjoint Mesh")
-![img](/images/portfolio/LapJointFEAforceApp.PNG "3D Soldiworks Model Lapjoint Force")
-![img](/images/portfolio/LapJointFEAresults.PNG "3D Soldiworks Model Lapjoint Results")
+
+ANSYS Mesh | ANSYS Forces | ANSYS Results
+:------------: | :-------------: |:---------------:
+![img](/images/portfolio/LapJointFEAmesh.PNG "ANSYS Model Lapjoint Mesh"){:width="325"} | ![img](/images/portfolio/LapJointFEAforceApp.PNG "ANSYS Model Lapjoint Force"){:width="325"} | ![img](/images/portfolio/LapJointFEAresults.PNG "ANSYS Model Lapjoint Results"){:width="325"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -57,7 +59,7 @@ Base Holding PCB | Printed Lid Flipped |
 For Blue Sky Solar, a small test for the fabrication team.
 
 #### 3D CATIA Model Coffee Cup
-![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model")
+![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:height="550"}
 
 
 <p>&nbsp;</p> 
