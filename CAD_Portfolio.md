@@ -12,8 +12,8 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1assemFullOpen.PNG =425x "SolarShip Inventor Rendered Model Front" )
-![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back" =425x)
+![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front" | width=425 )
+![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back" | width=100)
 
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
