@@ -12,19 +12,19 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1 assem full open.PNG)
+![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1 assem full open.png)
 
-![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1 45 open back view.PNG)
+![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1 45 open back view.png)
 
 <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="425" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a>
 
 #### Exploded Views:
 
-![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.PNG)
+![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.png)
 
 #### Close up on Spring and Modified Body:
 
-![SolarShip Inventor Rendered Model Close Up](/_images/portfolio/ss1 spring close up.JPG)
+![SolarShip Inventor Rendered Model Close Up](/_images/portfolio/ss1 spring close up.jpg)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -34,27 +34,27 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### Assembled
 
-![3D Solidworks Model Assembled](/_images/portfolio/mc case assem.PNG)
+![3D Solidworks Model Assembled](/_images/portfolio/mc case assem.png)
 
 #### Lid
 
-![3D Solidworks Model Lid](/_images/portfolio/mc case lid.PNG)
+![3D Solidworks Model Lid](/_images/portfolio/mc case lid.png)
 
 #### Base
 
-[3D Solidworks Model Base](/_images/portfolio/mc case base.PNG)
+[3D Solidworks Model Base](/_images/portfolio/mc case base.png)
 
 #### Physical Copy.
 
-![Printed Case Assembled](/_images/portfolio/mc printed case assem.PNG)
+![Printed Case Assembled](/_images/portfolio/mc printed case assem.png)
 
-![Printed Case Base](/_images/portfolio/mc printed case base.PNG)
+![Printed Case Base](/_images/portfolio/mc printed case base.png)
 
-![Printed Case Lid Top View](/_images/portfolio/mc printed case lid.PNG)
+![Printed Case Lid Top View](/_images/portfolio/mc printed case lid.png)
 
-![Printed Case Bottom View](/_images/portfolio/mc printed case lid flipped.PNG)
+![Printed Case Bottom View](/_images/portfolio/mc printed case lid flipped.png)
 
-![Printed Case with PCB it was made for](/_images/portfolio/mc printed pcb.PNG)
+![Printed Case with PCB it was made for](/_images/portfolio/mc printed pcb.png)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -63,15 +63,15 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### 3D Model with Dimension:
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint model.PNG)
+![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint model.png)
 
 #### ANSYS Set Up and Results:
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA mesh.PNG)
+![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA mesh.png)
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA force app.PNG)
+![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA force app.png)
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA results.PNG)
+![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA results.png)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![3D CATIA Model Coffee Cup](/_images/portfolio/coffee cup.PNG)
+![3D CATIA Model Coffee Cup](/_images/portfolio/coffee cup.png)
 
 <p>&nbsp;</p> 
 
