@@ -12,7 +12,7 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1assemFullOpen.PNGs=425 "SolarShip Inventor Rendered Model Front")
+![SolarShip Inventor Rendered Model Front](/_images/portfolio/ss1assemFullOpen.PNG&s=425 "SolarShip Inventor Rendered Model Front")
 
 ![SolarShip Inventor Rendered Model Back](/_images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back")
 
