@@ -14,7 +14,7 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Isometric Views, Fully Open and 45 Degree Open:
 
-![img](_images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front")
+![img2](_images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front")
 
 ![img](/_images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back")
 
@@ -114,5 +114,5 @@ I assembled all the parts. I also made the Z-Arm frame, and the rotating platfor
 #### Screwdriver Brake Button
 ![img](/_images/portfolio/MMSscrewdriveAssem.PNG )
 ![img](/_images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png "" )
-![img](/_images/portfolio/MMSscrewdriveAssemTransparant.PNG"")
+![img](/_images/portfolio/MMSscrewdriveAssemTransparant.PNG "")
 ![img](/_images/portfolio/MMSscrewdriveShaftEngdiagram.png "why no render")
