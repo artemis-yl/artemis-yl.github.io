@@ -7,28 +7,20 @@ sidebar_sort_order: 3
 
 Here are some 3D Models and engineering drawings I have made.
 
-# table test2
+# table test3
 
 ### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
 #### Isometric Views, Fully Open and 45 Degree Open:
- 
- 
- 
-
 
 First Header | Second Header | 3rd
 :------------: | :-------------: |:---------------:
-![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="325" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
+![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="275" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
 
-
-
-#### Exploded Views:
-![img](/images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded")
-
-#### Close up on Spring and Modified Body:
-![img](/images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up")
+#### Exploded Views| #### Close up on Spring and Modified Body
+:------------: | :-------------: 
+![img](/images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded"){:width="325"}  | ![img](/images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up"){:width="325"} 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -36,14 +28,9 @@ First Header | Second Header | 3rd
 ### Case for motor controller <sub> Apr. 2017 </sub>
 Made a case, with the goal of making physical copy for 3D printing.
 
-#### Assembled
-![img](/images/portfolio/mcCaseAssem.PNG "3D Solidworks Model Assembled")
-
-#### Lid
-![img](/images/portfolio/mcCaseLid.PNG "3D Solidworks Model Lid")
-
-#### Base
-![img](/images/portfolio/mcCaseBase.PNG "3D Solidworks Model Base")
+#### Assembled | #### Lid | #### Base
+:------------: | :-------------: |:---------------:
+![img](/images/portfolio/mcCaseAssem.PNG "3D Solidworks Model Assembled"){:width="325"}  | ![img](/images/portfolio/mcCaseLid.PNG "3D Solidworks Model Lid"){:width="325"}  | ![img](/images/portfolio/mcCaseBase.PNG "3D Solidworks Model Base"){:width="325"} 
 
 #### Physical Copy.
 ![img](/images/portfolio/mcPrintedCaseAssem.PNG "Printed Case Assembled")
