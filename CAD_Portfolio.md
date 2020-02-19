@@ -20,11 +20,11 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Exploded Views:
 
-![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.png)
+![SolarShip Inventor Rendered Model Exploded](/images/portfolio/ss1 exploded.png)
 
 #### Close up on Spring and Modified Body:
 
-![SolarShip Inventor Rendered Model Close Up](/_images/portfolio/ss1 spring close up.jpg)
+![SolarShip Inventor Rendered Model Close Up](/images/portfolio/ss1 spring close up.jpg)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -34,27 +34,27 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### Assembled
 
-![3D Solidworks Model Assembled](/_images/portfolio/mc case assem.png)
+![3D Solidworks Model Assembled](/images/portfolio/mc case assem.png)
 
 #### Lid
 
-![3D Solidworks Model Lid](/_images/portfolio/mc case lid.png)
+![3D Solidworks Model Lid](/images/portfolio/mc case lid.png)
 
 #### Base
 
-[3D Solidworks Model Base](/_images/portfolio/mc case base.png)
+[3D Solidworks Model Base](/images/portfolio/mc case base.png)
 
 #### Physical Copy.
 
-![Printed Case Assembled](/_images/portfolio/mc printed case assem.png)
+![Printed Case Assembled](/images/portfolio/mc printed case assem.png)
 
-![Printed Case Base](/_images/portfolio/mc printed case base.png)
+![Printed Case Base](/images/portfolio/mc printed case base.png)
 
-![Printed Case Lid Top View](/_images/portfolio/mc printed case lid.png)
+![Printed Case Lid Top View](/images/portfolio/mc printed case lid.png)
 
-![Printed Case Bottom View](/_images/portfolio/mc printed case lid flipped.png)
+![Printed Case Bottom View](/images/portfolio/mc printed case lid flipped.png)
 
-![Printed Case with PCB it was made for](/_images/portfolio/mc printed pcb.png)
+![Printed Case with PCB it was made for](/images/portfolio/mc printed pcb.png)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -63,15 +63,15 @@ Made a case, with the goal of making physical copy for 3D printing.
 
 #### 3D Model with Dimension:
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint model.png)
+![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint model.png)
 
 #### ANSYS Set Up and Results:
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA mesh.png)
+![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA mesh.png)
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA force app.png)
+![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA force app.png)
 
-![3D Soldiworks Model Lapjoint](/_images/portfolio/Lap Joint FEA results.png)
+![3D Soldiworks Model Lapjoint](/images/portfolio/Lap Joint FEA results.png)
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![3D CATIA Model Coffee Cup](/_images/portfolio/coffee cup.png)
+![3D CATIA Model Coffee Cup](/images/portfolio/coffee cup.png)
 
 <p>&nbsp;</p> 
 
