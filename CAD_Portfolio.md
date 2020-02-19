@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![image](/images/portfolio/coffee-cup.PNG "pls work")
+![image](/_images/portfolio/coffee-cup.PNG "pls work")
 
 3D CATIA Model Coffee Cup
 <p>&nbsp;</p> 
