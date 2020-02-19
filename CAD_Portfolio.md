@@ -20,7 +20,7 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Exploded Views:
 
-![SolarShip Inventor Rendered Model Exploded](/images/portfolio/ss1 exploded.png)
+![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.PNG)
 
 #### Close up on Spring and Modified Body:
 
@@ -79,7 +79,7 @@ Made a case, with the goal of making physical copy for 3D printing.
 ### Starbuck Coffee Cup <sub> Oct. 2016 </sub>
 For Blue Sky Solar, a small test for the fabrication team.
 
-![image](/_images/portfolio/coffee cup.PNG "pls work")
+![image](/_images/portfolio/coffee-cup.PNG "pls work")
 
 3D CATIA Model Coffee Cup
 <p>&nbsp;</p> 
