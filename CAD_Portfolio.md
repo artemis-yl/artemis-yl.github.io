@@ -20,7 +20,7 @@ For 4th year capstone project. I made all the parts and created the assembly, an
 
 #### Exploded Views:
 
-![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1 exploded.PNG)
+![SolarShip Inventor Rendered Model Exploded](/_images/portfolio/ss1-exploded.PNG)
 
 #### Close up on Spring and Modified Body:
 
