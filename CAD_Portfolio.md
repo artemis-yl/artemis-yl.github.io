@@ -7,7 +7,7 @@ sidebar_sort_order: 3
 
 Here are some 3D Models and engineering drawings I have made.
 
-# Test to see if webpage updated
+# Test to see if webpage updated 2
 
 ### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
@@ -92,8 +92,9 @@ I assembled all the parts. I also made the Z-Arm frame, and the rotating platfor
 
 #### 2 Different Planetary gears I designed and made.
 
-
 <p>&nbsp;</p> 
+<p>&nbsp;</p>
+
 ### Mechanical Mechanism Studies <sub> Nov. - Dec. 2015 </sub>
 
 #### Scotch Yoke
