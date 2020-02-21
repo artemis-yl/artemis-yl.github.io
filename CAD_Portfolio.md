@@ -6,7 +6,7 @@ sidebar_sort_order: 3
 ---
 
 ## Here are some 3D Models and engineering drawings I have made.
-On this page I only show the images of what I have done, with a few descriptors. For more information on the project themselves, please check out their respective projects (which is currently not availible).
+On this page I only show the images of what models I have made, with a few descriptions. For more information on the projects themselves, please check out their respective projects (which is currently not available - coming soon).
 
 ### Table of Contents
 
@@ -16,10 +16,12 @@ On this page I only show the images of what I have done, with a few descriptors.
 4. [Starbuck Coffee Cup](#4)
 5. [3D Printer Concept Model](#5)
 6. [Mechanical Mechanism Studies](#6)
-   1. [Scotch Yoke](#6a)
-   2. [Planetary Gearbox](#6b)
-   3. [Screwdriver Brake Button](#6c)
+   a. [Scotch Yoke](#6a)
+   b. [Planetary Gearbox](#6b)
+   c. [Screwdriver Brake Button](#6c)
    
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
    
 ### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
