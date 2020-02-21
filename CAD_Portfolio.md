@@ -58,7 +58,7 @@ ANSYS Mesh | ANSYS Forces | ANSYS Results
 For Blue Sky Solar, a small test for the fabrication team.
 
 #### 3D CATIA Model Coffee Cup
-![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:width="150"}
+![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:width="250"}
 
 
 <p>&nbsp;</p> 
@@ -67,13 +67,13 @@ For Blue Sky Solar, a small test for the fabrication team.
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
 #### I created the assembly       
-![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:width="150"} 
+![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:width="300"} 
 
 #### Of the parts, I made the Z-Arm, and the base which includes the gear systems.
 
 Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
 :-----------------: | :----------------------: | :---------------:
-![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:width="450"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:width="450"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:width="450"}
+![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:width="350"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:width="350"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:width="200"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
@@ -105,5 +105,5 @@ Assembly of both Planetary Gears | Exploded View of the Assembly
 
 Cutaway View of Screwdriver showing Brake | Screwdriver Showing Gear System
 :---------------------------------------: | :-------------: 
-![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:width="250"} | ![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ){:width="250"}
-![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png  ){:width="250"} | ![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png ){:width="250"}
+![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:width="450"} | ![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ){:width="450"}
+![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png  ){:width="450"} | ![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png ){:width="450"}
