@@ -58,7 +58,7 @@ ANSYS Mesh | ANSYS Forces | ANSYS Results
 For Blue Sky Solar, a small test for the fabrication team.
 
 #### 3D CATIA Model Coffee Cup
-![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:height="550"}
+![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:height="350"}
 
 
 <p>&nbsp;</p> 
@@ -66,15 +66,16 @@ For Blue Sky Solar, a small test for the fabrication team.
 ### 3D Printer Concept for Class <sub> Sept. - Dec. 2015 </sub>
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
-Assembled | Z-Arm in Assembly | Z-Arm Isolated
-:------------: | :-------------: |:---------------:
-![img](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="550"} | ![img](/images/portfolio/3DprinterZarm.PNG "" ){:height="550"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "" ){:height="550"}
+Assembled      | Z-Arm in Assembly | Z-Arm Isolated
+:------------: | :---------------: |:---------------:
+![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="450"} | ![mini](/images/portfolio/3DprinterZarm.PNG "Z-Arm within Assembly" ){:height="450"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:height="450"}
 
-#### 2 Different Planetary gears I designed and made.
+
+#### 2 Different Planetary gears I designed and made for the Project
 
 Gear System in Base | Gear System Tilting Base
-:------------: | :-------------: 
-![img](/images/portfolio/3DprinterBaseGearSystem.PNG "" ){:height="350"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "" ){:height="350"}
+:-----------------: | :-------------: 
+![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:height="50%"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:height="50%"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
@@ -82,21 +83,28 @@ Gear System in Base | Gear System Tilting Base
 ### Mechanical Mechanism Studies <sub> Nov. - Dec. 2015 </sub>
 
 #### Scotch Yoke
-![img](/images/portfolio/MMSscotchyokeAssem.PNG "" )
-![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "" )
-![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "" )
-![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "" )
-![img](/images/portfolio/MMSscotchyokeLinear.PNG "" )
-![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "" )
+
+Linear Supports (Red) and Bearing (Orange) | Main Component
+:------------: | :-------------: 
+![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "Linear Supports (Red) and Bearing (Orange)" ){:height="50%"} | ![img](/images/portfolio/MMSscotchyokeLinear.PNG "Main Component" ){:height="50%"}
+
+#### Scotch Yoke Assembled 
+![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:height="50%"}
+
+
+![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "" ){:height="50%"}
+![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "" ){:height="50%"}
+![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "" ){:height="50%"}
 
 #### Planetary Gearbox
-![image](/images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 ")
-![image](/images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 ")
-![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined")
+![image](/images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 "){:height="50%"}
+![image](/images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 "){:height="50%"}
+![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined"){:height="50%"}
 ![img](/images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" )
 
 #### Screwdriver Brake Button
-![img](/images/portfolio/MMSscrewdriveAssem.PNG )
-![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png "" )
-![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG "")
-![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png "why no render")
+![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:height="50%"}
+![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ""){:height="50%"}
+
+![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png "" ){:height="50%"}
+![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png "why no render"){:height="50%"}
