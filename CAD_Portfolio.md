@@ -16,9 +16,9 @@ On this page I only show the images of what models I have made, with a few descr
 4. [Starbuck Coffee Cup](#4)
 5. [3D Printer Concept Model](#5)
 6. [Mechanical Mechanism Studies](#6)
-   a. [Scotch Yoke](#6a)
-   b. [Planetary Gearbox](#6b)
-   c. [Screwdriver Brake Button](#6c)
+   1. [Scotch Yoke](#6a)
+   2. [Planetary Gearbox](#6b)
+   3. [Screwdriver Brake Button](#6c)
    
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
