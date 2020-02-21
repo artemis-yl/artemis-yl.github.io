@@ -5,6 +5,8 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-## Link to Resume
+#### Here's is my resume, in a 1pg format [Click to view and/or download](/docs/YulimLee-1pgResume.pdf)
+#### Here's is my resume, in a 2pg format [Click to view and/or download](/docs/YulimLee-2pgResume.pdf)
 
-[Resume](/docs/YulimLee-1pgResume.pdf)
+### If you wish to contact me
+please message me on LinkedIn.
