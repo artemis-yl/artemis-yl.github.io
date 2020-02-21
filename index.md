@@ -24,4 +24,4 @@ Checkout my [Portfolio](/CAD_Portfolio.md) to see the models and drawings I have
 
 
 ### Website Progress
-This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only needs final formating and edits! Projects is currently being worked on.
+This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only needs final formating and edits! Projects, About, Work Experience and Resume are currently being worked on.
