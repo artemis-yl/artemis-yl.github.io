@@ -5,5 +5,13 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-# This is going to be an about page. 
-How this will differ from the home page i'm not sure but that's a later problem
+## Hello again
+
+My name is Yulim Lee. As already mentioned on the HOME page, I'm a recent Mechanical Engineering graduate from UofT and I'm currently looking for a job in stress mechanics and/or mechatronics.
+
+As seen in my [CAD Portfolio](/CAD_Portfolio.md)~~, [Work Experience](/workExperience.md) and [Projects](/projects.md)~~ and [Resume](/Resume.md), I've focused on creating 3D CAD models, stress analysis, and manufactoring prototypes. I also have a solid grounding in circuits and programming, both theoretical and practical.
+
+On a more personal note, I enjoy many art&crafts (which has surprisingly come very handy in manufactoring), love to cook and bake, play video games with my friends and read. I'm also polishing my Korean and continuing my German studies.
+
+#### If you came here for contact information,
+then please message me on [LinkedIn](https://www.linkedin.com/in/yulim-lee-24b227131/). If you're wondering why I won't give an email or number here, that's to avoid any spam! 
