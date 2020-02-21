@@ -20,7 +20,7 @@ First Header | Second Header | 3rd
 
  Exploded Views| Close up on Spring and Modified Body
 :------------: | :-------------: 
-![img](/images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded"){:width="325"}  | ![img](/images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up"){:width="325"} 
+![img](/images/portfolio/ss1exploded.PNG "SolarShip Inventor Rendered Model Exploded"){:width="425"}  | ![img](/images/portfolio/ss1springCloseUp.JPG "SolarShip Inventor Rendered Model Close Up"){:width="425"} 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -58,7 +58,7 @@ ANSYS Mesh | ANSYS Forces | ANSYS Results
 For Blue Sky Solar, a small test for the fabrication team.
 
 #### 3D CATIA Model Coffee Cup
-![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:height="350"}
+![image](/images/portfolio/coffee-cup.PNG "CATIA Coffee Cup Model"){:height="250"}
 
 
 <p>&nbsp;</p> 
@@ -67,12 +67,12 @@ For Blue Sky Solar, a small test for the fabrication team.
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
 #### I created the assembly       
-![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="650"} 
+![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="550"} 
 
 #### Of the parts, I made the Z-Arm, and the base which includes the gear systems.
 Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
-:-----------------: | :-------------: | :---------------:
-![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:height="450"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:height="450"}  | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:height="450"}
+:-----------------: | :----------------------: | :---------------:
+![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:height="450"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:height="450"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:height="450"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
@@ -85,7 +85,7 @@ Linear Supports (Red) and Bearing (Orange) | Main Component
 :------------: | :-------------: 
 ![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "Linear Supports (Red) and Bearing (Orange)" ){:height="50%"} | ![img](/images/portfolio/MMSscotchyokeLinear.PNG "Main Component" ){:height="50%"}
 
-#### Scotch Yoke Assembled 
+Scotch Yoke Assembled | Exploded View of Scotch Yoke
 ![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:height="450"} | ![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "Engineering Drawing of the Assembly" ){:height="450"}
 
 Engineering Drawing of the Main Component | Engineering Drawing of the Linear Supports
@@ -94,14 +94,14 @@ Engineering Drawing of the Main Component | Engineering Drawing of the Linear Su
 
 #### Planetary Gearbox
 Planetary Gear with 1:5 Reduction | Planetary Gear with 1:6 Reduction
-:------------: | :-------------: 
+:-------------------------------: | :-------------: 
 ![image](/images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 "){:height="350"} | ![image](/images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 "){:height="350"}
-
 Assembly of both Planetary Gears | Exploded View of the Assembly
 ![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined"){:height="350"} | ![img](/images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" ){:height="350"}
 
 #### Screwdriver Brake Button
 Cutaway View of Screwdriver showing Brake | Screwdriver Showing Gear System
-:------------: | :-------------: 
-![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:height="350"} | ![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ){:height="350"}
-![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png  ){:height="350"} | ![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png ){:height="350"}
+:---------------------------------------: | :-------------: 
+![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:height="250"} | ![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ){:height="250"}
+
+![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png  ){:height="250"} | ![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png ){:height="250"}
