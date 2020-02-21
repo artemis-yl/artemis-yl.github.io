@@ -16,7 +16,7 @@ As a U of T student, I have worked with:
 
 Checkout my [Portfolio](/CAD_Portfolio.md) to see the models and drawings I have made. 
 
-Otherwise look over at my [Projects](category/projects.md) for more detailed descriptions of my past work.
+~~Otherwise look over at my [Projects](category/projects.md) for more detailed descriptions of my past work.~~
 
 
 [comment]: # ( Add link to outside???? )
@@ -24,5 +24,4 @@ Otherwise look over at my [Projects](category/projects.md) for more detailed des
 
 
 ### Website Progress
-This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only need final edits and links!
-The rest still need to be filled.
+This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only needs final formating and edits! Projects is currently being worked on.
