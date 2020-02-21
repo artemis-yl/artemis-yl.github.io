@@ -25,4 +25,4 @@ Please contact me via [LinkedIn](https://www.linkedin.com/in/yulim-lee-24b227131
 
 
 ### Website Progress
-This website is currently still being set up, but the [Portfolio](/CAD_Portfolio.md) only needs final formating and edits! Projects, About, Work Experience and Resume are currently being worked on.
+This website is currently still being set up, but [About](/about.md) and [Resume](/Resume.md) are  complete and [Portfolio](/CAD_Portfolio.md) only needs final formating and edits!  Next is Projects, and Work Experience is still empty.
