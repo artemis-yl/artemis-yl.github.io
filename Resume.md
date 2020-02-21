@@ -7,4 +7,4 @@ sidebar_sort_order: 2
 
 ## Link to Resume
 
-[Resume](/doc/YulimLee-1pgResume..pdf)
+[Resume](/doc/YulimLee-1pgResume.pdf)
