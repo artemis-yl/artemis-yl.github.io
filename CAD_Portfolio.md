@@ -66,16 +66,13 @@ For Blue Sky Solar, a small test for the fabrication team.
 ### 3D Printer Concept for Class <sub> Sept. - Dec. 2015 </sub>
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
-Assembled      | Z-Arm in Assembly | Z-Arm Isolated
-:------------: | :---------------: |:---------------:
-![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="450"} | ![mini](/images/portfolio/3DprinterZarm.PNG "Z-Arm within Assembly" ){:height="450"} | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:height="450"}
+#### I created the assembly       
+![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:height="650"} 
 
-
-#### 2 Different Planetary gears I designed and made for the Project
-
-Gear System in Base | Gear System Tilting Base
-:-----------------: | :-------------: 
-![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:height="50%"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:height="50%"}
+#### Of the parts, I made the Z-Arm, and the base which includes the gear systems.
+Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
+:-----------------: | :-------------: | :---------------:
+![img](/images/portfolio/3DprinterBaseGearSystem.PNG "System for the Base" ){:height="450"} | ![img](/images/portfolio/3DprinterBaseTiltGearSystem.PNG "System for tilting the Base" ){:height="450"}  | ![img](/images/portfolio/3DprinterZarmSep.PNG "Z-Arm Alone" ){:height="450"}
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
@@ -85,26 +82,26 @@ Gear System in Base | Gear System Tilting Base
 #### Scotch Yoke
 
 Linear Supports (Red) and Bearing (Orange) | Main Component
-:------------: | :-------------: 
+:------------: | :-------------: | :-------------: 
 ![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "Linear Supports (Red) and Bearing (Orange)" ){:height="50%"} | ![img](/images/portfolio/MMSscotchyokeLinear.PNG "Main Component" ){:height="50%"}
 
 #### Scotch Yoke Assembled 
-![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:height="50%"}
+![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:height="450"} | ![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "Engineering Drawing of the Assembly" ){:height="450"}
 
-
-![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "" ){:height="50%"}
-![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "" ){:height="50%"}
-![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "" ){:height="50%"}
+Engineering Drawing of the Main Component | Engineering Drawing of the Linear Supports
+:------------: | :-------------: 
+![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "Engineering Drawing of the Linear Supports" ){:height="50%"} | ![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:height="50%"}
 
 #### Planetary Gearbox
-![image](/images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 "){:height="50%"}
-![image](/images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 "){:height="50%"}
-![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined"){:height="50%"}
-![img](/images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" )
+Planetary Gear with 1:5 Reduction | Planetary Gear with 1:6 Reduction
+:------------: | :-------------: 
+![image](/images/portfolio/MMSplanetary1-5.PNG "Solidworks Model Planetary Gear 1:5 "){:height="350"} | ![image](/images/portfolio/MMSplanetary1-6.PNG "Solidworks Model Planetary Gear 1:6 "){:height="350"}
+
+Assembly of both Planetary Gears | Exploded View of the Assembly
+![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined"){:height="350"} | ![img](/images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" ){:height="350"}
 
 #### Screwdriver Brake Button
-![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:height="50%"}
-![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ""){:height="50%"}
-
-![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png "" ){:height="50%"}
-![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png "why no render"){:height="50%"}
+Cutaway View of Screwdriver showing Brake | Screwdriver Showing Gear System
+:------------: | :-------------: 
+![img](/images/portfolio/MMSscrewdriveAssem.PNG ){:height="350"} | ![img](/images/portfolio/MMSscrewdriveAssemTransparant.PNG ){:height="350"}
+![img](/images/portfolio/MMSscrewdriveAssemSpringEngdiagram.png  ){:height="350"} | ![img](/images/portfolio/MMSscrewdriveShaftEngdiagram.png ){:height="350"}
