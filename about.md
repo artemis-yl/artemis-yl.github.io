@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 sidebar_link: true
 sidebar_sort_order: 1
 ---
