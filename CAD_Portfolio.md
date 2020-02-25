@@ -8,7 +8,7 @@ sidebar_sort_order: 3
 ## Here are some 3D Models and engineering drawings I have made.
 On this page I only show the images of what models I have made, with a few descriptions. For more information on the projects themselves, please check out their respective projects (which is currently not available - coming soon).
 
-### Table of Contents
+## Table of Contents
 
 1. [SolarShip: Airship Regulator Valve Concept](#1)
 2. [Case for Motor Controller PCB](#2)
@@ -23,12 +23,10 @@ On this page I only show the images of what models I have made, with a few descr
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
    
-### SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
+## SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
-#### Isometric Views, Fully Open and 45 Degree Open:
-
-First Header | Second Header | 3rd
+Fully Open, Isometric View | 45 Degree Open, Back View | Animation
 :------------: | :-------------: |:---------------:
 ![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="275" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
 
@@ -39,7 +37,7 @@ First Header | Second Header | 3rd
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### Case for Motor Controller PCB <sub> Apr. 2017 </sub> <a name="2"></a>
+## Case for Motor Controller PCB <sub> Apr. 2017 </sub> <a name="2"></a>
 Made a case, with the goal of making physical copy for 3D printing.
 
 Assembled | Lid | Base
@@ -54,12 +52,12 @@ Printed Assembled Case | Printed Lid | Printed Base
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### Lap Joint Analysis <sub> Apr. 2017 </sub> <a name="3"></a>
+## Lap Joint Analysis <sub> Apr. 2017 </sub> <a name="3"></a>
 
-#### 3D Model with Dimension:
+### 3D Model with Dimension:
 ![img](/images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
 
-#### ANSYS Set Up and Results:
+### ANSYS Set Up and Results:
 
 ANSYS Mesh | ANSYS Forces | ANSYS Results
 :------------: | :-------------: |:---------------:
@@ -77,13 +75,13 @@ For Blue Sky Solar, a small test for the fabrication team.
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### 3D Printer Concept Model <sub> Sept. - Dec. 2015 </sub> <a name="5"></a>
+## 3D Printer Concept Model <sub> Sept. - Dec. 2015 </sub> <a name="5"></a>
 I assembled all the parts. I also made the Z-Arm frame, and the rotating platform.
 
-#### I created the assembly       
+**I created the assembly**       
 ![main](/images/portfolio/3DprinterAssem.PNG "3D Printer Assembled" ){:width="600"} 
 
-#### Of the parts, I made the Z-Arm, and the base which includes the gear systems.
+**Of the parts, I made the Z-Arm, and the base which includes the gear systems.**
 
 Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
 :-----------------: | :----------------------: | :---------------:
@@ -92,9 +90,9 @@ Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
 
-### Mechanical Mechanism Studies <sub> Nov. - Dec. 2015 </sub> <a name="6"></a>
+## Mechanical Mechanism Studies <sub> Nov. - Dec. 2015 </sub> <a name="6"></a>
 
-#### Scotch Yoke <a name="6a"></a>
+### Scotch Yoke <a name="6a"></a>
 
 Individual Components | Scotch Yoke Assembled
 :------------: | :-------------: 
@@ -106,7 +104,7 @@ Individual Components | Scotch Yoke Assembled
 | :------------: | 
 | ![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:width ="350"} |
 
-#### Planetary Gearbox <a name="6b"></a>
+### Planetary Gearbox <a name="6b"></a>
 
 Planetary Gear with 1:5 Reduction | Planetary Gear with 1:6 Reduction
 :-------------------------------: | :-------------: 
@@ -114,7 +112,7 @@ Planetary Gear with 1:5 Reduction | Planetary Gear with 1:6 Reduction
 Assembly of both Planetary Gears | Exploded View of the Assembly
 ![image](/images/portfolio/MMSplanetaryCombined.PNG "Solidworks Model Planetary Gear Combined"){:width="350"} | ![img](/images/portfolio/MMSplanetaryGearAssemtEngdiagram.png "Solidworks Model Planetary Gear Combined Exploded View" ){:width="350"}
 
-#### Screwdriver Brake Button <a name="6c"></a>
+### Screwdriver Brake Button <a name="6c"></a>
 
 Cutaway View of Screwdriver showing Brake | Screwdriver Showing Gear System
 :---------------------------------------: | :-------------: 
