@@ -104,7 +104,7 @@ Individual Components | Scotch Yoke Assembled
 
 | Engineering Drawing of the Linear Supports |
 | :------------: | 
-| ![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:width ="50%"} |
+| ![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:width ="350"} |
 
 #### Planetary Gearbox <a name="6b"></a>
 
