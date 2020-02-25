@@ -23,7 +23,7 @@ On this page I only show the images of what models I have made, with a few descr
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
    
-## SolarShip: Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
+## Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
 Fully Open, Isometric View | 45 Degree Open, Back View | Animation
