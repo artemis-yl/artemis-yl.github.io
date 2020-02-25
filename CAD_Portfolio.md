@@ -98,13 +98,13 @@ Gear System in Base | Gear System Tilting Base | Z-Arm Isolated
 
 Individual Components | Scotch Yoke Assembled
 :------------: | :-------------: 
-![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "Linear Supports (Red) and Bearing (Orange)" ){:height="50%"} ![img](/images/portfolio/MMSscotchyokeLinear.PNG "Main Component" ){:height="50%"} | ![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:height="450"}
+![img](/images/portfolio/MMSscotchyokeBearingSupport.PNG "Linear Supports (Red) and Bearing (Orange)" ){:width="450"} ![img](/images/portfolio/MMSscotchyokeLinear.PNG "Main Component" ){:width="450"} | ![img](/images/portfolio/MMSscotchyokeAssem.PNG "Scotch Yoke Assembled" ){:width="450"}
 **Exploded View of Scotch Yoke** | **Engineering Drawing of Linear Component**
-![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "Engineering Drawing of the Assembly" ){:height="450"} | ![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "Engineering Drawing of the Linear Supports" ){:height="50%"}
+![img](/images/portfolio/MMSscotchyokeAssemEngdiagram.png "Engineering Drawing of the Assembly" ){:width="450"} | ![img](/images/portfolio/MMSscotchyokeSupportEngdiagram.png "Engineering Drawing of the Linear Supports" ){:width="450"}
 
-Engineering Drawing of the Linear Supports
-:------------: | 
-![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:width ="50%"} |
+| Engineering Drawing of the Linear Supports |
+| :------------: | 
+| ![img](/images/portfolio/MMSscotchyokeLineaEngdiagram.png "Engineering Drawing of the Main Component" ){:width ="50%"} |
 
 #### Planetary Gearbox <a name="6b"></a>
 
