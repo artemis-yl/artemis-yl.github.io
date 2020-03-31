@@ -14,11 +14,6 @@ ex)
 ### [test project page](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) <sub> Jan. 01 - May 31 </sub>
 > This is a test page for projects. A short description of what it was and what *I did*
 
-### [Test Format](https://96yrlee.github.io/projects/2020/02/02/testPostProject.html) 
-##### Jan. 01 - May 31
-> This is a test page for projects. A short description of what it was and what *I did*
 
 <p>&nbsp;</p>
-OR I'll keep this and do the blurb, with additional links at the end. Might edit how categories work if that occurs.
 
-## Links to all Projects
