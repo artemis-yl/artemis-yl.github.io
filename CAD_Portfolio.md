@@ -5,10 +5,12 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-## Here are some 3D Models and engineering drawings I have made.
-On this page I only show the images of what models I have made, with a few descriptions. For more information on the projects themselves, please check out their respective projects (which is currently not available - coming soon).
+## 3D Models and engineering drawings I have made.
+On this page I only show the images of what models I have made, with a few descriptions. 
+For more information on the projects themselves, please check out their respective projects (which is currently not available - coming soon).
 
 ## Table of Contents
+All of the following are in reverse chronological order (i.e. latest first)
 
 1. [SolarShip: Airship Regulator Valve Concept](#1)
 2. [Case for Motor Controller PCB](#2)
