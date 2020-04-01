@@ -63,8 +63,17 @@ PID constants were kept the same: Kp = 0.05, Ki = 0.00125 (ms^-1), Kd = 1250 (ms
 
 ![img](/images/projects/pendulum/disturbance_response.PNG "Returns to Set of 30 Degrees"){:height="300"} 
 
-|<figure class="video_container"><video controls="true" allowfullscreen="true" height="300"><source src="/images/projects/pendulum/static_and_return.mp4" type="video/mp4"></video></figure> |
-<figure class="video_container"><video controls="true" allowfullscreen="true" height="300"><source src="/images/projects/pendulum/static_and_return2.mp4" type="video/mp4"></video></figure> |
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" height="300">
+    <source src="/images/projects/pendulum/static_and_return.mp4" type="video/mp4">
+  </video>
+</figure> 
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" height="300">
+    <source src="/images/projects/pendulum/static_and_return2.mp4" type="video/mp4">
+  </video>
+</figure> 
 
 The system responds very fast to disturbances and clearly meets the required rise time. The system overshoots by approximately 4-5 degrees for large disturbances which exceeds the system requirements of 5% or 1.5 degrees. There were hardware limitations to achieving 5% overshoot and the system at one point would meet this requirement.
 
@@ -72,8 +81,13 @@ The system responds very fast to disturbances and clearly meets the required ris
 
 10 second period oscillating from 15 to 45 degrees. PID constants were Kp = 1.5, Ki = 0.01 (ms^-1), Kd = 200(ms)
 
-| ![img](/images/projects/pendulum/sin_response.PNG "Step Response graphed from Arduino software"){:height="300"} 
-| <figure class="video_container"><video controls="true" allowfullscreen="true" height="300"><source src="/images/projects/pendulum/sin_graphed.mp4" type="video/mp4"></video></figure> |
+![img](/images/projects/pendulum/sin_response.PNG "Step Response graphed from Arduino software"){:width="400"} 
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" height="300">
+    <source src="/images/projects/pendulum/sin_graphed.mp4" type="video/mp4">
+  </video>
+</figure> 
 
 The system responds very well to the iput sine wave. As the target is not constant steady state, overshoot, and rise time cannot be analyzed. This response was achieved mainly due to a large integral term.
 
