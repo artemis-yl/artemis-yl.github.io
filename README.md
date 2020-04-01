@@ -11,7 +11,7 @@ YOU MUST ADD THE {} STUFF. kramdown doesn't read md for the insides of blocks, a
 {::options parse_block_html="true" /}
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary markdown="span">Click to expand!</summary>
   
   ## Heading
   1. A numbered
