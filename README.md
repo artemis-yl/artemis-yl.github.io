@@ -3,8 +3,13 @@
 ### Collapsible Section
 
 # How to structure
+
+YOU MUST ADD THE {} STUFF. kramdown doesn't read md for the insides of blocks, and sadly commommark doesn't image size.
 ```
 # A collapsible section with markdown
+
+{::options parse_block_html="true" /}
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -14,7 +19,13 @@
      * With some
      * Sub bullets
 </details>
+
+{::options parse_block_html="false" /}
+
 ```
+
+{::options parse_block_html="true" /}
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -24,6 +35,8 @@
      * With some
      * Sub bullets
 </details>
+
+{::options parse_block_html="false" /}
 
 ### Making a Table of Contents
 ```
