@@ -14,7 +14,6 @@ last_modified_at: 2018-12-05
 1. [Introduction](#1)
 2. [Construction](#2)
     1. [Set up and Wiring Diagram](#2a)
-    2. [Code](#2b)
 3. [Results](#3)
     1. [Step Response](#3a)
     2. [Displacement Correction](#3b)
@@ -32,7 +31,9 @@ My responsibilies were:
 - to cut and set up the pendulum
 - connect and solder the wires
 - most of the tuning with Kyle, but Adrian and Nebojsa also spent many hours with us
-Other fixed several issues with our wire connections,  took videos and pictures, and wrote most the report.
+- writing the first draft of the report and editing
+
+The other coded several of the functions not provided by the course, fixed several issues with our wire connections, took videos and pictures, and wrote most the report.
 
 <p>&nbsp;</p> 
 
@@ -43,21 +44,6 @@ Other fixed several issues with our wire connections,  took videos and pictures,
 The pendulum’s angle is measured by the rotary encoder as the pendulum rotates about the shaft. The motor is connected to a motor controller (ESC) and through it the motor is powered with 12V and 6.4A. The Arduino receives a signal from the encoder, determines a new motor speed based on a PID control logic, and sends a signal to the ESC to control the motor.
 
 ![img](/images/projects/pendulum/physicle_layout_wiringD.PNG "Set up"){:height="400"} 
-
-### Majority of Code <a name="2b"></a>
-
-{::options parse_block_html="true" /}
-
-<details>
-  <summary markdown="span">Click to see code!</summary>
-  
-  ''' 
-  add later
-  '''
-  
-</details>
-
-{::options parse_block_html="false" /}
 
 <p>&nbsp;</p> 
 
