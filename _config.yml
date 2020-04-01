@@ -1,5 +1,8 @@
 # Build 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+  
 remote_theme: fongandrew/hydeout
 
 # Setup
