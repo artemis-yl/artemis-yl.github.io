@@ -14,7 +14,7 @@ last_modified_at: 2018-12-05
 1. [Introduction](#1)
 2. [Construction](#2)
     1. [Set up and Wiring Diagram](#2a)
-    2. [Code]
+    2. [Code](#2b)
 3. [Results](#3)
     1. [Step Response](#3a)
     2. [Displacement Correction](#3b)
@@ -76,7 +76,7 @@ The pendulum’s angle is measured by the rotary encoder as the pendulum rotates
 
 ### Sine Wave <a name="3c"></a>
 
-| ![img](/images/projects/pendulum/sin_response.PNG "Step Response graphed from Arduino software"){:height="400"} 
+| ![img](/images/projects/pendulum/sin_response.PNG "Step Response graphed from Arduino software"){:height="300"} 
 | <figure class="video_container"><video controls="true" allowfullscreen="true" height="300"><source src="/images/projects/pendulum/sin_graphed.mp4" type="video/mp4"></video></figure> |
 
 <p>&nbsp;</p> 
