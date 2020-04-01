@@ -5,7 +5,7 @@ sidebar_sort_order: 2
 ---
 
 ## Here are some of the Projects I have done
-in chronological order.
+in reverse chronological order.
 
 Note that these aren't all of the project I have worked on! Creating these pages and editing them is an ongoing project.
 
@@ -36,3 +36,5 @@ Note that these aren't all of the project I have worked on! Creating these pages
 
 <p>&nbsp;</p>
 # List of all projects
+
+[comment]: # (eventually, I might get so many that I'll only have blurbs for a few and just list the rest.) 
