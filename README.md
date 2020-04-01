@@ -1,5 +1,30 @@
 ## Personal Notes on How to Do This
 
+### Collapsible Section
+
+# How to structure
+```
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 ### Making a Table of Contents
 ```
 1. [Introduction](#introduction)
