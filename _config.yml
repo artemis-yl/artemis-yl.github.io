@@ -1,7 +1,5 @@
 # Build 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
   
 remote_theme: fongandrew/hydeout
 
