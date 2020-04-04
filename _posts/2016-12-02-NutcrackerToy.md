@@ -58,20 +58,22 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 ## Creation and Design of the New Design <a name="3"></a>
 
-|Simplified Kinematic Diagram of the New Design|Kinematic Model from Simulation|
+| Simplified Kinematic Diagram of the New Design | Kinematic Model from Simulation |
 |:---:|:---:|
 | ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="300"} |
-
-![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="300"}
 
 
 ### Acceleration and Force Calculations <a name="3a"></a>
 
-|Graph showing composite accelerations and magnitude| Graph showing only the magnitude| Kinematic model at point of greatest acceleration |
+|Graph showing composite accelerations and magnitude | |
 |:---:|:---:|
-| ![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="300"} | ![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="300"} | 
+|![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="300"} | Blue shows the greatest acceleration along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
+| Graph showing only the magnitude| |
+|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="300"} | The greatest is 0.938m/s^2 at -3rad, or at about 3.14secs into movement with an input of 0.5rpm.|
+| Kinematic model at point of greatest acceleration |  |
+|![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="300"}|  This is at -3rad or 3.14 secs. The Yellow line shows the magnitide and points the eopposite direction of the acceleration.| 
 
-
+Thus, with the acceleration known, all we need is mass to gain the force required. With research we found walnuts would reliable crack at 400N.
 | Showing how human toy would be placed and attached to linkages |
 |:--:|
 |![img](/images/projects/nutcracker/final_design_placement.PNG "With Human"){:width="300"} |
