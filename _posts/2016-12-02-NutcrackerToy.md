@@ -47,8 +47,8 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
   
   | rAC2 = 2.8cm <br> rBD  = 17.6cm <br> rFG = 18.6cm <br> rO3_B = 4.8cm <br> rAB  = 12.4cm <br>rDE = 13.2cm <br> | rEG = 21.8cm<br> rO5_FB = 8.89cm<br>rBC3= 12.7cm<br>rEF = 3.0cm<br> rO2_A = 4.8cm<br> rO2_O5 = 9.4cm ĵ +0.5cm î |
   |:-----------------:|:---------------------:|
-  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="400"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="250"} |
-  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="400"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="250"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="350"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="300"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="310"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="280"} |
   
 </details>
 
@@ -67,16 +67,21 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 |Graph showing composite accelerations and magnitude | |
 |:---:|:---:|
-|![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="300"} | Blue shows the greatest acceleration along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
+|![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="450"} | Blue shows the greatest acceleration along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
 | Graph showing only the magnitude| |
-|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="300"} | The greatest is 0.938m/s^2 at -3rad, or at about 3.14secs into movement with an input of 0.5rpm.|
+|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="450"} | The greatest is 0.938m/s^2 at -3rad, or at about 3.14secs into movement with an input of 10rpm.|
 | Kinematic model at point of greatest acceleration |  |
-|![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="300"}|  This is at -3rad or 3.14 secs. The Yellow line shows the magnitide and points the eopposite direction of the acceleration.| 
+|![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="450"}|  This is at -3rad or 3.14 secs. The Yellow line shows the magnitide and points the eopposite direction of the acceleration.| 
 
-Thus, with the acceleration known, all we need is mass to gain the force required. With research we found walnuts would reliable crack at 400N.
+Thus, with the acceleration known, all we need is mass to gain the force required. With research we found walnuts would reliable crack at 400Pa. We assumed the surface of the hammer is 1cm^2.
+
+P = F/m^2 => F = P x m^2 = 400 x 0.01 x 0.01 = 0.04N
+
+F = ma    =>    m = F/a     =>    m = 0.04/0.938 = 0.0426kg = 42.6g
+
 | Showing how human toy would be placed and attached to linkages |
 |:--:|
-|![img](/images/projects/nutcracker/final_design_placement.PNG "With Human"){:width="300"} |
+|![img](/images/projects/nutcracker/final_design_placement.PNG "With Human"){:width="450"} |
 
 <p>&nbsp;</p> 
 
@@ -86,3 +91,10 @@ Note: you need silverlight. Currently also seems to not work for me, even with s
 
 [comment]: # ( https://docs.google.com/document/d/11p94HGvVMrtGJnBlE4-7jnZ_2klZ_HOIyMy73pJye-A/edit )
 [comment]: # ( https://docs.google.com/document/d/1fPsFOBVk9J_k5i0bj0PYX3kzWta-xdNT7pqmTRZ0BbE/edit )
+
+<p>&nbsp;</p> 
+
+## Notes
+A fair amount of the writing was summarized and all the diagrams were pulled from our reports, credit to my teammates.
+
+This page to be incomplete, but sufficient. More details and edits to be added in time.
