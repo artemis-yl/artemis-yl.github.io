@@ -69,17 +69,15 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 |Graph showing composite accelerations and magnitude | |
 |:---:|:---:|
-|![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="500"} | Blue shows the greatest acceleration <br>along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
+|![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="600"} | Blue shows the greatest acceleration <br>along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
 | **Graph showing only the magnitude** | |
-|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="500"} | The greatest is 0.938m/s^2 at -3rad, <br>or at about 3.14secs into <br> movement with an input of 10rpm.|
+|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="600"} | The greatest is 0.938m/s^2 at -3rad, <br>or at about 3.14secs into <br> movement with an input of 10rpm.|
 | **Kinematic model at point of greatest acceleration** |  |
-|![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="500"}|  This is at -3rad or 3.14 secs. <br>The Yellow line shows the magnitide and <br>points the eopposite direction of the acceleration.| 
+|![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="600"}|  This is at -3rad or 3.14 secs. <br>The Yellow line shows the magnitide and <br>points the eopposite direction of the acceleration.| 
 
 Thus, with the acceleration known, all we need is mass to gain the force required. With research we found walnuts would reliable crack at 400Pa. We assumed the surface of the hammer is 1cm^2.
 
-P = F/m^2 => F = P x m^2 = 400 x 0.01 x 0.01 = 0.04N
-
-F = ma    =>    m = F/a     =>    m = 0.04/0.938 = 0.0426kg = 42.6g
+| P = F/m^2 <br> => F = P x m^2 <br> = 400 x 0.01 x 0.01 <br>= 0.04N | F = ma   <br>  =>    m = F/a   <br> = 0.04/0.938  <br>= 0.0426kg or 42.6g |
 
 | Showing how human toy would be placed and attached to linkages |
 |:--:|
