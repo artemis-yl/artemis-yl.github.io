@@ -45,11 +45,10 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
   
   <summary markdown="span">Click to see Loop Analysis Details!</summary>
   
-  | rAC2 = 2.8cm <br> rBD  = 17.6cm <br> rFG = 18.6cm <br> rO3_B = 4.8cm <br> rAB  = 12.4cm <br>rDE = 13.2cm <br> |
-  rEG = 21.8cm<br> rO5_FB = 8.89cm<br>rBC3= 12.7cm<br>rEF = 3.0cm<br> rO2_A = 4.8cm<br> rO2_O5 = 9.4cm ĵ +0.5cm î |
+  | rAC2 = 2.8cm <br> rBD  = 17.6cm <br> rFG = 18.6cm <br> rO3_B = 4.8cm <br> rAB  = 12.4cm <br>rDE = 13.2cm <br> | rEG = 21.8cm<br> rO5_FB = 8.89cm<br>rBC3= 12.7cm<br>rEF = 3.0cm<br> rO2_A = 4.8cm<br> rO2_O5 = 9.4cm ĵ +0.5cm î |
   |:-----------------:|:---------------------:|
-  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="300"} |
-  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="300"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="400"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="250"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="400"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="250"} |
   
 </details>
 
@@ -59,14 +58,23 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 ## Creation and Design of the New Design <a name="3"></a>
 
-| ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="600"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="600"} |
+|Simplified Kinematic Diagram of the New Design|Kinematic Model from Simulation|
 |:---:|:---:|
+| ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="300"} |
+
+![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="300"}
+
 
 ### Acceleration and Force Calculations <a name="3a"></a>
 
 |Graph showing composite accelerations and magnitude| Graph showing only the magnitude| Kinematic model at point of greatest acceleration |
-|:---:|:---:|:---:|
-| ![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="600"} | ![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="600"} | ![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Position of Maximum Accel"){:width="600"} |
+|:---:|:---:|
+| ![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="300"} | ![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="300"} | 
+
+
+| Showing how human toy would be placed and attached to linkages |
+|:--:|
+|![img](/images/projects/nutcracker/final_design_placement.PNG "With Human"){:width="300"} |
 
 <p>&nbsp;</p> 
 
