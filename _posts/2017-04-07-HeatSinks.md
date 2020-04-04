@@ -61,9 +61,7 @@ Normally, a 2D finite method heat transfer equation only considers the sides of 
 So instead of using a more complex 3D finte method, the equation was altered so that heat travelled through a plane of each side of the element side, using the length and the element and the thickness of the circuit board. As well, both the combined heat convection and radiation, and the heat generated from the heater block traveled through the element’s surface area. 
 
 **Open below for the entire derivation.**
-
 <p>&nbsp;</p> 
-
 {::options parse_block_html="true" /} 
 
 <details>
@@ -128,8 +126,6 @@ Credit to my classmates and the TAs who helped me figure out MatLab coding, and 
 
 config.m provided two matrices, one that marked which element required which equation, and another to indicate which heater block had a heat sink.
 
-<p>&nbsp;</p> 
-
 {::options parse_block_html="true" /} 
 
 <details>
@@ -185,9 +181,9 @@ config.m provided two matrices, one that marked which element required which equ
 
 {::options parse_block_html="false" /}
 
-temperaturemaker.m solved the temperature equations with Gauss-Seidel.
+<p>&nbsp;</p>
 
-<p>&nbsp;</p> 
+temperaturemaker.m solved the temperature equations with Gauss-Seidel.
 
 {::options parse_block_html="true" /} 
 
@@ -314,11 +310,9 @@ temperaturemaker.m solved the temperature equations with Gauss-Seidel.
 </details>
 
 {::options parse_block_html="false" /} 
-
+<p>&nbsp;</p>
 
 main.m found which configuration had the lowest maximum temperature, calling on the config to create the blocks and temperature files to solve the temp distribution.
-
-<p>&nbsp;</p> 
 
 {::options parse_block_html="true" /} 
 
@@ -400,8 +394,7 @@ main.m found which configuration had the lowest maximum temperature, calling on 
 
 {::options parse_block_html="false" /}  
 
-<p>&nbsp;</p> 
-
+<p>&nbsp;</p>
 ## Results and Analysis <a name="3"></a>
 
 ### MatLab Results <a name="3a"></a>
