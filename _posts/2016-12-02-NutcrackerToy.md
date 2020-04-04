@@ -35,7 +35,9 @@ Our team decided to combine the nutcracker and an automaton toy, and make the mo
 |:-----------------:|:-----------------------|
 | ![img](/images/projects/nutcracker/og_design_kd.PNG "Simplified KD"){:width="600"} | ![img](/images/projects/nutcracker/og_design_kd_eqtn.PNG "KD with Loops"){:width="600"} |
 
-Loop analysis allows the output position, velocity and acceleration to be calculated and traced. As seen in Figure 4, the maximum values of R11 and  R12 is the position where the flogger hits the dead horse. The velocity of point G, and several acceleration formulas are needed to calculate the original force output of the mechanism for point G. 
+Loop analysis allows the output position, velocity and acceleration to be calculated and traced. The velocity of point G, and several acceleration formulas are needed to calculate the original force output of the mechanism for point G. 
+
+The maximum values of R11 and  R12 is the position where the flogger hits the dead horse. 
 
 ### Loop Analysis <a name="2a"></a>
 
@@ -98,3 +100,6 @@ Note: you need silverlight. Currently also seems to not work for me, even with s
 A fair amount of the writing was summarized and all the diagrams were pulled from our reports, credit to my teammates.
 
 This page to be incomplete, but sufficient. More details and edits to be added in time.
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
