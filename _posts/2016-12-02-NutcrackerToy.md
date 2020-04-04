@@ -15,7 +15,7 @@ last_modified_at: 2016-12-02
 2. [Analysis of Original Design](#2)
     1. [Loop Analysis](#2a)
 3. [Creation and Design of the New Design](#3)
-    1. [Loop Analysis](#3a)
+    1. [Acceleration and Force Calculations](#3a)
     
     
 ## Introduction <a name="1"></a>
@@ -48,8 +48,8 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
   | rAC2 = 2.8cm <br> rBD  = 17.6cm <br> rFG = 18.6cm <br> rO3_B = 4.8cm <br> rAB  = 12.4cm <br>rDE = 13.2cm <br> |
   rEG = 21.8cm<br> rO5_FB = 8.89cm<br>rBC3= 12.7cm<br>rEF = 3.0cm<br> rO2_A = 4.8cm<br> rO2_O5 = 9.4cm ĵ +0.5cm î |
   |:-----------------:|:---------------------:|
-  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="600"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="600"} |
-  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="600"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="600"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="300"} |
+  | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="300"} |
   
 </details>
 
@@ -59,11 +59,14 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 ## Creation and Design of the New Design <a name="3"></a>
 
-<p>&nbsp;</p> 
+| ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="600"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="600"} |
+|:---:|:---:|
 
-### Loop Analysis <a name="3a"></a>
+### Acceleration and Force Calculations <a name="3a"></a>
 
-
+|Graph showing composite accelerations and magnitude| Graph showing only the magnitude| Kinematic model at point of greatest acceleration |
+|:---:|:---:|:---:|
+| ![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="600"} | ![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="600"} | ![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Position of Maximum Accel"){:width="600"} |
 
 <p>&nbsp;</p> 
 
