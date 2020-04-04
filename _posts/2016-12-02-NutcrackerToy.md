@@ -58,9 +58,9 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 
 ## Creation and Design of the New Design <a name="3"></a>
 
-| Simplified Kinematic Diagram of the New Design | Kinematic Model from Simulation |
+| Simplified Kinematic Diagram <br> of the New Design | Kinematic Model from Simulation |
 |:---:|:---:|
-| ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="300"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="300"} |
+| ![img](/images/projects/nutcracker/final_design_kd.PNG "Simplified KD"){:width="400"} | ![img](/images/projects/nutcracker/final_design_kd_eqtn.PNG "Simplified KD"){:width="400"} |
 
 
 ### Acceleration and Force Calculations <a name="3a"></a>
@@ -68,9 +68,9 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
 |Graph showing composite accelerations and magnitude | |
 |:---:|:---:|
 |![img](/images/projects/nutcracker/accel_graph.PNG "Composite Accelerations"){:width="500"} | Blue shows the greatest acceleration <br>along the x-axis, orange the y-axis. <br>Grey shows the magnitude of the acceleration.|
-| Graph showing only the magnitude| |
-|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="500"} | The greatest is 0.938m/s^2 at -3rad, <br>or at about 3.14secs into movement with an input of 10rpm.|
-| Kinematic model at point of greatest acceleration |  |
+| **Graph showing only the magnitude** | |
+|![img](/images/projects/nutcracker/accel_graph_mag_only.PNG "Acceleration Magnitude"){:width="500"} | The greatest is 0.938m/s^2 at -3rad, <br>or at about 3.14secs into <b> movement with an input of 10rpm.|
+| **Kinematic model at point of greatest acceleration** |  |
 |![img](/images/projects/nutcracker/greatest_accl_neg2-9rad.PNG "Simulation Paused at Greatest Acceleration"){:width="500"}|  This is at -3rad or 3.14 secs. <br>The Yellow line shows the magnitide and <br>points the eopposite direction of the acceleration.| 
 
 Thus, with the acceleration known, all we need is mass to gain the force required. With research we found walnuts would reliable crack at 400Pa. We assumed the surface of the hammer is 1cm^2.
