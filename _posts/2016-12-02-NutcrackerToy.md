@@ -45,9 +45,11 @@ Loop analysis allows the output position, velocity and acceleration to be calcul
   
   <summary markdown="span">Click to see Loop Analysis Details!</summary>
   
-  | rAC2 = 2.8cm <br>rBD = 17.6cm <br>rFG = 18.6cm <br>rO3_B = 4.8cm <br>rAB = 12.4cm <br>rDE = 13.2cm | rEG = 21.8cm <br>rO5_FB = 8.89cm <br>rBC3= 12.7cm <br>rEF = 3.0cm <br>rO2_A = 4.8cm <br> rO2_O5 = 9.4cm ĵ +0.5cm î |
-  |:-----------------:|:---------------------:|
+  | rAC2 = 2.8cm     <br>rBD = 17.6cm     <br>rFG = 18.6cm | rO3_B = 4.8cm <br>rAB = 12.4cm   <br>rDE = 13.2cm | rEG = 21.8cm <br>rO5_FB = 8.89cm <br>rBC3= 12.7cm | rEF = 3.0cm <br>rO2_A = 4.8cm <br> rO2_O5 = 9.4cm ĵ +0.5cm î |
+ 
+
   | ![img](/images/projects/nutcracker/og_loopAnalysis1.PNG "Simplified KD"){:width="375"} | ![img](/images/projects/nutcracker/og_loopAnalysis2.PNG "Simplified KD"){:width="320"} |
+  |:-----------------:|:---------------------:|
   | ![img](/images/projects/nutcracker/og_loopAnalysis3.PNG "Simplified KD"){:width="350"} | ![img](/images/projects/nutcracker/og_loopAnalysis4.PNG "Simplified KD"){:width="310"} |
   
 </details>
