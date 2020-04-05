@@ -38,7 +38,7 @@ The three blocks were fixed at specified locations on the circuit board. During 
 
 An analytical solution of the circuit board was created with a modified numerical method; Specifically, heat transfer was solved with a finite-difference numerical method, which solves differential equations by replacing the derivatives with an algebraic equation (or more specifically a difference). 
 
-|![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="500"}| Two-dimensional heat<br>conduction was used,<br>so that the circuit<br>board was modeled as a<br>grid of nodes, as shown.<br> <br>Each circle is a<br>node with a volume element,<br>20mm by 20mm.<br>The corners of the<br>volume element would<br>be the holes in<br>the circuit board. |
+|![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="500"}| Two-dimensional heat<br>conduction was used,<br>so that the circuit<br>board was modeled as a<br>grid of nodes, as shown.<br> <br>Each circle is a node<br>with a volume element,<br>20mm by 20mm.<br>The corners of the<br>volume element would<br>be the holes in<br>the circuit board. |
 
 
 
@@ -447,7 +447,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 | Configuration 3 Comparison: Experimental vs MatLab |  |
 |:-------:|:-------:|
-|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similuar to lab 1,<br>so we confirmed that our<br>results that config 3 was the best,<br>and that our MatLab simulation was correct.|
+|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similuar to<br>lab 1. This confirmed <br> our results that config 3<br>was the best,and<br>that our MatLab simulation<br>was correct.|
 
 **The following are graphs made on MatLab of the heat distributions from the 2 additional tests done in lab 2:**
 
