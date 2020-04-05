@@ -436,15 +436,21 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 | Config. 3 |  80.09 °C  |   (5,6)    |   68.8 °C  |    (7,7)   |  
 
 
-**The follwing images shows the recorded data from lab 1.** The yellow squares show where the blocks were placed. As seen below, all perimeter nodes were recorded, as well were the center nodes and others of interest.
+**The follwing images shows the recorded data from lab 1:** 
 
 | Lab 1 Config 1 | Lab 1 Config 2 |
 |:--------------:|:--------------:|
 |![img](/images/projects/heatsink/lab1_config1_nodal.PNG " "){:width="400"}| ![img](/images/projects/heatsink/lab1_config3_nodal.PNG " "){:width="400"}|
 
+The yellow squares show where the blocks were placed. As seen below, all perimeter nodes were recorded, as well were the center nodes and others of interest.
+
 | Configuration 1 Comparison: Experimental vs MatLab |            |
 |:--------------------------------------------------:|:----------:|
 |![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference<br>for config three, but only for <br>what it calculated was the<br>highest temperature and its location. <br> <br>The error most likely is the<br>convention values or how they<br>were applied in the equations.<br> <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
+
+In addition, errors can be attributed to the fact several assumptions were taken while conducting the analytical technique like 2D heat transfer, constant thermal properties and convection heat transfer. 
+
+Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
 
 
 ### Lab 2 Experimental Results <a name="3b"></a>
@@ -479,12 +485,6 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 ## Conclusion <a name="4"></a>
 
 We concluded that config 3 - heat sinks on blocks 2 and 3 - was the optimal placement. 
-
-We observed differences in our Matlab results versus our experimental lab results.  
-
-The errors are mostly to the fact that several assumptions were taken while conducting the analytical technique like 2D heat transfer, constant thermal properties and convection heat transfer. 
-
-Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
 
 ### Changes and Recommendations <a name="4a"></a>
 
