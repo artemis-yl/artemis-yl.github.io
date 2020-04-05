@@ -428,7 +428,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 | Configuration 1 Comparison: Experimental vs MatLab |  |
 |:--------------------------:|:--------------------------:|
-|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference for config three, but only for what it calculted was the highesttemperature and its location. <br> <br>The error most likely is the convention values or how they wereapplied in the equations; <br>In Matlab, the hottest node was exposed in the air but situation in the center of 3 heating blocks. However, in reality the hottest node was under a block.|
+|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference for<br>config three, but only for what it<br>calculated was the highest temperature<br>and its location. <br> <br>The error most likely is the<br>convention values or how they were<br>applied in the equations; <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
 
 
 ### Lab 2 Experimental Results <a name="3b"></a>
