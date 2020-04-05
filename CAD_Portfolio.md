@@ -5,9 +5,12 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-## 3D Models and engineering drawings I have made.
+## 3D CAD Models and engineering drawings I have made.
 On this page I only show the images of what models I have made, with a few descriptions. 
-For more information on the projects themselves, please check out their respective projects (which is currently not available - coming soon).
+
+For more information on the projects themselves, please check out their respective projects.
+
+<p>&nbsp;</p> 
 
 ## Table of Contents
 All of the following are in reverse chronological order (i.e. latest first)
@@ -28,6 +31,8 @@ All of the following are in reverse chronological order (i.e. latest first)
 ## Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
+For details, visit [the project page](https://96yrlee.github.io/projects/2019/04/30/Capstone.html). 
+
 Fully Open, Isometric View | 45 Degree Open, Back View | Animation
 :------------: | :-------------: |:---------------:
 ![img2](images/portfolio/ss1assemFullOpen.PNG "SolarShip Inventor Rendered Model Front"){:width="225"}  | ![img](/images/portfolio/ss1-45openBackBiew.PNG "SolarShip Inventor Rendered Model Back"){:width="225"}  | <a href="https://gyazo.com/415405b4618acde840b53b577b668791"><video alt="Valve Opening" width="275" muted loop playsinline controls><source src="https://i.gyazo.com/415405b4618acde840b53b577b668791.mp4" type="video/mp4" /></video></a> 
@@ -40,7 +45,7 @@ Fully Open, Isometric View | 45 Degree Open, Back View | Animation
 <p>&nbsp;</p> 
 
 ## Case for Motor Controller PCB <sub> Apr. 2017 </sub> <a name="2"></a>
-Made a case, with the goal of making physical copy for 3D printing.
+I made a case for motor controller, with the goal of making physical copy for 3D printing.
 
 Assembled | Lid | Base
 :------------: | :-------------: |:---------------:
@@ -55,6 +60,8 @@ Printed Assembled Case | Printed Lid | Printed Base
 <p>&nbsp;</p> 
 
 ## Lap Joint Analysis <sub> Apr. 2017 </sub> <a name="3"></a>
+
+For project details, click [here.](https://96yrlee.github.io/projects/2017/04/07/LapJoint.html)
 
 ### 3D Model with Dimension:
 ![img](/images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
