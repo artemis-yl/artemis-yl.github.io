@@ -88,7 +88,7 @@ So instead of using a more complex 3D finte method, the equation was altered so 
   
   First, the thermal resistance of the heat sink is recalculated using previous lab test results and given information.
   
-  ![img](/images/projects/heatsink/eq5-1.PNG " "){:width="300"}
+  ![img](/images/projects/heatsink/eq5-1.PNG " "){:width="275"}
   
   ![img](/images/projects/heatsink/eq5-4.PNG " "){:width="300"}
   
@@ -98,9 +98,9 @@ So instead of using a more complex 3D finte method, the equation was altered so 
   
   Third, the heat transfer coefficient of the heat sink is calculated
   
-  ![img](/images/projects/heatsink/eq7-1.PNG " "){:width="250"}
+  ![img](/images/projects/heatsink/eq7-1.PNG " "){:width="150"}
   
-  ![img](/images/projects/heatsink/eq7-2.PNG " "){:width="250"}
+  ![img](/images/projects/heatsink/eq7-2.PNG " "){:width="225"}
   
   ![img](/images/projects/heatsink/eq73.PNG " "){:width="250"}
   
@@ -179,6 +179,7 @@ Credit to my classmates and the TAs who helped me figure out MatLab coding, and 
 </details>
 
 {::options parse_block_html="false" /}
+
 
 **temperaturemaker.m** solved the temperature equations with Gauss-Seidel.
 
@@ -308,6 +309,7 @@ Credit to my classmates and the TAs who helped me figure out MatLab coding, and 
 
 {::options parse_block_html="false" /} 
 
+
 **main.m** found which configuration had the lowest maximum temperature, calling on the config to create the blocks and temperature files to solve the temp distribution.
 
 {::options parse_block_html="true" /} 
@@ -405,10 +407,11 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 
 **The parameters were as followed:**
 
-| Parameter |Ambient<br>Temp.|Block1 Heat<br>Resistance|Block2 Heat<br>Resistance|Block3 Heat<br>Resistance|Applied<br>Voltage| Block1<br>Temp.|Block2<br>Temp.|Block3<br>Temp.|
+|           |Ambient<br>Temp.|Block 1 Heat<br>Resistance|Block 2 Heat<br>Resistance|Block 3 Heat<br>Resistance|Applied<br>Voltage| Block 1<br>Temp.|Block 2<br>Temp.|Block 3<br>Temp.|
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **Value** |    22 oC   |   81.4 Ω   |   77.7 Ω   |   87.0 Ω   |   24.5 V   |   87.2 oC  |  100.9 oC  |   89.9 oC  |
 
+**The following chart compares the Matlab results to the Lab results:**
 
 |           |   MatLab   |    MatLab  |   Lab 1    |    Lab 1   | 
 |:---------:|:----------:|:----------:|:----------:|:----------:|
@@ -417,16 +420,15 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 | Config. 2 |  85.14 oC  |   (7,6)	  |     N/A    |     N/A    |  
 | Config. 3 |  80.09 oC  |   (5,6)    |   68.8 oC  |    (7,7)   |  
 
+| Lab 1 Config 1 | Lab 1 Config 2 |
+|:--------------:|:--------------:|
 |![img](/images/projects/heatsink/lab1_config1_nodal.PNG " "){:width="400"}| ![img](/images/projects/heatsink/lab1_config3_nodal.PNG " "){:width="400"}|
 
-MatLab had significant difference for config three, but only for what it assumed was the highest temp and its location. 
+| Configuration 1 Comparison: Experimental vs MatLab |  |
+|:--------------------------:|:--------------------------:|
+|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference<br>for config three, but only for <br>what it calculted was the highest temp and its location. |
 
 The error most likely is either an error in the convention values or how it was applied in the equations; In Matlab, the hottest node was exposed in the air but situation in the center of 3 heating blocks. However, in reality the hottest node was under a block.
-
-| Configuration 1 Comparison: Experimental vs MatLab | 
-|:--------------------------:|
-|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| 
-
 
 ### Lab 2 Experimental Results <a name="3b"></a>
 
@@ -444,6 +446,8 @@ The error most likely is either an error in the convention values or how it was 
 
 | Configuration 3 Comparison: Experimental vs MatLab | 
 |![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}|
+
+**The following are graphs made on MatLab of the heat distributions from the 2 additional tests done in lab 2:**
 
 |             |  Test 1  |  Test 2  |
 |:-----------:|:-------:|:-------:|
