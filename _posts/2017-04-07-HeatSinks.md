@@ -179,7 +179,7 @@ Credit to my classmates and the TAs who helped me figure out MatLab coding, and 
 </details>
 
 {::options parse_block_html="false" /}
-
+<p>&nbsp;</p> 
 
 **temperaturemaker.m** solved the temperature equations with Gauss-Seidel.
 
@@ -308,7 +308,7 @@ Credit to my classmates and the TAs who helped me figure out MatLab coding, and 
 </details>
 
 {::options parse_block_html="false" /} 
-
+<p>&nbsp;</p> 
 
 **main.m** found which configuration had the lowest maximum temperature, calling on the config to create the blocks and temperature files to solve the temp distribution.
 
