@@ -447,7 +447,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 | Configuration 3 Comparison: Experimental vs MatLab |  |
 |:-------:|:-------:|
-|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similuar to<br>lab 1. This confirmed <br> our results that config 3<br>was the best,and<br>that our MatLab simulation<br>was correct.|
+|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similar to lab1.<br> <br> This confirmed our that config 3<br>was the best, and that our<br>MatLab simulation was correct.|
 
 **The following are graphs made on MatLab of the heat distributions from the 2 additional tests done in lab 2:**
 
@@ -468,7 +468,9 @@ The errors are mostly to the fact that several assumptions were taken while cond
 
 Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
 
-We also recommended that a larger number of iterations should've been used in the finite difference to minimize variances and that heat blocks of similar resistance should've been used in the experiments. 
+### Changes and Recommendations
+
+We recommended that a larger number of iterations should've been used in the finite difference to minimize variances and that heat blocks of similar resistance should've been used in the experiments. 
 
 We would've also prefered a better technique of positioning the aluminum blocks on the circuit board. 
 
