@@ -40,7 +40,7 @@ An analytical solution of the circuit board was created with a modified numerica
 
 Two-dimensional heat conduction was used, so that the circuit board was modeled as a grid of nodes, as shown.
 
-![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="650"}
+![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="500"}
 
 Each circle is a node with a volume element, 20mm by 20mm. The corners of the volume element would be the holes in the circuit board. 
 
@@ -61,7 +61,7 @@ Normally, a 2D finite method heat transfer equation only considers the sides of 
 So instead of using a more complex 3D finte method, the equation was altered so that heat travelled through a plane of each side of the element side, using the length and the element and the thickness of the circuit board. As well, both the combined heat convection and radiation, and the heat generated from the heater block traveled through the element’s surface area. 
 
 **Open below for the entire derivation.**
-<p>&nbsp;</p> 
+
 {::options parse_block_html="true" /} 
 
 <details>
@@ -70,11 +70,11 @@ So instead of using a more complex 3D finte method, the equation was altered so 
   
   Let t be the thickness of the circuit board:
   
-  ![img](/images/projects/heatsink/eq1.PNG " "){:width="650"}
+  ![img](/images/projects/heatsink/eq1.PNG " "){:width="700"}
   
   If there is no heat generation, then egen is simply 0. If there is no convection, the equation is as follows:
   
-  ![img](/images/projects/heatsink/eq2.PNG " "){:width="650"}
+  ![img](/images/projects/heatsink/eq2.PNG " "){:width="700"}
   
   For the node where 1/2 of its surface area is covered by the heater block and the other 1/2 experiences convection, the temperature formula is:
   
@@ -88,9 +88,9 @@ So instead of using a more complex 3D finte method, the equation was altered so 
   
   First, the thermal resistance of the heat sink is recalculated using previous lab test results and given information.
   
-  ![img](/images/projects/heatsink/eq5-1.PNG " "){:width="450"}
+  ![img](/images/projects/heatsink/eq5-1.PNG " "){:width="300"}
   
-  ![img](/images/projects/heatsink/eq5-4.PNG " "){:width="450"}
+  ![img](/images/projects/heatsink/eq5-4.PNG " "){:width="300"}
   
   Second, the area of the hint sink was found using the dimensions provided in the data sheet [2].
   
@@ -98,11 +98,11 @@ So instead of using a more complex 3D finte method, the equation was altered so 
   
   Third, the heat transfer coefficient of the heat sink is calculated
   
-  ![img](/images/projects/heatsink/eq7-1.PNG " "){:width="350"}
+  ![img](/images/projects/heatsink/eq7-1.PNG " "){:width="250"}
   
-  ![img](/images/projects/heatsink/eq7-2.PNG " "){:width="450"}
+  ![img](/images/projects/heatsink/eq7-2.PNG " "){:width="250"}
   
-  ![img](/images/projects/heatsink/eq7-3.PNG " "){:width="450"}
+  ![img](/images/projects/heatsink/eq73.PNG " "){:width="250"}
   
   Finally, the heat flux of the heater block with a heat sink is derived from an energy balance equation, where the top is to the face attached to the heat sink, the heat flux goes through the bottom to the circuit board, and Ėgen is the power emitted from the heater block.
   
@@ -123,8 +123,7 @@ Equations (1) to (6) and parameters - either calculated in the above collapsible
 Credit to my classmates and the TAs who helped me figure out MatLab coding, and how to properly format the equations. I was at my limit with my temperature.m file.
 
 <p>&nbsp;</p>
-
-config.m provided two matrices, one that marked which element required which equation, and another to indicate which heater block had a heat sink.
+**config.m** provided two matrices, one that marked which element required which equation, and another to indicate which heater block had a heat sink.
 
 {::options parse_block_html="true" /} 
 
@@ -181,9 +180,7 @@ config.m provided two matrices, one that marked which element required which equ
 
 {::options parse_block_html="false" /}
 
-<p>&nbsp;</p>
-
-temperaturemaker.m solved the temperature equations with Gauss-Seidel.
+**temperaturemaker.m** solved the temperature equations with Gauss-Seidel.
 
 {::options parse_block_html="true" /} 
 
@@ -310,9 +307,8 @@ temperaturemaker.m solved the temperature equations with Gauss-Seidel.
 </details>
 
 {::options parse_block_html="false" /} 
-<p>&nbsp;</p>
 
-main.m found which configuration had the lowest maximum temperature, calling on the config to create the blocks and temperature files to solve the temp distribution.
+**main.m** found which configuration had the lowest maximum temperature, calling on the config to create the blocks and temperature files to solve the temp distribution.
 
 {::options parse_block_html="true" /} 
 
@@ -399,17 +395,20 @@ main.m found which configuration had the lowest maximum temperature, calling on 
 ## Results and Analysis <a name="3"></a>
 
 There were 3 possible configurations, the heat sinks places on:
-1. block 1 and 2
-2. block 1 and 3 
-3. block 2 and 3 
+1. heating block 1 and 2
+2. heating block 1 and 3 
+3. heating block 2 and 3 
 
 ### MatLab Results <a name="3a"></a>
 
 Config 1 was tested and then used to validate the MatLAb simulation already created. Afterwards, config 3 was also tested to validate its results.
 
-The parameters were as followed:
+**The parameters were as followed:**
 
-![img](/images/projects/heatsink/lab1_para.PNG " "){:width="400"}
+| Parameter |Ambient<br>Temp.|Block1 Heat<br>Resistance|Block2 Heat<br>Resistance|Block3 Heat<br>Resistance|Applied<br>Voltage| Block1<br>Temp.|Block2<br>Temp.|Block3<br>Temp.|
+|:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **Value** |    22 oC   |   81.4 Ω   |   77.7 Ω   |   87.0 Ω   |   24.5 V   |   87.2 oC  |  100.9 oC  |   89.9 oC  |
+
 
 |           |   MatLab   |    MatLab  |   Lab 1    |    Lab 1   | 
 |:---------:|:----------:|:----------:|:----------:|:----------:|
@@ -431,9 +430,11 @@ The error most likely is either an error in the convention values or how it was 
 
 ### Lab 2 Experimental Results <a name="3b"></a>
 
-The parameters were as followed:
+**The parameters were as followed:**
 
-![img](/images/projects/heatsink/lab2_para.PNG " "){:width="400"}
+| Parameter |Ambient<br>Temp.|Block1 Heat<br>Resistance|Block2 Heat<br>Resistance|Block3 Heat<br>Resistance|Applied<br>Voltage| Block1<br>Temp.|Block2<br>Temp.|Block3<br>Temp.|
+|:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **Value** |    22 oC   |   85.0 Ω   |   86.0 Ω   |   79.0 Ω   |   24.5 V   |   99.0 oC  |  087.7 oC  |   84.1 oC  |
 
 |           | Max. Temp. | Coordinate | 
 |:---------:|:----------:|:----------:|
