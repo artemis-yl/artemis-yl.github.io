@@ -38,11 +38,9 @@ The three blocks were fixed at specified locations on the circuit board. During 
 
 An analytical solution of the circuit board was created with a modified numerical method; Specifically, heat transfer was solved with a finite-difference numerical method, which solves differential equations by replacing the derivatives with an algebraic equation (or more specifically a difference). 
 
-Two-dimensional heat conduction was used, so that the circuit board was modeled as a grid of nodes, as shown.
+|![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="500"}| Two-dimensional heat<br>conduction was used,<br>so that the circuit<br>board was modeled as a<br>grid of nodes, as shown.<br> <br>Each circle is a<br>node with a volume element,<br>20mm by 20mm.<br>The corners of the<br>volume element would<br>be the holes in<br>the circuit board. |
 
-![img](/images/projects/heatsink/grid.PNG "Schematic of the Circuit Board"){:width="500"}
 
-Each circle is a node with a volume element, 20mm by 20mm. The corners of the volume element would be the holes in the circuit board. 
 
 The temperature of each node is found under steady state conditions using an energy balance equation. 
 
@@ -428,7 +426,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 | Configuration 1 Comparison: Experimental vs MatLab |  |
 |:--------------------------:|:--------------------------:|
-|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference for<br>config three, but only for what it<br>calculated was the highest temperature<br>and its location. <br> <br>The error most likely is the<br>convention values or how they were<br>applied in the equations; <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
+|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference<br>for config three, but only for <br>what it calculated was the<br>highest temperature and its location. <br> <br>The error most likely is the<br>convention values or how they<br>were applied in the equations; <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
 
 
 ### Lab 2 Experimental Results <a name="3b"></a>
