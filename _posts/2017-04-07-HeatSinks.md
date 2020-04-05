@@ -29,7 +29,7 @@ This was a series of labs with a culmulative experiment and design for the UofT 
 My main responsibilty was to:
  - create the nodal analysis and create the MATLab code to run it.
  - re-derive the heat flux of the blocks, as our previous derivtions and values were incorrect. 
- - write the report sections that explained the code and derivations (AKA my main respoinsibilities).
+ - write the report sections that explained the code and derivations (AKA my main responsibilties).
  
 With my group, I also:
  - gathered data at all lab sessions.
