@@ -409,16 +409,16 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 
 |           |Ambient<br>Temp.|Block 1 Heat<br>Resistance|Block 2 Heat<br>Resistance|Block 3 Heat<br>Resistance|Applied<br>Voltage| Block 1<br>Temp.|Block 2<br>Temp.|Block 3<br>Temp.|
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **Value** |    22 oC   |   81.4 Ω   |   77.7 Ω   |   87.0 Ω   |   24.5 V   |   87.2 oC  |  100.9 oC  |   89.9 oC  |
+| **Value** |    22 °C   |   81.4 Ω   |   77.7 Ω   |   87.0 Ω   |   24.5 V   |   87.2 °C  |  100.9 °C  |   89.9 °C  |
 
 **The following chart compares the Matlab results to the Lab results:**
 
 |           |   MatLab   |    MatLab  |   Lab 1    |    Lab 1   | 
 |:---------:|:----------:|:----------:|:----------:|:----------:|
 |           | Max. Temp. | Coordinate | Max. Temp. | Coordinate | 
-| Config. 1 |  80.70 oC  |   (8,7)	  |   78.1 oC  |    (6,4)   |  
-| Config. 2 |  85.14 oC  |   (7,6)	  |     N/A    |     N/A    |  
-| Config. 3 |  80.09 oC  |   (5,6)    |   68.8 oC  |    (7,7)   |  
+| Config. 1 |  80.70 °C  |   (8,7)	  |   78.1 °C  |    (6,4)   |  
+| Config. 2 |  85.14 °C  |   (7,6)	  |     N/A    |     N/A    |  
+| Config. 3 |  80.09 °C  |   (5,6)    |   68.8 °C  |    (7,7)   |  
 
 | Lab 1 Config 1 | Lab 1 Config 2 |
 |:--------------:|:--------------:|
@@ -436,13 +436,13 @@ The error most likely is either an error in the convention values or how it was 
 
 | Parameter |Ambient<br>Temp.|Block1 Heat<br>Resistance|Block2 Heat<br>Resistance|Block3 Heat<br>Resistance|Applied<br>Voltage| Block1<br>Temp.|Block2<br>Temp.|Block3<br>Temp.|
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **Value** |    22 oC   |   85.0 Ω   |   86.0 Ω   |   79.0 Ω   |   24.5 V   |   99.0 oC  |  087.7 oC  |   84.1 oC  |
+| **Value** |    22 °C   |   85.0 Ω   |   86.0 Ω   |   79.0 Ω   |   24.5 V   |   99.0 °C  |  087.7 °C  |   84.1 °C  |
 
 |           | Max. Temp. | Coordinate | 
 |:---------:|:----------:|:----------:|
-| Config. 1 |  80.66 oC  |   (8,7)	  |   
-| Config. 2 |  80.52 oC  |   (7,6)	  |     
-| Config. 3 |  76.45 oC  |   (6,4)    |  
+| Config. 1 |  80.66 °C  |   (8,7)	  |   
+| Config. 2 |  80.52 °C  |   (7,6)	  |     
+| Config. 3 |  76.45 °C  |   (6,4)    |  
 
 | Configuration 3 Comparison: Experimental vs MatLab | 
 |![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}|
