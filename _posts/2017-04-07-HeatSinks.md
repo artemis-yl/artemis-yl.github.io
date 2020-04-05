@@ -18,19 +18,34 @@ last_modified_at: 2017-04-07
 3. [Results and Analysis](#3)
     1. [MatLab Results and Lab 1](#3a)
     2. [Lab 2 Experimental Results](#3b)
-    3. [Conclusion](#3c)
+4. [Conclusion](#4)
+    1. [Changes and Recommendations](#4a)
+  
     
 ## Introduction <a name="1"></a>
 
 This was a series of labs with a culmulative experiement and design for the UofT course MIE313: Heat and Mass Transfer. I worked in a team of 4 with Muhammad Amier Mohd Faudzi, Dahlia Milevsky, Shehroz Mubashir.
 
-My main responsibilty was to create the nodal analysis and create the MATLab code to run it. I re-derived the heat flux of the blocks, as our previous equation were incorrect. I was also at the lab tests to help gather data, and help edit/format the report. My group members derived and calculated the heat coefficients and other values required, as well applied the statistical analysis to validate our results.
+My main responsibilty was to:
+ - create the nodal analysis and create the MATLab code to run it.
+ - re-derived the heat flux of the blocks, as our previous equation were incorrect. 
+ - write the report sections that explained the above.
+ 
+With my group, I also:
+ - gathered data at all lab seesion.
+ - edited and formated the report. 
+ 
+My group members derived and calculated the heat coefficients and other values required, as well applied the statistical analysis to validate our results.
 
 <p>&nbsp;</p> 
 
 The main objective was to find the best configuration of the two heat sinks on a circuit board with three heated aluminum blocks that minimized the maximum temperature on the circuit board. 
 
-The three blocks were fixed at specified locations on the circuit board. During lab tests, the heat sinks were placed in one of the three blocks and the temperature distribution was measured. We experimentally gathered data on 2 configurations and simulated the same  with MATLAB to validate the code. After analyzing the simulation results, the best configuration was determined and then confirmed by experimentally testing all configurations twice.  
+The three blocks were fixed at specified locations on the circuit board. During lab tests, the heat sinks were placed in one of the three blocks and the temperature distribution was measured. 
+
+We experimentally gathered data on 2 configurations and simulated the same with MATLAB to validate the code. 
+
+After analyzing the simulation results, the best configuration was determined and then confirmed by experimentally testing all configurations twice.  
 
 <p>&nbsp;</p> 
 
@@ -56,7 +71,9 @@ In order to create the MATLAB code, first the temperature equation for each node
 
 Normally, a 2D finite method heat transfer equation only considers the sides of the element but in this experiment the surface area of the circuit board had to be included to account for the heat flux of the heater blocks and the heat loss through combined convection and radiation. 
 
-So instead of using a more complex 3D finte method, the equation was altered so that heat travelled through a plane of each side of the element side, using the length and the element and the thickness of the circuit board. As well, both the combined heat convection and radiation, and the heat generated from the heater block traveled through the element’s surface area. 
+So instead of using a more complex 3D finte method, the equation was altered so that heat travelled through a plane of each side of the element side, using the length and the element and the thickness of the circuit board. 
+
+As well, both the combined heat convection and radiation, and the heat generated from the heater block traveled through the element’s surface area. 
 
 **Open below for the entire derivation.**
 
@@ -418,36 +435,37 @@ Config 1 was tested and then used to validate the MatLAb simulation already crea
 | Config. 2 |  85.14 °C  |   (7,6)	  |     N/A    |     N/A    |  
 | Config. 3 |  80.09 °C  |   (5,6)    |   68.8 °C  |    (7,7)   |  
 
+
+**The follwing images shows the recorded data from lab 1.** The yellow squares show where the blocks were placed. As seen below, all perimeter nodes were recorded, as well were the center nodes and others of interest.
+
 | Lab 1 Config 1 | Lab 1 Config 2 |
 |:--------------:|:--------------:|
 |![img](/images/projects/heatsink/lab1_config1_nodal.PNG " "){:width="400"}| ![img](/images/projects/heatsink/lab1_config3_nodal.PNG " "){:width="400"}|
 
-The above show the recorded data from lab 1. The highlighted yellow show where the blocks were placed. As seen above, all perimetre nodes were recorded, as well were the center nodes and others of interest.
-
-| Configuration 1 Comparison: Experimental vs MatLab |  |
-|:--------------------------:|:--------------------------:|
-|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference<br>for config three, but only for <br>what it calculated was the<br>highest temperature and its location. <br> <br>The error most likely is the<br>convention values or how they<br>were applied in the equations; <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
+| Configuration 1 Comparison: Experimental vs MatLab |            |
+|:--------------------------------------------------:|:----------:|
+|![img](/images/projects/heatsink/nodetemps.PNG " "){:width="400"}| MatLab had significant difference<br>for config three, but only for <br>what it calculated was the<br>highest temperature and its location. <br> <br>The error most likely is the<br>convention values or how they<br>were applied in the equations.<br> <br>In Matlab, the hottest node was<br>exposed in the air and situated in <br>the center of 3 heating blocks.<br>However, the lab results show the<br>hottest node was under a block.|
 
 
 ### Lab 2 Experimental Results <a name="3b"></a>
 
-**The parameters were as followed:**
+**The parameters of lab 2 were as followed:**
 
 | Parameter |Ambient<br>Temp.|Block1 Heat<br>Resistance|Block2 Heat<br>Resistance|Block3 Heat<br>Resistance|Applied<br>Voltage| Block1<br>Temp.|Block2<br>Temp.|Block3<br>Temp.|
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **Value** |    22 °C   |   85.0 Ω   |   86.0 Ω   |   79.0 Ω   |   24.5 V   |   99.0 °C  |  087.7 °C  |   84.1 °C  |
 
-**The followin are the highest temperatures recorded in each configuration in lab 2:**
+**The table below show the highest temperatures recorded in each configuration during lab 2:**
 
-|           | Max. Temp. | Coordinate | 
-|:---------:|:----------:|:----------:|
-| Config. 1 |  80.66 °C  |   (8,7)	  |   
-| Config. 2 |  80.52 °C  |   (7,6)	  |     
-| Config. 3 |  76.45 °C  |   (6,4)    |  
+|               | Max. Temp. | Coordinate | 
+|:-------------:|:----------:|:----------:|
+| **Config. 1** |  80.66 °C  |   (8,7)	  |   
+| **Config. 2** |  80.52 °C  |   (7,6)	  |     
+| **Config. 3** |  76.45 °C  |   (6,4)    |  
 
 | Configuration 3 Comparison: Experimental vs MatLab |  |
 |:-------:|:-------:|
-|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similar to lab1.<br> <br> This confirmed our that config 3<br>was the best, and that our<br>MatLab simulation was correct.|
+|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similar to lab1.<br> <br> This confirmed that config 3<br>was the best, and that our<br>MatLab simulation was correct.|
 
 **The following are graphs made on MatLab of the heat distributions from the 2 additional tests done in lab 2:**
 
@@ -458,7 +476,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 | Config<br>3 | ![img](/images/projects/heatsink/lab1_config3.PNG " "){:width="350"}| ![img](/images/projects/heatsink/lab2_config3.PNG " "){:width="350"}|
 
 
-### Conclusion <a name="3c"></a>
+## Conclusion <a name="4"></a>
 
 We concluded that config 3 - heat sinks on blocks 2 and 3 - was the optimal placement. 
 
@@ -468,7 +486,7 @@ The errors are mostly to the fact that several assumptions were taken while cond
 
 Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
 
-### Changes and Recommendations
+### Changes and Recommendations <a name="4a"></a>
 
 We recommended that a larger number of iterations should've been used in the finite difference to minimize variances and that heat blocks of similar resistance should've been used in the experiments. 
 
