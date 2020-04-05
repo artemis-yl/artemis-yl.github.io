@@ -449,7 +449,7 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 | Configuration 3 Comparison: Experimental vs MatLab |  |
 |:-------:|:-------:|
-|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similuar to lab 1, so we concluded that our overall conclusion that config 3 was the best, and that our MatLab simulation was correct.|
+|![img](/images/projects/heatsink/nodetemps2.PNG " "){:width="400"}| The results were similuar to lab 1,<br>so we confirmed that our<br>results that config 3 was the best,<br>and that our MatLab simulation was correct.|
 
 **The following are graphs made on MatLab of the heat distributions from the 2 additional tests done in lab 2:**
 
@@ -464,9 +464,17 @@ The above show the recorded data from lab 1. The highlighted yellow show where t
 
 We concluded that config 3 - heat sinks on blocks 2 and 3 - was the optimal placement. 
 
-We observed differences in our Matlab results versus our experimental lab results.  The errors are mostly to the fact that several assumptions were taken while conducting the analytical technique like 2D heat transfer, constant thermal properties and convection heat transfer. Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
+We observed differences in our Matlab results versus our experimental lab results.  
 
-We also recommended that a larger number of iterations should've been used in the finite difference to minimize variances and that heat blocks of similar resistance should've been used in the experiments. We would've also prefered a better technique of positioning the aluminum blocks on the circuit board, for example, border lines around the nodes on the circuit board as seen in figure 1, or even snap fit connection between blocks and circuits as the blocks were easily moved due to the equipment and wires connected to it.
+The errors are mostly to the fact that several assumptions were taken while conducting the analytical technique like 2D heat transfer, constant thermal properties and convection heat transfer. 
+
+Also, heat block of different resistance is used and the inconsistencies in measuring the temperature affects our maximum temperature in configuration 3 and its location in the second lab session, hence the variation between the two lab sessions. 
+
+We also recommended that a larger number of iterations should've been used in the finite difference to minimize variances and that heat blocks of similar resistance should've been used in the experiments. 
+
+We would've also prefered a better technique of positioning the aluminum blocks on the circuit board. 
+
+For example, border lines around the nodes on the circuit board as seen in figure 1, or even snap fit connection between blocks and circuits as the blocks were easily moved due to the equipment and wires connected to it.
 
 <p>&nbsp;</p> 
 
