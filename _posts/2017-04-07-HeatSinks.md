@@ -24,16 +24,16 @@ last_modified_at: 2017-04-07
     
 ## Introduction <a name="1"></a>
 
-This was a series of labs with a culmulative experiement and design for the UofT course MIE313: Heat and Mass Transfer. I worked in a team of 4 with Muhammad Amier Mohd Faudzi, Dahlia Milevsky, Shehroz Mubashir.
+This was a series of labs with a culmulative experiment and design for the UofT course MIE313: Heat and Mass Transfer. I worked in a team of 4 with Muhammad Amier Mohd Faudzi, Dahlia Milevsky, Shehroz Mubashir.
 
 My main responsibilty was to:
  - create the nodal analysis and create the MATLab code to run it.
- - re-derived the heat flux of the blocks, as our previous equation were incorrect. 
- - write the report sections that explained the above.
+ - re-derive the heat flux of the blocks, as our previous derivtions and values were incorrect. 
+ - write the report sections that explained the code and derivations (AKA my main respoinsibilities).
  
 With my group, I also:
- - gathered data at all lab seesion.
- - edited and formated the report. 
+ - gathered data at all lab sessions.
+ - edited and formated the reports. 
  
 My group members derived and calculated the heat coefficients and other values required, as well applied the statistical analysis to validate our results.
 
