@@ -7,7 +7,12 @@ sidebar_sort_order: 2
 ## Here are some of the projects I have done
 in reverse chronological order.
 
-Note that these aren't all of the project I have worked on! Creating these pages and editing them is an ongoing project. Currently all of the following are nearly complete - they only require final editting/formatting.
+### Notes:
+These aren't all of the project I have worked on! 
+
+Creating these pages and editing them is an ongoing project. 
+
+Currently all of the following are nearly complete - they only require final editting/formatting.
 
 [comment]: # (Posts will get auto linked w/ a date I can make. However, I cannot make a blurb under each link.)
 
@@ -16,12 +21,12 @@ Note that these aren't all of the project I have worked on! Creating these pages
 ### [Capstone with SolarShip](https://96yrlee.github.io/projects/2019/04/30/Capstone.html) <sub> Sept 2018 - Apr 2019 </sub>
 > I collaborated on a team of 4 to design an airship ballonet regulating valve. This was a year-long capstone project.
 
-
 ### [Turtlebot2 Coding Challenges](https://96yrlee.github.io/projects/2019/04/09/turtlebot2.html) <sub> Jan - Apr 2019 </sub>
 > Collaborated with 3 others to design and code the Turtlebot to complete 3 challenges: 1) mapping and object avoidance, 2) path planning and image identification, and 3) emoting and user interaction.
 
 ### [Lac Megantic Accident Analysis](https://96yrlee.github.io/projects/2019/04/11/AccidentAnalysis.html) <sub> Jan - Apr 2019 </sub>
 > With 3 other teammates, we researched the accident to apply CAST, a systems-engineering approach to accident analysis.
+
 > **Note:** Only contains images and very rough sentences.
 
 ### [PID Controls: Motorized Pendulum](https://96yrlee.github.io/projects/2018/12/05/PIDpendulum.html) <sub> Sept - Dec 2018 </sub>
