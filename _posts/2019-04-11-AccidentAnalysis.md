@@ -165,6 +165,11 @@ For this system, an accident is:
 
 {::options parse_block_html="false" /}
 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+
+## NOTES:
+This page is VERY rough. All the images and the base information is there, but i really need to par it down and focus more on my tasks.
 
 
 [comment]: # ( https://docs.google.com/presentation/d/1OcjaekwV8_MK_EE-1yhC48vIdhXToG-TKoZI4XIym1c/edit#slide=id.g57bad39807_0_26 )
