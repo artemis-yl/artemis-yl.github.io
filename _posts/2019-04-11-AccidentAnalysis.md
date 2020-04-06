@@ -50,28 +50,67 @@ With my group, we all:
 
 ### Safety Goal, System <a name="3a"></a>
 
-| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} | **Safety Goal:** <br>To effectively and safely transport goods,<br> both dangerous and non-dangerous,<br> across North America via railway system.<br> <br> **System:**<br> The Montreal, Maine and Atlantic Railway<br> and the surrounding community and regulatory environment. **Assumptions:** Ignores Orford Express, <br>a minor tourist line that<br> ran between Magog and Sherbrooke. <br>The system is the MMA railways that<br> only transports goods, not passengers.
+| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} | **Safety Goal:** <br>To effectively and safely transport goods,<br> both dangerous and non-dangerous,<br> across North America via railway system.<br> <br> **System:**<br> The Montreal, Maine and Atlantic Railway<br> and the surrounding community and regulatory environment.<br> **Assumptions:**<br> Ignores Orford Express, <br>a minor tourist line that<br> ran between Magog and Sherbrooke. <br>The system is the MMA railways that<br> only transports goods, not passengers.
 
 
 ### Hazards and Constraints <a name="3b"></a>
 
+In CAST, Accidents are events that result in a loss, and may include factors beyond the control of the system.
+
+Hazards are a set of conditions in the system that ultimately lead to an accident (i.e. a loss). And they should be mitigated or eliminated by the safety control system.
+
+For this system, an accident is:
+ - Any death or injury to a person, whether employee or member of the public, due to the trains or due to a good that is currently being transported by a train.
+ 
+ 4 Hazards were identified. In order to prevent them, the safety control structure must have these requirements (i.e. constraints):
+
+
+|           Hazards         |   Hazard Specific Constraints   |
+|:-------------------------:|:-------------------------------:|
+|                         **1: A Runaway Train**                        | **For both Hazard 1 and 2** |
+| - The train is unsupervised or unmanned while it is running to a location.<br> - The train is running and manned, but cannot be controlled by the staff.| - Locomotive and Tank Car runaways and derailments must be prevented. <br> - Trains with dangerous goods cannot exceed 50 mph at any point. |
+|                         **2: A Speeding Train**                       | **For both Hazard 1 and 2** |
+| - The train is traveling faster than the speed limits of the track.<br> - The train is traveling so fast that it risks derailing | - Unsupervised trains must be properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure it cannot move or will be stopped if securements fail. |
+|    **3: A damaged/improperly-implemented safety system/component**    |       **For Hazard 3**      |
+| - The equipment (ex. Brakes, derailers, etc) is broken or is about to break at next use.<br> - Automatic safety systems are disabled or shut down. | - Must routinely maintain and improve railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be in good condition.|
+| **4: A train with dangerous goods exposed to the public/environment** |       **For Hazard 4**      |
+| - Dangerous goods are out of their containment (i.e. not safely contained). <br> - Dangerous goods are not contained with the proper equipment and in proximity to people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification of goods and classification of goods. <br> - Sufficient frequency checking classification.<br> - Goods must be transported by the proper safety equipment as per classification . |
+
+
+**General Safety Constraints:**
+
+**Emergency Procedures Must be in place**
+- Redundant safety systems in place
+- Both physical defences and procedural/social defences
+
+**Uphold public safety and trust**
+- Following the above constraints
+- Prevent harm to people (employees and citizens), property and environment.
+
+
 ### Safety Control Strcuture <a name="3c"></a>
 
 
-
-![img](/images/projects/lacMegantic/ ""){:width="600"}
+![img](/images/projects/lacMegantic/SafetyControlStructure.png "The entire diagram"){:width="800"}
 
 {::options parse_block_html="true" /} 
 
 <details>
-  <summary markdown="span">Click to see Loop Analysis Details!</summary>
+  <summary markdown="span">Click to see close ups and details of the diagram</summary>
   
-  
+  |                                Close Up                                |                      Details                     |
+  |:----------------------------------------------------------------------:|:------------------------------------------------:|
+  |![img](/images/projects/lacMegantic/federal_lvl.PNG ""){:width="600"}   |  |
+  |![img](/images/projects/lacMegantic/us_federal.PNG ""){:width="600"}    |  |
+  |![img](/images/projects/lacMegantic/petro_lvl.PNG ""){:width="600"}     |  |
+  |![img](/images/projects/lacMegantic/mma_lvl.PNG ""){:width="600"}       |  |
+  |![img](/images/projects/lacMegantic/inside_mma_lvl.PNG ""){:width="600"}|  |
+  |![img](/images/projects/lacMegantic/municipal_lvl.PNG ""){:width="600"} |  |
+
 </details>
 {::options parse_block_html="false" /}
 
-|     |     |
-|:---:|:---:|
+
 
 [comment]: # ( https://docs.google.com/presentation/d/1OcjaekwV8_MK_EE-1yhC48vIdhXToG-TKoZI4XIym1c/edit#slide=id.g57bad39807_0_26 )
 
