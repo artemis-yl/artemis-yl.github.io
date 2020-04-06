@@ -39,12 +39,12 @@ With my group, we all:
 
 ## Background Information <a name="2"></a>
 
-July 5th, 2013, 10:50 pm: Montreal, Maine & Atlantic Railway (MMA) train parked on descending grade in Nantes, Québec
+On July 5th, 2013, 10:50 pm: Montreal, Maine & Atlantic Railway (MMA) train parked on descending grade in Nantes, Québec.
+
 The Train:
-5 locomotives & 72 Class 111 Tanks cars
-7.7M L of petroleum crude oil
-From New Town, North Dakota
-To Saint John, New Brunswick
+- 5 locomotives & 72 Class 111 Tanks cars
+- 7.7M L of petroleum crude oil
+- Traveling from New Town, North Dakota to Saint John, New Brunswick
 The Locomotive Engineer (LE)
 Common company practice: hand brakes on all locomotives + 2 additional cars
 Left lead locomotive running
@@ -87,9 +87,7 @@ A coordinated emergency response helped to prevent further damage & loss.
 
 ### Safety Goal, System <a name="3a"></a>
 
-| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} | 
-
-|**Safety Goal:** <br>To effectively and safely <br>transport goods, both <br>dangerous and not, <br>across North America <br>via railway system.<br> <br>**System:**<br>The Montreal, Maine and <br>Atlantic Railway and the <br>surrounding community and <br>regulatory environment.<br> <br>**Assumptions:**<br>Ignores Orford Express, <br>a minor tourist line <br>that ran between Magog<br> and Sherbrooke. <br> The system is the <br>MMA railways that <br>only transports goods, <br>not passengers. |
+| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} |**Safety Goal:** <br>To effectively and safely <br>transport goods, both <br>dangerous and not, <br>across North America <br>via railway system.<br> <br>**System:**<br>The Montreal, Maine and <br>Atlantic Railway and the <br>surrounding community and <br>regulatory environment.<br> <br>**Assumptions:**<br>Ignores Orford Express, <br>a minor tourist line <br>that ran between Magog<br> and Sherbrooke. <br> The system is the <br>MMA railways that <br>only transports goods, <br>not passengers. |
 
 ### Hazards and Constraints <a name="3b"></a>
 
@@ -104,15 +102,15 @@ For this system, an accident is:
 
 
 |           Hazards         |   Hazard Specific Constraints   |
-|:-------------------------:|:-------------------------------:|
+|:-------------------------|:-------------------------------|
 |                         **1: A Runaway Train**                        | **For both Hazard 1 and 2** |
-| - The train is unsupervised or unmanned while it is running to a location.<br> - The train is running and manned, but cannot be controlled by the staff.| - Locomotive and Tank Car runaways and derailments must be prevented. <br> - Trains with dangerous goods cannot exceed 50 mph at any point. |
+| - The train is unsupervised or unmanned<br> while it is running to a location.<br> - The train is running and manned<br> but cannot be controlled by the staff.| - Locomotive and Tank Car runaways and derailments must be prevented. <br> - Trains with dangerous goods cannot exceed 50 mph at any point. |
 |                         **2: A Speeding Train**                       | **For both Hazard 1 and 2** |
-| - The train is traveling faster than the speed limits of the track.<br> - The train is traveling so fast that it risks derailing | - Unsupervised trains must be properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure it cannot move or will be stopped if securements fail. |
+| - The train is traveling faster than<br> the speed limits of the track.<br> - The train is traveling so fast<br> that it risks derailing | - Unsupervised trains must be properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure it cannot move or will be stopped if securements fail. |
 |    **3: A damaged/improperly-implemented<br> safety system/component**    |       **For Hazard 3**      |
-| - The equipment (ex. Brakes, derailers, etc) is broken or is about to break at next use.<br> - Automatic safety systems are disabled or shut down. | - Must routinely maintain and improve railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be in good condition.|
+| - The equipment <br>(ex. brakes, derailers, etc) is broken<br> or is about to break at next use.<br> - Automatic safety systems are<br> disabled or shut down. | - Must routinely maintain and improve railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be in good condition.|
 | **4: A train with dangerous goods<br> exposed to the public/environment** |       **For Hazard 4**      |
-| - Dangerous goods are out of their containment (i.e. not safely contained). <br> - Dangerous goods are not contained with the proper equipment and in proximity to people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification of goods and classification of goods. <br> - Sufficient frequency checking classification.<br> - Goods must be transported by the proper safety equipment as per classification . |
+| - Dangerous goods are out of<br> their containment (i.e. not safely contained). <br> - Dangerous goods are not<br> contained with the proper<br> equipment and in proximity to<br> people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification of goods and classification of goods. <br> - Sufficient frequency checking classification.<br> - Goods must be transported by the proper safety equipment as per classification . |
 
 
 **General Safety Constraints:**
