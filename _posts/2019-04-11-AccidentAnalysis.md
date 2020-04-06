@@ -107,9 +107,9 @@ For this system, an accident is:
 
 
 |           Hazards         |   Hazard Specific Constraints   |
-|:-------------------------|:-------------------------------|
+|:---|:---|
 |                         **1: A Runaway Train**                        | **For both Hazard 1 and 2** |
-| - The train is unsupervised or unmanned while it is<br> running to a location.<br> - The train is running and manned but<br> cannot be controlled by the staff.| - Locomotive & Tank Car runaways and<br> derailments must be prevented. <br> - Trains with dangerous goods cannot<br> exceed 50 mph at any point. |
+| - The train is unsupervised or unmanned<br> while it is running to a location.<br> - The train is running and manned but<br> cannot be controlled by the staff.| - Locomotive & Tank Car runaways and<br> derailments must be prevented. <br> - Trains with dangerous goods cannot<br> exceed 50 mph at any point. |
 |                         **2: A Speeding Train**                       | **For both Hazard 1 and 2** |
 | - The train is traveling faster than the speed<br> limits of the track.<br> - The train is traveling so fast that it risks<br> derailing | - Unsupervised trains must be properly<br> secured so that it cannot start moving.<br> - Must have redundant systems to ensure<br> it cannot move or will be stopped if<br> securements fail. |
 |    **3: A damaged/improperly-implemented<br> safety system/component**    |       **For Hazard 3**      |
