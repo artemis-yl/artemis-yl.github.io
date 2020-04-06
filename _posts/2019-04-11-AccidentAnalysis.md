@@ -39,6 +39,43 @@ With my group, we all:
 
 ## Background Information <a name="2"></a>
 
+July 5th, 2013, 10:50 pm: Montreal, Maine & Atlantic Railway (MMA) train parked on descending grade in Nantes, Québec
+The Train:
+5 locomotives & 72 Class 111 Tanks cars
+7.7M L of petroleum crude oil
+From New Town, North Dakota
+To Saint John, New Brunswick
+The Locomotive Engineer (LE)
+Common company practice: hand brakes on all locomotives + 2 additional cars
+Left lead locomotive running
+powered locomotive air brakes
+false impression of security
+Railway rules: force of hand brakes alone hold train
+Contacted Rail Traffic Controller (RTC) in Farnham Québec: ‘train secure’
+contacted RTC in Bangor, Maine
+supervised train east of Lac Mégantic
+Several mechanical issues with locomotive,
+Black & white smoke from lead locomotive
+Persisted from a series of non-standard repairs
+Expected to settle → LE & RTC decided to leave train until following morning, where replacement LE would continue journey. 
+Nantes Fire Department:
+911 emergency; fire on the lead locomotive
+shut off fuel supply to lead locomotive & turned electrical breakers off (followed railway guidelines) 
+Surete de Québec (SQ) contacted Farnham RTC & sent track foreman to consult firefighters
+All individuals declared the train safe & left
+No power → air compressors shut down → air brakes began to leak, reducing retarding force
+1 am: train rolled toward Lac Mégantic → top speed of 65 mph; Derailed at Centre town
+Results:
+63 cars derailed;
+6 million litres of crude oil spilt;
+Fire and explosion;
+47 people killed;
+2000 more forced from homes;
+Downtown core destroyed;
+Surrounding land & water contaminated;
+A coordinated emergency response helped to prevent further damage & loss.
+
+
 ### Lac Mégantic Train Derailment Disaster <a name="2a"></a>
 
 ### CAST and STAMP <a name="2b"></a>
@@ -50,8 +87,9 @@ With my group, we all:
 
 ### Safety Goal, System <a name="3a"></a>
 
-| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} | **Safety Goal:** <br>To effectively and safely transport goods,<br> both dangerous and non-dangerous,<br> across North America via railway system.<br> <br> **System:**<br> The Montreal, Maine and Atlantic Railway<br> and the surrounding community and regulatory environment.<br> **Assumptions:**<br> Ignores Orford Express, <br>a minor tourist line that<br> ran between Magog and Sherbrooke. <br>The system is the MMA railways that<br> only transports goods, not passengers.
+| ![img](/images/projects/lacMegantic/mma_railmap.PNG "MMA Railway System"){:width="500"} | 
 
+|**Safety Goal:** <br>To effectively and safely <br>transport goods, both <br>dangerous and not, <br>across North America <br>via railway system.<br> <br>**System:**<br>The Montreal, Maine and <br>Atlantic Railway and the <br>surrounding community and <br>regulatory environment.<br> <br>**Assumptions:**<br>Ignores Orford Express, <br>a minor tourist line <br>that ran between Magog<br> and Sherbrooke. <br> The system is the <br>MMA railways that <br>only transports goods, <br>not passengers. |
 
 ### Hazards and Constraints <a name="3b"></a>
 
@@ -71,9 +109,9 @@ For this system, an accident is:
 | - The train is unsupervised or unmanned while it is running to a location.<br> - The train is running and manned, but cannot be controlled by the staff.| - Locomotive and Tank Car runaways and derailments must be prevented. <br> - Trains with dangerous goods cannot exceed 50 mph at any point. |
 |                         **2: A Speeding Train**                       | **For both Hazard 1 and 2** |
 | - The train is traveling faster than the speed limits of the track.<br> - The train is traveling so fast that it risks derailing | - Unsupervised trains must be properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure it cannot move or will be stopped if securements fail. |
-|    **3: A damaged/improperly-implemented safety system/component**    |       **For Hazard 3**      |
+|    **3: A damaged/improperly-implemented<br> safety system/component**    |       **For Hazard 3**      |
 | - The equipment (ex. Brakes, derailers, etc) is broken or is about to break at next use.<br> - Automatic safety systems are disabled or shut down. | - Must routinely maintain and improve railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be in good condition.|
-| **4: A train with dangerous goods exposed to the public/environment** |       **For Hazard 4**      |
+| **4: A train with dangerous goods<br> exposed to the public/environment** |       **For Hazard 4**      |
 | - Dangerous goods are out of their containment (i.e. not safely contained). <br> - Dangerous goods are not contained with the proper equipment and in proximity to people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification of goods and classification of goods. <br> - Sufficient frequency checking classification.<br> - Goods must be transported by the proper safety equipment as per classification . |
 
 
@@ -108,6 +146,7 @@ For this system, an accident is:
   |![img](/images/projects/lacMegantic/municipal_lvl.PNG ""){:width="600"} |  |
 
 </details>
+
 {::options parse_block_html="false" /}
 
 
