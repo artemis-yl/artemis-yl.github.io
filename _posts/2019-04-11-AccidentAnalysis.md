@@ -139,14 +139,14 @@ For this system, an accident is:
 <details>
   <summary markdown="span">Click to see close ups and details of the diagram</summary>
   
-  |                                Close Up                                |                      Details                     |
-  |:----------------------------------------------------------------------:|:------------------------------------------------:|
-  |![img](/images/projects/lacMegantic/federal_lvl.PNG ""){:width="600"}   |  |
-  |![img](/images/projects/lacMegantic/us_federal.PNG ""){:width="600"}    |  |
-  |![img](/images/projects/lacMegantic/petro_lvl.PNG ""){:width="600"}     |  |
-  |![img](/images/projects/lacMegantic/mma_lvl.PNG ""){:width="600"}       |  |
-  |![img](/images/projects/lacMegantic/inside_mma_lvl.PNG ""){:width="600"}|  |
-  |![img](/images/projects/lacMegantic/municipal_lvl.PNG ""){:width="600"} |  |
+  |                                  Close Up                                  |                      Details                     |
+  |:--------------------------------------------------------------------------:|:------------------------------------------------:|
+  |![img](/images/projects/lacMegantic/federal_lvl.PNG "zoom"){:width="600"}   |  |
+  |![img](/images/projects/lacMegantic/us_federal.PNG "zoom"){:width="600"}    |  |
+  |![img](/images/projects/lacMegantic/petro_lvl.PNG "zoom"){:width="600"}     |  |
+  |![img](/images/projects/lacMegantic/mma_lvl.PNG "zoom"){:width="600"}       |  |
+  |![img](/images/projects/lacMegantic/inside_mma_lvl.PNG "zoom"){:width="600"}|  |
+  |![img](/images/projects/lacMegantic/municipal_lvl.PNG "zoom"){:width="600"} |  |
 
 </details>
 
