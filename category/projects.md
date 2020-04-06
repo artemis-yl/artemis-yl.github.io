@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Projects
-sidebar_sort_order: 2
+sidebar_sort_order: 1
 ---
 
 ## Here are some of the projects I have done
