@@ -39,6 +39,8 @@ With my group, we all:
 
 ## Background Information <a name="2"></a>
 
+### Lac Mégantic Train Derailment Disaster <a name="2a"></a>
+
 On July 5th, 2013, 10:50 pm:
 - a Montreal, Maine & Atlantic Railway (MMA) train is parked on descending grade (i.e. downward slope) in Nantes, Québec.
 
@@ -80,11 +82,22 @@ Results:
 
 A coordinated emergency response helped to prevent further damage & loss.
 
-
-### Lac Mégantic Train Derailment Disaster <a name="2a"></a>
-
 ### CAST and STAMP <a name="2b"></a>
+CAST (Casual Analysis using STAMP) was developed by Nancy Leveson’s work at MIT, which itself built on Rasmussen’s risk management theory STAMP (Systems-Theoretic Accident Model and Processes). 
 
+The first step is to identify the requirements of the system. This is comprised of:
+ - the underlying goals of the system 
+ - the constraints that must be followed in order to meet the system’s goals\
+ - all of the possible hazards that may affect the system and its functionality (i.e. prevent accomplishment of system goals)
+
+The second major task in CAST is to model the safety control structure. The safety control structure is in place to protect the system from hazards and to regulate the functioning of the system so that it may complete its goals effectively. Safety control structures that break down lead to unexpected interactions and may cause an accident. For this reason, the original safety control structure is compared to its appearance at the time of the accident. Creating the model involves identifying:
+- all of the relevant actors 
+- all processes in the system by which propagate control actions 
+
+The last step is to bring aspects of the system detailed above into a dynamic model. This model, which is built using the technique of system dynamics founded by Jay Wright Forrester at the MIT Sloan School of Management, is meant to visualize and observe interactions as they may change with time. By making this model, one is able to gain an understanding of the circumstances that surrounded the accident. [3]
+
+It is common practice to use dynamic modelling software in creating the dynamic model representing systems. STELLA Architect is a useful tool used by many in the field of system dynamics, although other software, such as MATLAB, may also be used. Due to time constraints
+during this project, our class had analyze the dynamic model with a heuristic, qualitative approach as opposed to a numerical one. 
 
 <p>&nbsp;</p> 
 
