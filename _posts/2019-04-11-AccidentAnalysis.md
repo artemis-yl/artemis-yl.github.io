@@ -39,40 +39,45 @@ With my group, we all:
 
 ## Background Information <a name="2"></a>
 
-On July 5th, 2013, 10:50 pm: Montreal, Maine & Atlantic Railway (MMA) train parked on descending grade in Nantes, Québec.
+On July 5th, 2013, 10:50 pm:
+- a Montreal, Maine & Atlantic Railway (MMA) train is parked on descending grade (i.e. downward slope) in Nantes, Québec.
 
-The Train:
+The Situation with the Train:
 - 5 locomotives & 72 Class 111 Tanks cars
 - 7.7M L of petroleum crude oil
 - Traveling from New Town, North Dakota to Saint John, New Brunswick
-The Locomotive Engineer (LE)
-Common company practice: hand brakes on all locomotives + 2 additional cars
-Left lead locomotive running
-powered locomotive air brakes
-false impression of security
-Railway rules: force of hand brakes alone hold train
-Contacted Rail Traffic Controller (RTC) in Farnham Québec: ‘train secure’
-contacted RTC in Bangor, Maine
-supervised train east of Lac Mégantic
-Several mechanical issues with locomotive,
-Black & white smoke from lead locomotive
-Persisted from a series of non-standard repairs
-Expected to settle → LE & RTC decided to leave train until following morning, where replacement LE would continue journey. 
-Nantes Fire Department:
-911 emergency; fire on the lead locomotive
-shut off fuel supply to lead locomotive & turned electrical breakers off (followed railway guidelines) 
-Surete de Québec (SQ) contacted Farnham RTC & sent track foreman to consult firefighters
-All individuals declared the train safe & left
-No power → air compressors shut down → air brakes began to leak, reducing retarding force
+
+What the Locomotive Engineer (LE) did:
+- Common company practice: hand brakes on all locomotives + 2 additional cars
+- Left lead locomotive running powered locomotive air brakes
+-- false impression of security
+- Railway rules: force of hand brakes alone hold train
+- Contacted Rail Traffic Controller (RTC) in Farnham Québec: ‘train secure’
+- contacted RTC in Bangor, Maine, which supervised trains east of Lac Mégantic
+
+Thre were several mechanical issues with locomotive:
+- Black & white smoke from lead locomotive
+- Persisted from a series of non-standard repairs
+- Expected to settle → LE & RTC decided to leave train until following morning, where replacement LE would continue journey. 
+
+Response from the Nantes Fire Department:
+- 911 emergency; fire on the lead locomotive
+- shut off fuel supply to lead locomotive & turned electrical breakers off (followed railway guidelines) 
+- Surete de Québec (SQ) contacted Farnham RTC & sent track foreman to consult firefighters
+- All individuals declared the train safe & left
+- No power → air compressors shut down → air brakes began to leak, reducing retarding force
+
 1 am: train rolled toward Lac Mégantic → top speed of 65 mph; Derailed at Centre town
+
 Results:
-63 cars derailed;
-6 million litres of crude oil spilt;
-Fire and explosion;
-47 people killed;
-2000 more forced from homes;
-Downtown core destroyed;
-Surrounding land & water contaminated;
+- 63 cars derailed;
+- 6 million litres of crude oil spilt;
+- Fire and explosion;
+- 47 people killed;
+- 2000 more forced from homes;
+- Downtown core destroyed;
+- Surrounding land & water contaminated;
+
 A coordinated emergency response helped to prevent further damage & loss.
 
 
@@ -104,13 +109,13 @@ For this system, an accident is:
 |           Hazards         |   Hazard Specific Constraints   |
 |:-------------------------|:-------------------------------|
 |                         **1: A Runaway Train**                        | **For both Hazard 1 and 2** |
-| - The train is unsupervised or unmanned<br> while it is running to a location.<br> - The train is running and manned<br> but cannot be controlled by the staff.| - Locomotive and Tank Car runaways and derailments must be prevented. <br> - Trains with dangerous goods cannot exceed 50 mph at any point. |
+| - The train is unsupervised or unmanned<br> while it is running to a location.<br> - The train is running and manned<br> but cannot be controlled by the staff.| - Locomotive & Tank Car runaways<br> and derailments must be prevented. <br> - Trains with dangerous goods<br> cannot exceed 50 mph at any point. |
 |                         **2: A Speeding Train**                       | **For both Hazard 1 and 2** |
-| - The train is traveling faster than<br> the speed limits of the track.<br> - The train is traveling so fast<br> that it risks derailing | - Unsupervised trains must be properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure it cannot move or will be stopped if securements fail. |
+| - The train is traveling faster than<br> the speed limits of the track.<br> - The train is traveling so fast<br> that it risks derailing | - Unsupervised trains must be<br> properly secured so that it cannot start moving.<br> - Must have redundant systems to ensure<br> it cannot move or will be stopped if securements fail. |
 |    **3: A damaged/improperly-implemented<br> safety system/component**    |       **For Hazard 3**      |
-| - The equipment <br>(ex. brakes, derailers, etc) is broken<br> or is about to break at next use.<br> - Automatic safety systems are<br> disabled or shut down. | - Must routinely maintain and improve railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be in good condition.|
+| - The equipment <br>(ex. brakes, derailers, etc) is broken<br> or is about to break at next use.<br> - Automatic safety systems are<br> disabled or shut down. | - Must routinely maintain and improve<br> railway infrastructure, equipment and vehicles.<br> - Valuable equipment must not be damaged. <br> - Railways must be kept in good condition. <br> - Equipment dealing with goods must be<br> in good condition.|
 | **4: A train with dangerous goods<br> exposed to the public/environment** |       **For Hazard 4**      |
-| - Dangerous goods are out of<br> their containment (i.e. not safely contained). <br> - Dangerous goods are not<br> contained with the proper<br> equipment and in proximity to<br> people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification of goods and classification of goods. <br> - Sufficient frequency checking classification.<br> - Goods must be transported by the proper safety equipment as per classification . |
+| - Dangerous goods are out of<br> their containment (i.e. not safely contained). <br> - Dangerous goods are not<br> contained with the proper<br> equipment and in proximity to<br> people or environment it can damage. | - Goods must be properly managed. <br> - There must be proper identification<br> of goods and classification of goods. <br> - Sufficient frequency checking<br> classification.<br> - Goods must be transported<br> by the proper safety equipment<br> as per classification . |
 
 
 **General Safety Constraints:**
