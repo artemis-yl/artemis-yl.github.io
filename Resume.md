@@ -19,8 +19,19 @@ sidebar_sort_order: 2
 <p>&nbsp;</p> 
 
 ### Here's a Copy of My Resume <a name="1"></a>
-in a 1pg format [View/download](/docs/YulimLee-1pgResume.pdf){:width="500"} 
-![pg1](/docs/ResumePg1.PNG "Pg1 of my Resume") 
+in a 1pg format [View/download](/docs/YulimLee-1pgResume.pdf)
+
+{::options parse_block_html="true" /} 
+
+<details>
+  
+  <summary markdown="span">Click to see Loop Analysis Details!</summary>
+  
+      ![pg1](/docs/ResumePg1.PNG "Pg1 of my Resume"){:width="500"}  
+      
+</details>
+
+{::options parse_block_html="false" /}
 
 <p>&nbsp;</p> 
 
