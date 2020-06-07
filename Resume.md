@@ -36,13 +36,33 @@ or
 <p>&nbsp;</p> 
 
 ## My Skills and Abilities <a name="2"></a>
-- **3D CAD**
-   - Inventor, Solidworks, 
-- **2D CAD**
-   - AutoCAD
+### Engineering Skills & Abilities
+- **3D & 2D CAD**
+   - Inventor, Solidworks, AutoCAD
 - **Simulation & Modeling**
    - ANSYS (FEA), MATLAB & Simulink, Simio
-
+- **Programming Languages & Related Skillsets**
+   - C, C++, Pyhon, Java, MATLAB, Assembly, HTML & CSS
+   - Git Bash
+   - ROS (through C++ on TurtleBot2)
+- **Manufacturing**
+   - Machining: Drill Press, Lathe, Mill, Cricle Grinder, Welding (Acetelyne)
+   - Power Tools: Dremel, Angle Grinder, Jig Saw, Screwdriver, etc
+   - Creating, editing and reading Manufacturing Documentation
+      - GD&T
+      - PI&Ds and PFDs
+- **Electrical**
+   - Use of tools such as: Oscillascope, Multimeter
+   - 
+   
+### Interpersonal Skills & Abilities
+   - Teamwork
+   - Communciation: Written, Verbal, Visual
+   - Organizational
+   
+### Other Skills & Abilities
+- Adobe Photoshop, Illustrator, Premier
+- 
 <p>&nbsp;</p> 
 
 ## My Education <a name="3"></a>
