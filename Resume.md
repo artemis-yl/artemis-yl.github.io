@@ -36,6 +36,7 @@ sidebar_sort_order: 2
 ### Engineering Skills & Abilities
 - **3D & 2D CAD**
    - Inventor, Solidworks, AutoCAD
+      - Surface Modeling, Sheet Metal, Simulation, Rendering & Animation
 - **Simulation & Modeling**
    - ANSYS (FEA in Solid Structural), MATLAB & Simulink, Simio
 - **Programming Languages & Related Skillsets**
@@ -49,13 +50,15 @@ sidebar_sort_order: 2
       - GD&T
       - PI&Ds and PFDs
    - Hands-on Experience in creating Composite Laminates, Chemical Piping Systems
-   - Knowledge in Processes such as: Plastic Injection Molding, Metal Casting Methods, 
+   - Knowledge in Processes such as:
+      - Plastic Injection Molding, Metal Casting Methods, Layout of Automated Assembly Equipement
 - **Electrical**
    - Use of tools such as: Oscillascope, Multimeter
-   - Soldering Experience
+   - Soldering,wiring and circuit assembly experience
    - Creating, editing and reading Analog & Digital circuits diagrams
    - Experience in selecting, installing and using devices such as
       - Pressure transmitters, Thermocouples, data logger, solenoid valves and Heater Controllers
+      - Arduinos, motor controller circuits, encoders
    
 ### Interpersonal Skills & Abilities
    - Working individually:
@@ -84,6 +87,8 @@ sidebar_sort_order: 2
 - Graduated June 2019
 - Concentration in Solid Mechanics & Design
 - Minor in Robotics & Mechatronics
+
+<p>&nbsp;</p> 
 
 {::options parse_block_html="true" /} 
 
@@ -130,6 +135,3 @@ sidebar_sort_order: 2
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p>  
-
-## If you wish to contact me <a name="4"></a>
-please message me on LinkedIn. You might have noticed I haven't given out my phone number - this is to avoid spam! 
