@@ -17,7 +17,9 @@ sidebar_sort_order: 2
 <p>&nbsp;</p> 
 
 ### Here's a Copy of My Resume <a name="1"></a>
-in a 1pg format [View/download](/docs/YulimLee-1pgResume.pdf)
+[View/download](/docs/YulimLee-1pgResume.pdf)
+
+or
 
 {::options parse_block_html="true" /} 
 
@@ -34,10 +36,28 @@ in a 1pg format [View/download](/docs/YulimLee-1pgResume.pdf)
 <p>&nbsp;</p> 
 
 ### My Skills and Abilities <a name="2"></a>
+- **3D CAD**
+   - Inventor, Solidworks, 
+- **2D CAD**
+   - AutoCAD
+- **Simulation & Modeling**
+   - ANSYS (FEA), MATLAB & Simulink, Simio
 
 <p>&nbsp;</p> 
 
 ### My Education <a name="3"></a>
+
+{::options parse_block_html="true" /} 
+
+<details>
+  
+  <summary markdown="span">Click to see some courses I have taken</summary>
+  
+  sakjhdksahdksa
+      
+</details>
+
+{::options parse_block_html="false" /}
 
 <p>&nbsp;</p> 
 
