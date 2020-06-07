@@ -26,17 +26,33 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### Website Progress
-This website is currently still being built, but [About Me](/about.md), [Resume](/Resume.md) and [Portfolio](/CAD_Portfolio.md) are complete! At most I'll update them and go through minor editing/formatting. 
+## What am I Doing Right Now?
+
+**I am currently:**
+- looking for a job
+- learning how to make an app via Android Studio & brushing up my Java
+
+**I have just completed:**
+- Computer Vision Basics via Coursera
+  - I learned the basics of digital imagery, theory on the algoriythm, and how to manipulate images via MATLAB
+
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+
+## Website Progress
+This website is currently still being built, but [About Me](/about.md), and [Portfolio](/CAD_Portfolio.md) are complete! At most I'll update them and go through minor editing/formatting. 
 
 [Projects](category/projects.md) needs to be proof-read and edited!  
+
+Currently [Resume](/Resume.md) is being updated to provide a more detailed record of skills & abilities I posses and the education I taken.
 
 Next is Work Experience.
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-#### Website Theme Credit
+### Website Theme Credit
 This website jekyll theme is [Hydeout by Andrew Fong](https://github.com/fongandrew/hydeout). I've made a few minor changes to how categories work but otherwise its the same.
 
 The markdown parser is kramdown. If I ever find one that has better tables, has image size editing, video linking, and collapsibles then I'll switch.
