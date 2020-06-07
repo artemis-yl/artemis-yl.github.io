@@ -5,11 +5,9 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-### Here's is my resume:
-
 **Last Updated - June 6th, 2020**
 
-1. [Standard One Page Resume Link](#1)
+1. [Standard One Page Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
 4. [Currently Learning/Doing](#4)
@@ -25,9 +23,9 @@ in a 1pg format [View/download](/docs/YulimLee-1pgResume.pdf)
 
 <details>
   
-  <summary markdown="span">Click to see Loop Analysis Details!</summary>
+  <summary markdown="span">Click to see my One Page Resume</summary>
   
-      ![pg1](/docs/ResumePg1.PNG "Pg1 of my Resume"){:width="500"}  
+  ![pg1](/docs/ResumePg1.PNG "Pg1 of my Resume"){:width="500"}  
       
 </details>
 
