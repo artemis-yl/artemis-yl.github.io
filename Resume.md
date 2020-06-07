@@ -67,13 +67,45 @@ or
 
 ## My Education <a name="3"></a>
 
+**B.A.Sc. in Mechanical Engineering - University of Toronto**
+- Graduated June 2019
+- Concentration in Solid Mechanics & Design
+- Minor in Robotics & Mechatronics
+
+**George Brown College - Machining Courses in partnership with U of T MIE Department**
+- Machining I, II, Welding
+
 {::options parse_block_html="true" /} 
 
 <details>
   
   <summary markdown="span">Click to see some courses I have taken</summary>
   
-  sakjhdksahdksa
+  **Solid Mechanics & Design**
+  - Solid Mechanics I, II, Machine Design
+      - Stress Analysis, Fracture Analysis of Ductile Materials, Fatigue
+  - Mechanical Engineering Design
+      - how to design with mechanisms such as gears, universal joint, belts, etc 
+  - Kinematics & Dynamics of Machines
+      - Basic design and analysis of linkages
+   - Manufacturing Engineering
+  
+  **General Mechanical Engineering**
+  - Heat & Mass Transfer
+  - Thermodynamics
+  - Fluid Dynamics I
+  
+  **Mechatronics**
+  - Robotics
+  - Control Systems I
+  - Circuit Design with Application to Mech. Eng. Systems, Analog & Digital Electronics for Mech. Engineers
+  - Microprocessor Applications
+  - Mechatronics Systems: Application & Design
+  
+  **Mathematics and Applications**
+  - Numerical Methods I
+  - Probability & Statistics for Engineering Applications
+  - Linear Algebra
       
 </details>
 
