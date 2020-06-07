@@ -10,16 +10,13 @@ sidebar_sort_order: 2
 1. [Standard One Page Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
-4. [Currently Learning/Doing](#4)
 4. [Contact Info](#4)
    
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## Here's a Copy of My Resume <a name="1"></a>
-[View/download](/docs/YulimLee-1pgResume.pdf)
-
-or
+[View/download](/docs/YulimLee-1pgResume.pdf) or
 
 {::options parse_block_html="true" /} 
 
@@ -40,7 +37,7 @@ or
 - **3D & 2D CAD**
    - Inventor, Solidworks, AutoCAD
 - **Simulation & Modeling**
-   - ANSYS (FEA), MATLAB & Simulink, Simio
+   - ANSYS (FEA in Solid Structural), MATLAB & Simulink, Simio
 - **Programming Languages & Related Skillsets**
    - C, C++, Pyhon, Java, MATLAB, Assembly, HTML & CSS
    - Git Bash
@@ -53,7 +50,7 @@ or
       - PI&Ds and PFDs
 - **Electrical**
    - Use of tools such as: Oscillascope, Multimeter
-   - 
+   - Soldering Experience
    
 ### Interpersonal Skills & Abilities
    - Teamwork
@@ -71,9 +68,6 @@ or
 - Graduated June 2019
 - Concentration in Solid Mechanics & Design
 - Minor in Robotics & Mechatronics
-
-**George Brown College - Machining Courses in partnership with U of T MIE Department**
-- Machining I, II, Welding
 
 {::options parse_block_html="true" /} 
 
@@ -110,6 +104,13 @@ or
 </details>
 
 {::options parse_block_html="false" /}
+
+**George Brown College** - Machining Courses in partnership with U of T MIE Department
+- Machining I, II, Welding
+
+**Coursera**
+- Computer Vision Basics
+- Design
 
 <p>&nbsp;</p> 
 
