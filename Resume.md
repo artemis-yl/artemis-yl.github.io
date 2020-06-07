@@ -16,7 +16,7 @@ sidebar_sort_order: 2
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### Here's a Copy of My Resume <a name="1"></a>
+## Here's a Copy of My Resume <a name="1"></a>
 [View/download](/docs/YulimLee-1pgResume.pdf)
 
 or
@@ -35,7 +35,7 @@ or
 
 <p>&nbsp;</p> 
 
-### My Skills and Abilities <a name="2"></a>
+## My Skills and Abilities <a name="2"></a>
 - **3D CAD**
    - Inventor, Solidworks, 
 - **2D CAD**
@@ -45,7 +45,7 @@ or
 
 <p>&nbsp;</p> 
 
-### My Education <a name="3"></a>
+## My Education <a name="3"></a>
 
 {::options parse_block_html="true" /} 
 
@@ -61,5 +61,5 @@ or
 
 <p>&nbsp;</p> 
 
-### If you wish to contact me <a name="4"></a>
+## If you wish to contact me <a name="4"></a>
 please message me on LinkedIn. You might have noticed I haven't given out my phone number - this is to avoid spam! 
