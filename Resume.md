@@ -10,7 +10,6 @@ sidebar_sort_order: 2
 1. [Standard One Page Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
-4. [Contact Info](#4)
    
 <p>&nbsp;</p> 
 
@@ -39,10 +38,6 @@ sidebar_sort_order: 2
       - Surface Modeling, Sheet Metal, Simulation, Rendering & Animation
 - **Simulation & Modeling**
    - ANSYS (FEA in Solid Structural), MATLAB & Simulink, Simio
-- **Programming Languages & Related Skillsets**
-   - C, C++, Pyhon, Java, MATLAB, Assembly, HTML & CSS
-   - Git Bash
-   - ROS (through C++ on TurtleBot2)
 - **Manufacturing**
    - Machining: Drill Press, Lathe, Mill, Cricle Grinder, Welding (Acetelyne)
    - Power Tools: Dremel, Angle Grinder, Jig Saw, Screwdriver, etc
@@ -59,20 +54,25 @@ sidebar_sort_order: 2
    - Experience in selecting, installing and using devices such as
       - Pressure transmitters, Thermocouples, data logger, solenoid valves and Heater Controllers
       - Arduinos, motor controller circuits, encoders
+- **Programming Languages & Related Skillsets**
+   - C, C++, Pyhon, Java, MATLAB, Assembly, HTML & CSS
+   - Git Bash
+   - ROS (through C++ on TurtleBot2)
    
 ### Interpersonal Skills & Abilities
    - Working individually:
-      - Able to work alone with little to no supervision
+      - with little to no supervision
       - Able to manufacture with written instructions
    - Teamwork: 
-      -  With large multidisciplinary teams (i.e. chemical, electrical, technicians and admin)
+      - Experience working in multidisciplinary teams 
+         - Teams of 2-12 people
    - Communciation: Written, Verbal, Visual
-      - Work and follow up with suppliers, clients and contractors
+      - Work with suppliers, clients and contractors
    - Organizational: 
       - Meeting multiple set and/or changing deadlines 
       - Multitask on various different projects
    - Mentoring and Leadership:
-      - In charge of teaching Jr. Intern the various skills required and how to manage the Isowater database
+      - Mentored Jr. Intern for few months
    
 ### Other Skills & Abilities
 - Adobe Photoshop, Illustrator, Premier
@@ -87,8 +87,6 @@ sidebar_sort_order: 2
 - Graduated June 2019
 - Concentration in Solid Mechanics & Design
 - Minor in Robotics & Mechatronics
-
-<p>&nbsp;</p> 
 
 {::options parse_block_html="true" /} 
 
@@ -126,6 +124,8 @@ sidebar_sort_order: 2
 
 {::options parse_block_html="false" /}
 
+<p>&nbsp;</p> 
+
 **George Brown College** - Machining Courses in partnership with U of T MIE Department
 - Machining I, II, Welding
 
@@ -133,5 +133,3 @@ sidebar_sort_order: 2
 - Computer Vision Basics
 - Design
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p>  
