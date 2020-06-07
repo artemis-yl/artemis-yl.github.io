@@ -13,7 +13,6 @@ sidebar_sort_order: 2
 4. [Contact Info](#4)
    
 <p>&nbsp;</p> 
-<p>&nbsp;</p> 
 
 ## Here's a Copy of My Resume <a name="1"></a>
 [View/download](/docs/YulimLee-1pgResume.pdf) or
@@ -30,6 +29,7 @@ sidebar_sort_order: 2
 
 {::options parse_block_html="false" /}
 
+<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## My Skills and Abilities <a name="2"></a>
@@ -48,18 +48,34 @@ sidebar_sort_order: 2
    - Creating, editing and reading Manufacturing Documentation
       - GD&T
       - PI&Ds and PFDs
+   - Hands-on Experience in creating Composite Laminates, Chemical Piping Systems
+   - Knowledge in Processes such as: Plastic Injection Molding, Metal Casting Methods, 
 - **Electrical**
    - Use of tools such as: Oscillascope, Multimeter
    - Soldering Experience
+   - Creating, editing and reading Analog & Digital circuits diagrams
+   - Experience in selecting, installing and using devices such as
+      - Pressure transmitters, Thermocouples, data logger, solenoid valves and Heater Controllers
    
 ### Interpersonal Skills & Abilities
-   - Teamwork
+   - Working individually:
+      - Able to work alone with little to no supervision
+      - Able to manufacture with written instructions
+   - Teamwork: 
+      -  With large multidisciplinary teams (i.e. chemical, electrical, technicians and admin)
    - Communciation: Written, Verbal, Visual
-   - Organizational
+      - Work and follow up with suppliers, clients and contractors
+   - Organizational: 
+      - Meeting multiple set and/or changing deadlines 
+      - Multitask on various different projects
+   - Mentoring and Leadership:
+      - In charge of teaching Jr. Intern the various skills required and how to manage the Isowater database
    
 ### Other Skills & Abilities
 - Adobe Photoshop, Illustrator, Premier
-- 
+- Microsoft Office Suite (Word, Powerpoint, Excel, Outlook, Project) 
+
+<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## My Education <a name="3"></a>
@@ -113,6 +129,7 @@ sidebar_sort_order: 2
 - Design
 
 <p>&nbsp;</p> 
+<p>&nbsp;</p>  
 
 ## If you wish to contact me <a name="4"></a>
 please message me on LinkedIn. You might have noticed I haven't given out my phone number - this is to avoid spam! 
