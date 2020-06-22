@@ -31,11 +31,11 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 **I am currently:**
 - looking for a job
 - taking several Coursera Specializations:
--- Six Sigma Green Belt
--- Android App Development
--- Embedding Sensors and Motors
--- Power Electronics
--- Excel to MySQL: Analytic Techniques for Business
+  - Six Sigma Green Belt
+  - Android App Development
+  - Embedding Sensors and Motors
+  - Power Electronics
+  - Excel to MySQL: Analytic Techniques for Business
 
 
 **I have just completed:**
