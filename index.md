@@ -30,7 +30,13 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 
 **I am currently:**
 - looking for a job
-- learning how to make an app via Android Studio & brushing up my Java
+- taking several Coursera Specializations:
+-- Six Sigma Green Belt
+-- Android App Development
+-- Embedding Sensors and Motors
+-- Power Electronics
+-- Excel to MySQL: Analytic Techniques for Business
+
 
 **I have just completed:**
 - Computer Vision Basics via Coursera
