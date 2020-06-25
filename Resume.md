@@ -10,6 +10,7 @@ sidebar_sort_order: 2
 1. [Standard One Page Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
+   1. [Further Education](#3a)
    
 <p>&nbsp;</p> 
 
@@ -126,10 +127,20 @@ sidebar_sort_order: 2
 
 <p>&nbsp;</p> 
 
-**George Brown College** - Machining Courses in partnership with U of T MIE Department
-- Machining I, II, Welding
+### Further Education <a name="3a"></a>
 
-**Coursera**
-- Computer Vision Basics
-- Design
+**George Brown College** - Machining Courses in partnership with U of T MIE Department
+- Machining I - 2016
+- Machining II, Welding - 2018
+
+**Coursera - Online Learning**
+- [Computer Vision Basics by University of Buffalo and The State University of New York, 2020](https://coursera.org/share/d319b2a2fecfe4503b17efbe39298729)
+- [Design: Creation of Artifacts in Society by University of Pennsylvania, 2020](https://coursera.org/share/8dcf751db50f9883bd471d196668bd56)
+- **WIP, to be completed by September 2020**
+  - Six Sigma Green Belt Specialization by University System of Georgia
+  - Andriod App Development by Vanderbilt University
+  - Embedding Sensors and Motors by University of Colorado Boulder
+  - Power Electronics by University of Colorado Boulder
+  - Excel to MySQL: Analytic Techniques for Business by Duke University
+
 
