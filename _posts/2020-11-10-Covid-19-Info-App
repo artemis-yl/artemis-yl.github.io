@@ -20,11 +20,16 @@ last_modified_at: 2020-11-10
     
     
 ## Introduction <a name="1"></a>
-This was for the UofT course course MIE301: Kinematics and Dynamic of Machines. I worked in a team of 5 with Dahlia Milevsky, Julia Filiplic, Romaissa Allalou and Yiran Lu. 
+This was for the capstone project of the Coursera certificate and specialization **Android App Development ** which had 5 courses: 
+Java for Android, Android App Components - Intents, Activities, and Broadcast Receivers, Android App Components - Services, Local IPC, and Content Providers, 
+Engineering Maintainable Android Apps, and the Capstone project.
 
-The project Goal was to, essentially, redesign a mechanism to have more complex kinematics. It should take a product and ideally improve it. As a result, we had near complete freedom on what to do and remake - and thus, part of the project involved creating a client, their request and how we would address it professionally (i.e. reports). 
+[Here's a link to my GitHub repo](https://github.com/96yrlee/Covid-19InfoApp)
 
-Our team decided to combine the nutcracker and an automaton toy, and make the movement to be more humanlike.
+To summarize, I created an Android app that shows the user the day's Covid-19 data, such as total cases, today's new cases, etc, for a country or the world. 
+The user can search for a country to add to the main screen, remove a country, and click on a country's info card to get more specified information.
+It uses an webservice api, [disease.sh](https://disease.sh/), which aggregates data from various sources such as Johns Hopkins University.
+
 
 <p>&nbsp;</p> 
 
