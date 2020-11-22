@@ -18,6 +18,9 @@ Currently all of the following are nearly complete - they only require final edi
 
 [comment]: # (I might convert to ```layout:page``` in order to do that and just link it manually.) 
 
+### [Covid-19 Daily Stats Android App](https://96yrlee.github.io/projects/2020-11-10-Covid-19-Info-App.html) <sub> Oct.- Nov. 2020 </sub>
+> I created an android app that tells the day's Covid-19 statistics for any country or the world, using webservice api disease.sh to aggregate data from Jphn Hopkins University
+
 ### [Capstone with SolarShip](https://96yrlee.github.io/projects/2019/04/30/Capstone.html) <sub> Sept 2018 - Apr 2019 </sub>
 > I collaborated on a team of 4 to design an airship ballonet regulating valve. This was a year-long capstone project.
 
