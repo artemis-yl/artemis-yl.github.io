@@ -6,7 +6,9 @@ title: HOME
 # Hi, I'm Yulim
 I am a recent Mechanical Engineering graduate from Univeristy of Toronto, and **I am currently looking for a job!**
 
-I am passionate about developing sustainable, safe and innovative project and am eager to join a dynamic team and a company that understands the contribution its employees have on its success. I desire a role as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (though only if it is both legally permitted and if the appropriate saftey measures are taken).
+**I am passionate about** developing sustainable, safe and innovative project and am eager to join a dynamic team and a company that understands the contribution its employees have on its success. 
+
+**I am seekin a position** as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (though only if it is both legally permitted and if the appropriate saftey measures are taken).
 
 **At U of T**, I specialized in Solid Mechanics and machine design and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
 
