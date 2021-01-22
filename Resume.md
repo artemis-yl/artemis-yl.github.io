@@ -15,7 +15,7 @@ sidebar_sort_order: 2
 <p>&nbsp;</p> 
 
 ## Here's a Copy of My Resume <a name="1"></a>
-[View/download](/docs/YulimLee-1pgResume.pdf) or
+[View/download](/docs/YulimLee%20-%20Mechanical%20Engineer%20-%20Resume.pdf) or
 
 {::options parse_block_html="true" /} 
 
