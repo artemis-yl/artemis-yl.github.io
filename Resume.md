@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 
 **Last Updated - June 6th, 2020**
 
-1. [Standard One Page Resume](#1)
+1. [My Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
    1. [Further Education](#3a)
