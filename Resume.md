@@ -23,7 +23,8 @@ sidebar_sort_order: 2
   
   <summary markdown="span">Click to see my One Page Resume</summary>
   
-  ![pg1](/docs/ResumePg1.PNG "Pg1 of my Resume"){:width="500"}  
+  ![pg1](/docs/ResumePg1_V2_20210122.png "Pg1 of my Resume"){:width="500"}  
+  ![pg1](/docs/ResumePg2_V2_20210122.png "Pg1 of my Resume"){:width="500"}  
       
 </details>
 
@@ -136,11 +137,8 @@ sidebar_sort_order: 2
 **Coursera - Online Learning**
 - [Computer Vision Basics by University of Buffalo and The State University of New York, 2020](https://coursera.org/share/d319b2a2fecfe4503b17efbe39298729)
 - [Design: Creation of Artifacts in Society by University of Pennsylvania, 2020](https://coursera.org/share/8dcf751db50f9883bd471d196668bd56)
-- **WIP, to be completed by September 2020**
-  - Six Sigma Green Belt Specialization by University System of Georgia
-  - Andriod App Development by Vanderbilt University
-  - Embedding Sensors and Motors by University of Colorado Boulder
-  - Power Electronics by University of Colorado Boulder
-  - Excel to MySQL: Analytic Techniques for Business by Duke University
+- [Six Sigma Green Belt Specialization by University System of Georgia](http://coursera.org/verify/specialization/SXKDGY9UU2HS)
+- [Andriod App Development by Vanderbilt University](https://www.coursera.org/account/accomplishments/specialization/certificate/FE2B3VR4VR6J)
+
 
 
