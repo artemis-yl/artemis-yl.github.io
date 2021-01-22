@@ -4,15 +4,14 @@ title: HOME
 ---
 
 # Hi, I'm Yulim
-I am a recent Mechanical Engineering graduate from Univeristy of Toronto. I minored in Robotics & Mechatronics, and also specialized in Solid Mechanics. I am also currently looking for a job in those specialties!
+I am a recent Mechanical Engineering graduate from Univeristy of Toronto, where I specialized in Solid Mechanics and machine design and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
 
-I have interned for a year with Isowater, creating CAD models and building chemical process systems.
+Interning for Isowater, I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a composite fabricator and machinist; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. As a result, I have skills ranging from CAD design and stress analysis to preparing technical documents and part/material selection.
+
+**I am currently looking for a job!** My skills and experiences suit a role as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I am alright with contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (of course, only if it is legally permitted and the appropriate saftey measures are taken).
 
 [comment]: # ( More details on what i was at iso?? )
 
-As a U of T student, I have worked with:
-- Blue Sky Solar Racing to fabricate the carbon fiber chassis and to machine structs.
-- Formula SAE to machine various parts.
 
 Checkout my [Portfolio](/CAD_Portfolio.md) to see the models and drawings I have made. 
 
@@ -30,9 +29,7 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 
 **I am currently:**
 - looking for a job
-- taking several Coursera Specializations:
-  - Six Sigma Green Belt
-  - Android App Development
+
   - Embedding Sensors and Motors
   - Power Electronics
   - Excel to MySQL: Analytic Techniques for Business
@@ -41,19 +38,18 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 **I have just completed:**
 - Computer Vision Basics via Coursera
   - I learned the basics of digital imagery, theory on the algoriythm, and how to manipulate images via MATLAB
+- Six Sigma Green Belt Certificate via Coursera
+  - I learned about the DMAIC design cycle, Kaisen, basic statistics, aspects of LEAN, and how to apply these to drive improvement and reduce errors.
+- Android App Development Certificate via Coursera
+  - I learned Java syntax and object oriented programming, the Android architecture and compoenents, and the basics of code quality assurance.
 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## Website Progress
-This website is currently still being built, but [About Me](/about.md), and [Portfolio](/CAD_Portfolio.md) are complete! At most I'll update them and go through minor editing/formatting. 
+This website is undergoing improvements. You may notice some pages are too long, or some basic formatting/spelling errors. 
 
-[Projects](category/projects.md) needs to be proof-read and edited!  
-
-Currently [Resume](/Resume.md) is being updated to provide a more detailed record of skills & abilities I posses and the education I taken.
-
-Next is Work Experience.
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
