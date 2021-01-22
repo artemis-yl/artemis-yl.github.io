@@ -4,11 +4,18 @@ title: HOME
 ---
 
 # Hi, I'm Yulim
-I am a recent Mechanical Engineering graduate from Univeristy of Toronto, where I specialized in Solid Mechanics and machine design and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
+I am a recent Mechanical Engineering graduate from Univeristy of Toronto, and **I am currently looking for a job!**
 
-Interning for Isowater, I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a composite fabricator and machinist; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. As a result, I have skills ranging from CAD design and stress analysis to preparing technical documents and part/material selection.
+I am passionate about developing sustainable, safe and innovative project and am eager to join a dynamic team and a company that understands the contribution its employees have on its success. I desire a role as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (though only if it is both legally permitted and if the appropriate saftey measures are taken).
 
-**I am currently looking for a job!** My skills and experiences suit a role as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I am alright with contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (of course, only if it is legally permitted and the appropriate saftey measures are taken).
+**At U of T**, I specialized in Solid Mechanics and machine design and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
+
+**As for skills and experience**, while interning for Isowater I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a composite fabricator and machinist; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. 
+
+As a result, I have skills ranging from CAD design and stress analysis to preparing technical documents and part/material selection.
+
+I am also capable of collaborating in multidisciplinary teams, working independently without supervision, delivering results on schedule in a demanding environment, adapting to set backs and new tasks, and getting along with a wide range of personalities and backgrounds. 
+ 
 
 [comment]: # ( More details on what i was at iso?? )
 
@@ -29,10 +36,8 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 
 **I am currently:**
 - looking for a job
-
-  - Embedding Sensors and Motors
-  - Power Electronics
-  - Excel to MySQL: Analytic Techniques for Business
+- Taking "Statistics with SAS" on Coursera
+- Taking various SolidWorks tutorials on LinkedIn Learning to learn FEA, piping, sheet metal, and other advance suites.
 
 
 **I have just completed:**
