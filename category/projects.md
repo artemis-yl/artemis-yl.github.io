@@ -4,15 +4,11 @@ title: Projects
 sidebar_sort_order: 1
 ---
 
-## Here are some of the projects I have done
-in reverse chronological order.
+## Here are some of the projects I have done in reverse chronological order.
 
-### Notes:
-These aren't all of the project I have worked on! 
+***Please Note*** that these aren't all of the project I have worked on, but those I have selected to present as part of my portfolio.
 
-Creating these pages and editing them is an ongoing project. 
-
-Currently all of the following are nearly complete - they only require final editting/formatting.
+Creating these pages and editing them is an ongoing project - Currently all of the following are nearly complete, and they only require final editting/formatting.
 
 [comment]: # (Posts will get auto linked w/ a date I can make. However, I cannot make a blurb under each link.)
 
