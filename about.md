@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 
 ## Hello again, my name is Yulim Lee. 
 
-I'm Canadian and currently live the GTA. My family moved here from Seoul, S. Korea when I was a baby and I have grown up and lived here ever since.
+I'm Canadian and currently live in the GTA. My family moved here from Seoul, S. Korea when I was a baby and I have grown up and lived here ever since.
 
 As already mentioned on the main page, I'm a recent Mechanical Engineering graduate from U of T and I'm currently looking for a job.
 
