@@ -10,7 +10,7 @@ sidebar_sort_order: 2
 1. [My Resume](#1)
 2. [Skills](#2)
 3. [Education](#3)
-   a. [Further Education](#3a)
+   i. [Further Education](#3a)
    
 <p>&nbsp;</p> 
 
