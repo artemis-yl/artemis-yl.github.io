@@ -6,7 +6,7 @@ sidebar_sort_order: 3
 ---
 
 ## 3D CAD Models and engineering drawings I have made.
-On this page I only show the images of what models I have made, with a few descriptions. 
+On this page I only show the images of what models I have made, with a few descriptions. Unfortunately I do not have any of the dozens models and drawings created during my time at Isowater - some examples are various piping assemblies, an accurate model of a standard shipping container, a layout of an outdoor lab with equipment, and the many part drawings.
 
 For more information on the projects themselves, please check out their respective projects.
 
