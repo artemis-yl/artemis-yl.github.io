@@ -4,21 +4,19 @@ title: HOME
 ---
 
 # Hi, I'm Yulim
-I am a recent Mechanical Engineering graduate from Univeristy of Toronto, and **I am currently looking for a job!**
+I am a responsible, professional and friendly entry-level Mechanical Engineer. I have experience in process engineering, solid mechanics and mechatronicsas well as  gained skills in testing/troubleshooting and hands-on fabrication. **I am currently looking for a job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
 
-**I am passionate about** developing sustainable, safe and innovative project and am eager to join a dynamic team and a company that values its employees and the impact they have on its success. 
+**More specifically, I am seeking a position** as a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site.
 
-**I am seeking a position** as a mechanical/process engineer, designer or technician, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site (though only if it is both legally permitted and if the appropriate saftey measures are taken).
+**During my undergraduate at University of Toronto**, I specialized in Solid Mechanics and Machine Design, and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
 
-**At U of T**, I specialized in Solid Mechanics and Machine Design, and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
+**As for skills and experience**, while interning for Isowater I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a carbon-fiber fabricator and machinist for the chassis; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. I recently also worked as a wheelchair technician where I specialed in customizing and repairing electric mobility devices.
 
-**As for skills and experience**, while interning for Isowater I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a carbon-fiber fabricator and machinist for the chassis; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. 
-
-As a result, I have skills ranging from CAD design and stress analysis to preparing technical documents and part/material selection.
+As a result, I have skills ranging from CAD design, preparing technical documents and selecting parts/materials, to researching new products, troubleshooting technical errors and communicating with a variety of professionals both internal and external to the company.
 
 I am also capable of collaborating in multidisciplinary teams, working independently without supervision, delivering results on schedule in a demanding environment, adapting to set backs and new tasks, and getting along with a wide range of personalities and backgrounds. 
 
-**In the future,** I plan on obtaining my P.Eng! I hope to become an expert in machine design, mastering software like SolidWorks, AutoCAD and ANSYS, and mastering stress analysis, dynamics & kinematics, quality assurance and material selection. I also hope to expand into mechatronics, and learn more skills related to sensors and motor, PLC and microprocessors, and programming. I am also considering an M. Eng. 
+**In the future,** I plan on obtaining my P.Eng! I hope to become an expert in machine design, mastering software like SolidWorks, AutoCAD and ANSYS, and mastering stress analysis, dynamics & kinematics, quality assurance and material selection. I also hope to expand into mechatronics and general programming, and learn more skills related to sensors and motors, PLCs and microprocessors. I am also considering an M. Eng. 
  
 
 [comment]: # ( More details on what i was at iso?? )
@@ -40,8 +38,8 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 
 **I am currently:**
 - looking for a job
-- Taking "Statistics with SAS" on Coursera
-- Taking various SolidWorks tutorials on LinkedIn Learning to learn FEA, piping, sheet metal, and other advance suites.
+- Taking various CAD and FEA tutorials/courses.
+- Expanding my programming skills in both robotics, IT and automation.
 
 
 **I have just completed:**
