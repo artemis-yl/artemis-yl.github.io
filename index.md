@@ -4,7 +4,9 @@ title: HOME
 ---
 
 # Hi, I'm Yulim
-I am a responsible, professional and friendly entry-level Mechanical Engineer. I have experience in process engineering, solid mechanics and mechatronicsas well as  gained skills in testing/troubleshooting and hands-on fabrication. **I am currently looking for a job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
+I am a responsible, professional and friendly entry-level Mechanical Engineer. I have experience in process engineering, solid mechanics and mechatronics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
+
+**I am currently looking for a job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
 
 **More specifically, I am seeking a position** as a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site.
 
