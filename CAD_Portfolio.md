@@ -63,7 +63,7 @@ Printed Assembled Case | Printed Lid | Printed Base
 
 ## Lap Joint Analysis <sub> Apr. 2017 </sub> <a name="3"></a>
 
-For project details, click [here.](https://96yrlee.github.io/projects/2017/04/07/LapJoint.html)
+For project details, click [here.](/_posts/2017-04-07-LapJoint.md)
 
 ### 3D Model with Dimension:
 ![img](/images/portfolio/LapJointModel.PNG "3D Soldiworks Model Lapjoint")
