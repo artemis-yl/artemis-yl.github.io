@@ -19,13 +19,17 @@ To see my work experience, please go that specific page [here](/category/workExp
 
 ## Here's a Copy of My Resume <a name="1"></a>
 
-[Click here to open my resume pdf in a new tab](/docs/YulimLee-MechanicalEngineer-Resume.pdf)
+**Or not - This resume here is currently out of date!** It does not include my most recent experience such as my time as a wheelchair and mobility device technician at 4 9Bespoke Inc. 
+
+Feel free to still view this resume, but please understand it was made around May, 2021.
+
+[Open my old resume pdf in a new tab](/docs/YulimLee-MechanicalEngineer-Resume.pdf)
 
 {::options parse_block_html="true" /} 
 
 <details>
   
-  <summary markdown="span"> Or click here to see my Resume on this page</summary>
+  <summary markdown="span"> Or click here to see my old resume on this page</summary>
   
   ![pg1](/docs/ResumePg1_V2_20210122.png "Pg1 of my Resume"){:width="500"}  
   ![pg1](/docs/ResumePg2_V2_20210122.png "Pg1 of my Resume"){:width="500"}  
