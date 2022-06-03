@@ -6,8 +6,8 @@ sidebar_sort_order: 2
 
 [comment]: # (EVENTUALLY REPLACE TABLE WITH FORMAT SIMILAR TO THAT OF PROJECTS. WITH ONLY 2 EXPERIENCES THAT IS NOT NESSESARY ATM)
 
-1. [Introduction](#49bespoke)
-2. [Some paragraph](#isowater)
+1. [Wheelchair and Electric Mobility Device Technician - 49 Bespoke Inc.](#49bespoke)
+2. [Mechanical Engineering Intern - Isowater Corp.](#isowater)
 
 ## Wheelchair and Electric Mobility Device Technician - 49 Bespoke Inc. <a name="49bespoke"></a>
 **Jun. 2021 to Feb. 2022**
