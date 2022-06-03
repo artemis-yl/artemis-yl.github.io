@@ -33,7 +33,7 @@ All of the following are in reverse chronological order (i.e. latest first)
 ## Airship Regulator Valve Concept <sub> Sept. 2018 - Apr. 2019 </sub> <a name="1"></a>
 For 4th year capstone project. I made all the parts and created the assembly, and rendered them.
 
-For details, visit [the project page](https://96yrlee.github.io/projects/2019/04/30/Capstone.html). 
+For details, visit [the project page](/_posts/2019-04-30-Capstone.md). 
 
 Fully Open, Isometric View | 45 Degree Open, Back View | Animation
 :------------: | :-------------: |:---------------:
