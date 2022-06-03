@@ -6,6 +6,8 @@ sidebar_sort_order: 2
 
 [comment]: # (EVENTUALLY REPLACE TABLE WITH FORMAT SIMILAR TO THAT OF PROJECTS. WITH ONLY 2 EXPERIENCES THAT IS NOT NESSESARY ATM)
 
+The table is listed in reverse chronological order - i.e. most recent first.
+
 1. [Wheelchair and Electric Mobility Device Technician - 49 Bespoke Inc.](#49bespoke)
 2. [Mechanical Engineering Intern - Isowater Corp.](#isowater)
 
