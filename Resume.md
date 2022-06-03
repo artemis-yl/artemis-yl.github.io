@@ -12,6 +12,9 @@ sidebar_sort_order: 2
 3. [Education](#3)
    1. [Further Education](#3a)
    
+To see my work experience, please go that specific page [here](/category/workExperience.md)! You can also find the Work Experience page on my sidebar.
+
+
 <p>&nbsp;</p> 
 
 ## Here's a Copy of My Resume <a name="1"></a>
@@ -40,16 +43,16 @@ sidebar_sort_order: 2
    - Inventor, Solidworks, AutoCAD
       - Surface Modeling, Sheet Metal, Simulation, Rendering & Animation
 - **Simulation & Modeling**
-   - ANSYS (FEA in Solid Structural), MATLAB & Simulink, Simio
+   - ANSYS (Mechanical Workbench), MATLAB & Simulink, Simio
 - **Manufacturing**
-   - Machining: Drill Press, Lathe, Mill, Cricle Grinder, Welding (Acetelyne)
+   - Machining: Drill Press, Lathe, Mill, Circle Grinder, basics of Welding
    - Power Tools: Dremel, Angle Grinder, Jig Saw, Screwdriver, etc
    - Creating, editing and reading Manufacturing Documentation
       - Basics of GD&T
       - PI&Ds and PFDs
-   - Hands-on Experience in creating Composite Laminates and Chemical Process/Piping Systems
-   - Knowledge in Processes such as:
-      - Plastic Injection Molding, Metal Casting Methods, 3D Printing, Layout of Automated Assembly Equipement
+   - Hands-on Experience in creating Composite Laminates (especially carbon fiber) and Chemical Process/Piping Systems
+   - Knowledge of Processes such as:
+      - Plastic Injection Molding, Metal Casting Methods, Stamping, 3D Printing, Layout of Automated Assembly Equipement
 - **Electrical**
    - Use of tools such as: Oscillascope, Multimeter
    - Soldering, wiring and circuit assembly experience
@@ -61,19 +64,29 @@ sidebar_sort_order: 2
    - C, C++, Pyhon, Java, MATLAB, Assembly, HTML & CSS
    - Git Bash
    - ROS (through C++ on TurtleBot2)
+- **General Computer Skills**
+   - Using search engine, verify information, and safely navigate the internet with regard to cybersecurity and privacy
+   - Building a custom desktop computer and how to select parts based on budget, planned usage, and specific needs
+   - Learning how to use new software/programs
+   - General troubleshooting for Windows and of any program  
    
 ### Interpersonal Skills & Abilities
    - Working individually, with little to no supervision
-   - Able to manufacture with written instructions
+   - Know how to figure things out on my own and when to ask for help
+   - Able to follow written instructions and follow up
    - Teamwork and collaboration skills: 
       - Experience working in multidisciplinary teams of 2-12 people
    - Communciation skills in written, verbal and visual forms
    - Working with suppliers, clients and contractors
    - Organizational: 
       - Setting and meeting multiple fixed and/or changing deadlines 
-      - Multitask on various different projects
+      - Multitasking on various different projects
+      - Handlings changes in schedule or set-backs
    - Mentoring and Leadership:
       - Mentored Jr. Mechanical Intern for few months
+      - Ensuring everyone get tasks they can handle with open support from the group
+      - Setting reminders and following-up on team members' contributions
+      - Organizing communications via emails, meetings or drop-ins
    
 ### Other Skills & Abilities
 - Adobe Photoshop, Illustrator, Premier, Acrobat
