@@ -31,7 +31,7 @@ Creating these pages and editing them is an ongoing project - Currently all of t
 ### [PID Controls: Motorized Pendulum](https://96yrlee.github.io/projects/2018/12/05/PIDpendulum.html) <sub> Sept - Dec 2018 </sub>
 > I cooperated on a team to create PIDs controls that would force a rotor-powered pendulum to always be at a set angle. Any displacement would be immediately corrected.
 
-### [Lap Joint: FEA and Design](/_posts/2017-04-07-LapJoint.md) <sub> Jan - Apr 2017 </sub>
+### [Lap Joint: FEA and Design](lyulim.github.io/_posts/2017-04-07-LapJoint.md) <sub> Jan - Apr 2017 </sub>
 > I worked with a partner to design a lap joint between an acrylic and aluminum sheet. We usd FEA on ANSYS and iterated design with Solidworks to reduce weight and determine the highest Ultimate Strength.
 
 ### [Heat Sink Testing](https://96yrlee.github.io/projects/2017/04/07/HeatSinks.html) <sub> Jan - Apr 2017 </sub>
