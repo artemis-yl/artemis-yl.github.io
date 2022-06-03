@@ -13,14 +13,14 @@ sidebar_sort_order: 2
 **Jun. 2021 to Feb. 2022**
 
 ### Maintenance, Customization and Repair
-*		Completed maintenance and repairs on wheelchairs and electric bike attachments, ensuring customers did not suffer difficulties in movement, comfort, or any other negative impacts on their quality of life.
-*		Modified wheelchairs and electric mobility devices to ensure each customer had a mobility device that best fit their everyday needs and were within their budgets.
-*		Researched and took notes from in-person seminars on installing and operating new electric mobility devices, and taught findings to other technicians and managers.
-*		Communicated with customers, external technicians and product support to determine how to solve issues with customer’s electric bikes in the most cost-efficient and timely manner.
+*	Completed maintenance and repairs on wheelchairs and electric bike attachments, ensuring customers did not suffer difficulties in movement, comfort, or any other negative impacts on their quality of life.
+*	Modified wheelchairs and electric mobility devices to ensure each customer had a mobility device that best fit their everyday needs and were within their budgets.
+*	Researched and took notes from in-person seminars on installing and operating new electric mobility devices, and taught findings to other technicians and managers.
+*	Communicated with customers, external technicians and product support to determine how to solve issues with customer’s electric bikes in the most cost-efficient and timely manner.
 
 ### General Shipping/Receiving, Document and Record Keeping
-*  Verified wheelchairs, electric mobility devices and related parts against order lists and checked for discrepancies with their drawings and product specifications.
-*  Handled backlog and out of stock items by discussing with clients and technicians on what items or modifications would be the best and most cost-efficient replacements.
+* Verified wheelchairs, electric mobility devices and related parts against order lists and checked for discrepancies with their drawings and product specifications.
+* Handled backlog and out of stock items by discussing with clients and technicians on what items or modifications would be the best and most cost-efficient replacements.
 
 ## Mechanical Engineering Intern - Isowater Corp. <a name="isowater"></a>
 **Sept. 2017 to Aug. 2018**
