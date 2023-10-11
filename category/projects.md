@@ -14,6 +14,9 @@ Creating these pages and editing them is an ongoing project - Currently all of t
 
 [comment]: # (I might convert to ```layout:page``` in order to do that and just link it manually.) 
 
+### [chrome-A for LibreGameFest GameJam](https://lyulim.github.io/projects/2023/09/29/chrome-a.html) <sub> Oct.- Nov. 2020 </sub>
+> I created a 2.5D exploration game with two other students at TMU within a week. It was a good taste to see how game creation worked.
+
 ### [Covid-19 Daily Stats Android App](https://lyulim.github.io/projects/2020/11/10/CovidApp.html) <sub> Oct.- Nov. 2020 </sub>
 > I created an android app that tells the day's Covid-19 statistics for any country or the world, using webservice api disease.sh to aggregate data from Jphn Hopkins University
 
