@@ -4,13 +4,17 @@ title: HOME
 ---
 
 # Hi, I'm Yulim
-I am a responsible, professional and friendly entry-level Mechanical Engineer. I have experience in process engineering, solid mechanics and mechatronics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
+I am currently a 2nd-year computer science student at Toronto Metropolitan University. This is my 2nd-degree, my 1st was in mechanical engineering at University of Toronto. I still love CAD work and product design, so with this additional background I hope to go into mechatronics and machine design.
 
-**I am currently looking for a job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
+I have experience in process engineering, solid mechanics and mechatronics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
 
-**More specifically, I am seeking a position** as a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site.
+**I am currently looking for a day job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
 
-**During my undergraduate at University of Toronto**, I specialized in Solid Mechanics and Machine Design, and gained a minor in Robotics & Mechatronics. For the past year I have been furthering my education through various online courses such as Six Sigma, Java programming, statistic with SAS and others.
+**More specifically, I am seeking a position** while I continue my studies. Ideally I will be able to use my skills in CAD and prototyping, but I would also love a position where I can use my growing coding and electronic skills. 
+
+[comment]: # ( s a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site. )
+
+**During my undergraduate at University of Toronto**, I specialized in Solid Mechanics and Machine Design, and gained a minor in Robotics & Mechatronics. Afterwards, I took various online courses such as Six Sigma, Java programming, statistic with SAS and others.
 
 **As for skills and experience**, while interning for Isowater I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a carbon-fiber fabricator and machinist for the chassis; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. I recently also worked as a wheelchair technician where I specialed in customizing and repairing electric mobility devices.
 
