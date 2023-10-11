@@ -1,0 +1,89 @@
+---
+layout: post
+title: "GameJam - Creating 2.5D Platformer Chrome-A"
+sub_title: "a"
+categories:
+  - Projects
+tags:
+- GameDesign
+- Programming
+last_modified_at: 2023-10-11
+---
+
+1. [Introduction](#1)
+2. [Brainstorming and the Design Process](#2)
+3. [chrome-A, the end result](#3)
+4. [Reflection](#4)
+
+    
+    
+## Introduction <a name="1"></a>
+This was for [LibreGameFest](https://itch.io/jam/libregamefest-2023), a GameJam hosted by Toronto Metropolitan University's Game Maker Union and Metropolitan Open Source Society. 
+It ran from September 22nd to the 29th, 2023. 
+
+
+I worked in a team of three, with Aimee and Serena, to create chrome-A, a 2.5D platformer within Godot Game Engine. 
+* (they have requested to only be credited by me with their first names, as they will showcase their work seperatedly.) *
+
+As a GameJam, the goal was to create a new game within a week, based off the theme of "Starting Fresh".
+
+
+I was the coder, the one who created and connected all of the "scenes"/assets within the Godot engine, as well as the transitions from menus to game and to the end. 
+I also assisted in the environment creation by creating the "floor", the puzzle obecjts, the textboxes, as well as the puzzle mechanic.
+
+Aimee was the concept artist and 2D artist. 
+She designed all of the background, title cards, logo and concept art. 
+Her work was also used as very rough textures.
+
+Serena was the 3D artist and animation artist. 
+She created all the of the models, including the player and its walk/idle animations, and the level's enviroment.
+
+
+<p>&nbsp;</p> 
+
+## Brainstorming and the Design Process <a name="2"></a>
+
+![img](/images/projects/chrome-A/brainstormingStartingFresh.jpg "The initial Brainstorm"){:width="600"}
+
+During our first two hours, we brainstormed out game storyline using the theme of Starting Fresh.
+Inspired by my favourite game Mabnogi and its Rebirth mechanic, I suggested that the player would have to undergo rebirth in order to take on new characteristics that would allow the Player to solve the puzzle to traverse the level.
+From there, my teammates made their own suggestions and ideas, such as having Exploration as key feature, an apocalyptic world as the background, until we came with our final storyline.
+
+* You, the player, are a robot who has suddenly woken up in a pile of trash, in a post-apocalyptic world of humanity. *
+* You should still be broken, but are now somehow powered by a magical flower. *
+* You now must explore the world, and solve various puzzles in order to renew each area. *
+* With this, you will transform this ruin of a world into greenery.*
+
+Other aspects of our concept were:
+- that each level would start greyscale, but when tranformed into the nature, renewed version it would become colorful.
+- ideally, the player robot would themselves become more covered in greenery as they renewed more areas.
+- if we could, create various areas and link them non-linearly, so that there are many potential "paths" to reach the end.
+- following that, hidden areas that are unlocked by seperate puzzles.
+
+Later on, I suggested the name **chrome-A**. 
+I thought it would be a good pun, based on the words chrome and chroma, since a key idea was to have the areas be greyscale and then colorful. 
+My teammates thought it quite good, and one of them loved the word chroma itself, so our nameless project was now chrome-A
+
+
+## chrome-A, the end result <a name="3"></a>
+
+[Please have a go playing the game on itch.io](https://artemisyl.itch.io/chrome-a)
+
+[comment]: # ( https://docs.google.com/document/d/11p94HGvVMrtGJnBlE4-7jnZ_2klZ_HOIyMy73pJye-A/edit )
+[comment]: # ( https://docs.google.com/document/d/1fPsFOBVk9J_k5i0bj0PYX3kzWta-xdNT7pqmTRZ0BbE/edit )
+
+<p>&nbsp;</p> 
+
+## Reflection <a name="4"></a>
+
+
+
+<p>&nbsp;</p> 
+
+
+## Notes
+
+This page to be incomplete - more will be added, such as the reflection, screenshots of the game, and samples of the code.
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
