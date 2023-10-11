@@ -6,7 +6,7 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Yulim Lee
 tagline:          ?testing? # i have no idea where this pops up
-description:      Entry Level Mechanical Engineer - Currently Job Hunting
+description:      Entry Level Mechanical Engineer and Programmer - Currently Job Hunting
 
 paginate:         5
 
@@ -18,7 +18,7 @@ plugins:
 sidebar_home_link:  true  #this creates a HOME sidebar link that goes back to the main/home page aka Index
 
 #sidebar icon links. checkout _includes/custom_nav_bar_icons or something of that name 
-github_username: 96yrlee
+github_username: lyulim 
 linkedin_username: leeyulim
 
 
