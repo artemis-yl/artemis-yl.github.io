@@ -4,9 +4,9 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 
 # Setup
-title:            Yulim Lee
+title:            Artemis Lee
 tagline:          ?testing? # i have no idea where this pops up
-description:      Entry Level Mechanical Engineer and Programmer - Currently Job Hunting
+description:      Entry Level Mechanical Engineer and Programmer - Current Uni student and Job Hunting
 
 paginate:         5
 
