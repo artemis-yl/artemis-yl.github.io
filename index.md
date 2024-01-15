@@ -3,7 +3,7 @@ layout: index
 title: HOME
 ---
 
-# Hi, I'm Yulim
+# Hi, I'm Artemis
 I am currently a 2nd-year computer science student at Toronto Metropolitan University. This is my 2nd-degree, my 1st was in mechanical engineering at University of Toronto. I still love CAD work and product design, so with this additional background I hope to go into mechatronics and machine design.
 
 I have experience in process engineering, solid mechanics and mechatronics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
