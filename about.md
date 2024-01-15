@@ -5,9 +5,9 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-## Hello again, my name is Yulim Lee. 
+## Hello again, my name is Artemis Lee. 
 
-I'm a Korean-Canadian and currently live in the GTA. My family moved here when I was a baby, and I have lived here ever since.
+I'm a canadian computer science student currently live in the GTA.
 
 On a more personal level, I enjoy many art & crafts such as knitting and crochet, love to read books, and fancy myself a good cook and baker. I have fun playing video games with my friends and being with my family's 5 dogs. One of my personal goals is to improve my Korean and my German to fluency, as well as learn more cybersecurity and general IT for my own online privacy and security. I love to help out and advise my friends and coworkers, and enjoy hearing about their passions! 
 
