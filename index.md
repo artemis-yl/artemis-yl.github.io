@@ -6,9 +6,11 @@ title: HOME
 # Hi, I'm Artemis
 I am currently a 2nd-year computer science student at Toronto Metropolitan University. This is my 2nd-degree, my 1st was in mechanical engineering at University of Toronto. I still love CAD work and product design, so with this additional background I hope to go into mechatronics and machine design.
 
-I have experience in process engineering, solid mechanics and mechatronics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
+I have experience in robotics, process engineering, and solid mechanics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
 
 **I am currently looking for a day job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
+
+### Note: I am currently updating my portfolio website! In some ways, my LinkedIn is more up to date so please take a look there. You can also contact me there to ask me questions.
 
 **More specifically, I am seeking a position** while I continue my studies. Ideally I will be able to use my skills in CAD and prototyping, but I would also love a position where I can use my growing coding and electronic skills. 
 
@@ -22,7 +24,7 @@ As a result, I have skills ranging from CAD design, preparing technical document
 
 I am also capable of collaborating in multidisciplinary teams, working independently without supervision, delivering results on schedule in a demanding environment, adapting to set backs and new tasks, and getting along with a wide range of personalities and backgrounds. 
 
-**In the future,** I plan on obtaining my P.Eng! I hope to become an expert in machine design, mastering software like SolidWorks, AutoCAD and ANSYS, and mastering stress analysis, dynamics & kinematics, quality assurance and material selection. I also hope to expand into mechatronics and general programming, and learn more skills related to sensors and motors, PLCs and microprocessors. I am also considering an M. Eng. 
+**In the future,** I plan on obtaining my P.Eng! I hope to become an expert in mechatronics, mastering software like SolidWorks, AutoCAD and ANSYS, and my software engineering skills. I also hope to learn more about sensors and motors, PLCs and microprocessors. I am also considering an M. Eng. 
  
 
 [comment]: # ( More details on what i was at iso?? )
