@@ -12,6 +12,7 @@ I have experience in robotics, process engineering, and solid mechanics, and hav
 
 ### Note: I am currently updating my portfolio website! In some ways, my LinkedIn is more up to date so please take a look there. You can also contact me there to ask me questions.
 
+
 **More specifically, I am seeking a position** while I continue my studies. Ideally I will be able to use my skills in CAD and prototyping, but I would also love a position where I can use my growing coding and electronic skills. 
 
 [comment]: # ( s a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site. )
