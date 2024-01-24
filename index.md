@@ -10,7 +10,8 @@ I have experience in robotics, process engineering, and solid mechanics, and hav
 
 **I am currently looking for a day job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
 
-### Note: I am currently updating my portfolio website! In some ways, my LinkedIn is more up to date so please take a look there. You can also contact me there to ask me questions.
+### Note: I am currently updating my portfolio website! 
+In some ways, my LinkedIn is more up to date so please take a look there. You can also contact me there to ask me questions.
 
 
 **More specifically, I am seeking a position** while I continue my studies. Ideally I will be able to use my skills in CAD and prototyping, but I would also love a position where I can use my growing coding and electronic skills. 
