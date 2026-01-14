@@ -4,17 +4,16 @@ title: HOME
 ---
 
 # Hi, I'm Artemis
-I am currently a 2nd-year computer science student at Toronto Metropolitan University. This is my 2nd-degree, my 1st was in mechanical engineering at University of Toronto. I still love CAD work and product design, so with this additional background I hope to go into mechatronics and machine design.
+I am currently a 3rd-year computer science student at Toronto Metropolitan University. This is my 2nd-degree, my 1st was in mechanical engineering at University of Toronto. I still love CAD work and product design, so with this additional background I hope to go into mechatronics and machine design.
 
 I have experience in robotics, process engineering, and solid mechanics, and have gained skills in testing/troubleshooting and in various fabrication methods. 
 
 **I am currently looking for a day job where I can work with an dynamic team and be part of a company that values its employees and the impact they have on its success.**
 
 ### Note: I am currently updating my portfolio website! 
-In some ways, my LinkedIn is more up to date so please take a look there. You can also contact me there to ask me questions.
+Last updated August of 2025. I will be changing Jekyll themes and giving this portfolio a refresh as I take CCPS530 - Intro to Web Development.
 
 
-**More specifically, I am seeking a position** while I continue my studies. Ideally I will be able to use my skills in CAD and prototyping, but I would also love a position where I can use my growing coding and electronic skills. 
 
 [comment]: # ( s a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site. )
 
@@ -47,25 +46,18 @@ If you wish to contact me, please message me on [LinkedIn](https://www.linkedin.
 ## What am I Doing Right Now?
 
 **I am currently:**
-- looking for a job
-- Taking various CAD and FEA tutorials/courses.
-- Expanding my programming skills in both robotics, IT and automation.
+- looking for a co-op/internship for Summer 2026, ideally 8 months long but willing do do 4-16months.
 
 
 **I have just completed:**
-- Computer Vision Basics via Coursera
-  - I learned the basics of digital imagery, theory on the algoriythm, and how to manipulate images via MATLAB
-- Six Sigma Green Belt Certificate via Coursera
-  - I learned about the DMAIC design cycle, Kaisen, basic statistics, aspects of LEAN, and how to apply these to drive improvement and reduce errors.
-- Android App Development Certificate via Coursera
-  - I learned Java syntax and object oriented programming, the Android architecture and compoenents, and the basics of code quality assurance.
+TBUpdated : Jan 2026
 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## Website Progress
-This website is undergoing improvements. You may notice some pages are too long, or some basic formatting/spelling errors. 
+Minor updates to this page only : Jan 2026
 
 
 <p>&nbsp;</p> 
