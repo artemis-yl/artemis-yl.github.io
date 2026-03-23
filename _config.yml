@@ -18,8 +18,8 @@ plugins:
 sidebar_home_link:  true  #this creates a HOME sidebar link that goes back to the main/home page aka Index
 
 #sidebar icon links. checkout _includes/custom_nav_bar_icons or something of that name 
-github_username: lyulim 
-linkedin_username: leeyulim
+github_username: artemis-yl 
+linkedin_username: artemisylee
 
 
 
