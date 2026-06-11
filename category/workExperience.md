@@ -1,9 +1,9 @@
----
+[---]: # remove
+
 layout: category
 title: Work Experience
-sidebar_link: 	false
 sidebar_sort_order: 2
----
+[---]: # remove
 
 [comment]: # sidebar_sort_order: -1 (EVENTUALLY REPLACE TABLE WITH FORMAT SIMILAR TO THAT OF PROJECTS. WITH ONLY 2 EXPERIENCES THAT IS NOT NESSESARY ATM)
 
