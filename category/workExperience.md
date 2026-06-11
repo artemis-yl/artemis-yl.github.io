@@ -1,10 +1,11 @@
 ---
 layout: category
 title: Work Experience
-sidebar_sort_order: -1
+sidebar_link: 	false
+sidebar_sort_order: 2
 ---
 
-[comment]: # (EVENTUALLY REPLACE TABLE WITH FORMAT SIMILAR TO THAT OF PROJECTS. WITH ONLY 2 EXPERIENCES THAT IS NOT NESSESARY ATM)
+[comment]: # sidebar_sort_order: -1 (EVENTUALLY REPLACE TABLE WITH FORMAT SIMILAR TO THAT OF PROJECTS. WITH ONLY 2 EXPERIENCES THAT IS NOT NESSESARY ATM)
 
 The table is listed in reverse chronological order - i.e. most recent first.
 
