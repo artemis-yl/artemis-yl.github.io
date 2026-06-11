@@ -1,11 +1,26 @@
 ---
 layout: page
 title: About Me
-sidebar_link: true
+sidebar_link: false
 sidebar_sort_order: 1
 ---
 
 ## Hello again, my name is Artemis Lee. 
+
+[comment]: # ( s a mechanical/mechatronics/process engineer or designer, though I can also transition into quality, programming and consulting. I will accept contract and part-time positions, and am also willing to relocate, travel for work, and to work both remotely and on-site. )
+
+[comment]: # (**During my undergraduate at University of Toronto**, I specialized in Solid Mechanics and Machine Design, and gained a minor in Robotics & Mechatronics. Afterwards, I took various online courses such as Six Sigma, Java programming, statistic with SAS and others.)
+
+[comment]: # (**As for skills and experience**, while interning for Isowater I gained hands-on experience in the design, manufacturing and testing of process systems; For U of T's Blue Sky Solar Car team, I was a carbon-fiber fabricator and machinist for the chassis; And from various projects I have hands-on experience designing, calibrating and troubleshooting electronics, machines and code. I recently also worked as a wheelchair technician where I specialed in customizing and repairing electric mobility devices.)
+
+[comment]: # (As a result, I have skills ranging from CAD design, preparing technical documents and selecting parts/materials, to researching new products, troubleshooting technical errors and communicating with a variety of professionals both internal and external to the company.)
+
+[comment]: # (I am also capable of collaborating in multidisciplinary teams, working independently without supervision, delivering results on schedule in a demanding environment, adapting to set backs and new tasks, and getting along with a wide range of personalities and backgrounds. )
+
+[comment]: # (**In the future,** I plan on obtaining my P.Eng! I hope to become an expert in mechatronics, mastering software like SolidWorks, AutoCAD and ANSYS, and my software engineering skills. I also hope to learn more about sensors and motors, PLCs and microprocessors. I am also considering an M. Eng. )
+ 
+
+[comment]: # ( More details on what i was at iso?? )
 
 I'm a canadian computer science student currently live in the GTA.
 
