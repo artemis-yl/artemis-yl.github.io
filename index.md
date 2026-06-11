@@ -8,8 +8,6 @@ I am currently a 4th-year computer science student at Toronto Metropolitan Unive
 
 I have experience in robotics, building automation, process engineering, and solid mechanics, and have extensive troubleshooting experience and hands-on skills in various fabrication methods from machining to sensor integration. 
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
 
 ## What am I Doing Right Now?
 
@@ -21,10 +19,13 @@ I have experience in robotics, building automation, process engineering, and sol
 
 
 **I have just completed:**
+
 Winter 2026:
 - Introduction to Computer networking
 - Web Development I
 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
 
 ## What's on my website
 
